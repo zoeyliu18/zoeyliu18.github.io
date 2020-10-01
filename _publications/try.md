@@ -1,5 +1,5 @@
 ---
-title: "Frequency-dependent Regularization in Constituent Ordering Preferences"
+title: "Try"
 collection: Peer-Reviewed Proceeding Papers
 venue: 'In Proceedings of the 42nd Annual Conference of the Cognitive Science Society'
 date: 2020
