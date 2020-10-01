@@ -1,6 +1,6 @@
 
 ---
-title: "Frequency-dependent Regularization in Constituent Ordering Preferences"
+title: "test"
 collection: publications
 permalink: /publications/try
 venue: "Proceedings of the 42nd Annual Conference of the Cognitive Science Society"
