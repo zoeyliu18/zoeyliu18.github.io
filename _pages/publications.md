@@ -53,7 +53,7 @@ Peer-Reviewed Extended Abstracts
 2019.
 <i>In Proceedings of the Society for Computation in Linguistics (SCiL) 2019.</i>. 
 
-<b>[Dependency length minimization and lexical frequency in prepo-sitional  phrase  ordering  in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b>  (extended abstract) <br> 
+<b>[Dependency length minimization and lexical frequency in prepositional phrase ordering  in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b>  (extended abstract) <br> 
 <b>Zoey Liu</b>.
 2018.
 <i>In Proceedings of the Society for Computation in Linguistics (SCiL) 2018.</i>. 
