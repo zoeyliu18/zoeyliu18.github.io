@@ -24,7 +24,7 @@ Conference Presentations
 
 <br>
 <b>[The relationship between word order flexibility and dependency length minimiza-tion](https://osf.io/6vztu/)</b> <br> 
-<b>Zoey Liu</b>
+<b>Zoey Liu</b>.
 2020.
 Oral presentation at <i>The 53rd Annual Meeting of the Societas Linguistica Europaea</i>. 
 
