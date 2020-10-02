@@ -17,7 +17,7 @@ Besides academic responsibilities, I serve as the Linguistic Partner for [Breath
 
 My non-research interests are music, food, and simple methods, and in that order too.
 
-
+<br>
 
 Brief Bio
 ======
