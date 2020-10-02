@@ -25,7 +25,7 @@ Brief Bio
 Fall 2020 -
 ------
 
-Starting late Fall 2020, I will be working as a postdoctoral fellow with [Emily Tucker Prud'hommeaux](http://cs.bc.edu/~prudhome/publications.html) in the Department of Computer Science at Boston College, where I'll be splitting time between endangered language documentation and pragmatic analysis of language development in children with autism spectrum disorder. The former will be focusing on developing and applying natural language generation technologies to the Iroquoian language family, most of which have very few or no living native/fluent speakers whose communities are currently engaged in efforts to reclaim their heritage languages.
+Starting late Fall 2020, I will be working as a postdoctoral fellow with [Emily Tucker Prud'hommeaux](http://cs.bc.edu/~prudhome/publications.html) in the Department of Computer Science at Boston College, splitting time between endangered language documentation and pragmatic analysis of language development in children with autism spectrum disorder. For the former, I plan to focus on developing language generation technologies for the Iroquoian language family, most of which have very few or no living native/fluent speakers whose communities are currently engaged in efforts to reclaim their heritage languages. And I plan to adapt methods developed in the former to the latter, another true low-resource setting.
 
 
 2014 - Summer 2020
