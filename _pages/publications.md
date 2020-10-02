@@ -5,10 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+Journal Articles
+======
+
 <br>
 <b>[Mixed Evidence for Crosslinguistic Dependency Length Minimization](https://www.researchgate.net/publication/343333134_Mixed_Evidence_for_Crosslinguistic_Dependency_Length_Minimization)</b> (in press) <br> 
 <b>Zoey Liu</b>.
 <i>STUF-Language Typology and Universals.</i>. 
+
+<b>[Apparent-talker height is influenced by Mandarin lexicaltone](https://asa.scitation.org/doi/10.1121/1.5022156)</b> <br> 
+Santiago Barreda and <b>Zoey Liu</b>.
+2018.
+<i>The Journal of the Acoustical Society of America, EL.</i>. 
 
 <b>[A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information Expression](https://2020.emnlp.org)</b> <br> 
 Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li.
@@ -29,11 +37,6 @@ Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li.
 <b>Zoey Liu</b>.
 2019.
 <i>In Proceedings of the Society for Computation in Linguistics (SCiL) 2019.</i>. 
-
-<b>[Apparent-talker height is influenced by Mandarin lexicaltone](https://asa.scitation.org/doi/10.1121/1.5022156)</b> <br> 
-Santiago Barreda and <b>Zoey Liu</b>.
-2018.
-<i>The Journal of the Acoustical Society of America, EL.</i>. 
 
 <b>[Syntactic Annotation of a Hupa Text Corpus](https://nas.ucdavis.edu/sites/g/files/dgvnsk7031/files/files/person/Spence%20et%20al.%20DLC%202017%20paper-final.pdf)</b> <br> 
 Justin Spence, <b>Zoey Liu</b>, Kayla Palakurthy, and Tyler Lee-Wynant.
