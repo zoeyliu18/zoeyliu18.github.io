@@ -55,7 +55,7 @@ Oral presentation at <i>SyntaxFest</i>.
 <b>[Quantifying  Structural  and  Lexical  Constraints  in  PP  Ordering  Typology](https://scholarworks.umass.edu/scil/vol2/iss1/33/)</b> <br> 
 <b>Zoey Liu</b>.
 2019.
-Poster presentation at <i>The Society for Computation in Linguistics (SCiL) 2019.</i>. 
+Poster presentation at <i>The Society for Computation in Linguistics (SCiL).</i>.
 
 <b>The  effect  of  linguistic  experience  on  the  perception  of talker height from speech</b> <br> 
 Satiago Barreda and <b>Zoey Liu</b>.
@@ -65,7 +65,7 @@ Poster presentation at <i>The 93rd Annual Meeting of the Linguistic Societyof Am
 <b>[Dependency length minimization and lexical frequency in prepositional phrase ordering in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b> <br> 
 <b>Zoey Liu</b>.
 2018.
-Oral presentation at <i>The Society for Computation in Linguistics (SCiL) 2018.</i>. 
+Oral presentation at <i>The Society for Computation in Linguistics (SCiL).</i>
 
 <b>[Syntactic Annotation of a Hupa Text Corpus](https://nas.ucdavis.edu/sites/g/files/dgvnsk7031/files/files/person/Spence%20et%20al.%20DLC%202017%20paper
 final.pdf)</b> <br> 
