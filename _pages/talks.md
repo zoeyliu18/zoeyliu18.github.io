@@ -25,12 +25,12 @@ Conference Presentations
 <b>[The relationship between word order flexibility and dependency length minimiza-tion](https://osf.io/6vztu/)</b> <br> 
 <b>Zoey Liu</b>
 2020.
-Oral presentation at <i>The 53rd Annual Meeting of the Societas Linguistica Europaea, Bucharest</i>. 
+Oral presentation at <i>The 53rd Annual Meeting of the Societas Linguistica Europaea</i>. 
 
 <b>[Frequency-dependent Regularization in Constituent Ordering Preferences](https://cognitivesciencesociety.org/cogsci20/papers/0751/0751.pdf)</b> <br> 
 <b>Zoey Liu</b> and Emily Morgan.
 2020.
-Poster presentation at <i>The 42nd Annual Conference of the Cognitive Science Society, Toronto</i>. 
+Poster presentation at <i>The 42nd Annual Conference of the Cognitive Science Society</i>. 
 
 <b>[Crosslinguistic extent of dependency length minimization](https://osf.io/v9cxu/)</b> <br> 
 <b>Zoey Liu</b>.
