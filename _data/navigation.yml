@@ -1,11 +1,11 @@
 # main links links
 main:
- - title: "Publications & Extended Abstracts"
+  - title: "Publications"
     url: /publications/
 
-  - title: "Presentations"
+  - title: "Presentations & Talks"
     url: /talks/
-  
+
   - title: "Teaching"
     url: /teaching/    
     
