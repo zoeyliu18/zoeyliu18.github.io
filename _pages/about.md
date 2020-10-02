@@ -16,7 +16,7 @@ My research interests lie in crosslinguistic variation. My work tries to better 
 My non-research interests are music, food, and simple methods, and in that order too.
 
 
-Bio
+Brief Bio
 ======
 
 Fall 2020 -
@@ -28,3 +28,8 @@ Starting late Fall 2020, I will be working as a postdoctoral fellow with [Emily 
 ------
 
 During this time, I got a PhD. My dissertation project focuses on crosslinguistic modeling of word order preferences, adopting a data-driven approach to investigate what abstract constraints as well as idiosyncrasies govern language users' structural choices from both synchronic and diachronic perspectives. Additionally, this project also tries to adapt theoretical framework of dependency syntax to develop a dependency treebank for Hupa, an endangered Dene language of northwestern California traditionally spoken in Hoopa Valley on the lower Trinity River in present-day Humboldt County, as a way to formalize and model the syntax of indigenous languages.
+
+Summer 2019 
+------
+
+During this time, I interned as a software developer at the Cognitive Computing Lab at [Baidu](http://research.baidu.com/Index). I worked on designing knowledge represetations for English and Mandarin Chinese to facilitate open information extraction.
