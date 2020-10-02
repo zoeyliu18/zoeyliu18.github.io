@@ -5,30 +5,21 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
-Hello! I'm a PhD graduate from the Department of Linguistics at University of California, Davis, advised by [Kenji Sagae](http://www.sagae.org). 
-
-My research interests lie in crosslinguistic variation. My work tries to better understand what people say, why they would say that and when they would say that. I address these questions from the angle of language typology, documentation of endangered languages, and language development, with a non-western mind. The general methodology that I take upon is a data-driven approach coupled with [The #BenderRule](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/) and methods of number counting at varying degrees of complication. 
-
-Besides academic responsibilities, I serve as the Linguistic Partner for [Breath of Life](https://aicls.org/breath-of-life-institute/), a biennial conference organized by [Advocates for Indigenous California Language Survival](https://aicls.org). 
-
-My non-research interests are music, food, and simple methods, and in that order too.
-
-
-Brief Bio
+University of California, Davis
 ======
 
-Fall 2020 -
+Instructor
 ------
 
-Starting late Fall 2020, I will be working as a postdoctoral fellow with [Emily Tucker Prud'hommeaux](http://cs.bc.edu/~prudhome/publications.html) in the Department of Computer Science at Boston College, where I'll be splitting time between endangered language documentation and pragmatic analysis of language development in children with autism spectrum disorder. The former will be focusing on developing and applying natural language generation technologies to the Iroquoian language family, most of which have very few or no living native/fluent speakers whose communities are currently engaged in efforts to reclaim their heritage languages.
+LIN 001 Introduction to Linguistics (Winter 2019, Summer 2018).
 
-2014 - Summer 2020
+ESL (Summer 2016).
+
+
+Teaching Assistant
 ------
 
-During this time, I got an MA and a PhD. My [dissertation project](http://zoeyliu18.github.io/files/Zoey_Dissertation.pdf) focuses on crosslinguistic modeling of word order preferences, adopting a data-driven approach to investigate what abstract constraints as well as idiosyncrasies govern language users' structural choices from both synchronic and diachronic perspectives. Additionally, this project also tries to adapt theoretical framework of dependency syntax to develop a dependency treebank for Hupa, an endangered Dene language of northwestern California traditionally spoken in Hoopa Valley on the lower Trinity River in present-day Humboldt County, as a way to formalize and model the syntax of indigenous languages.
-
-Summer 2019 
-------
-
-During this time, I interned as a software developer at the Cognitive Computing Lab at [Baidu](http://research.baidu.com/Index). I worked on designing knowledge represetations for English and Mandarin Chinese to facilitate open information extraction.
+LIN 177 Computational  Linguistics  (Winter  2020,  Fall  2019,  Fall  2018,  Spring  2018,  Winter  2018,  Spring2017)
+LIN 127 Corpus Linguistcs & Text Analysis (Winter 2017)
+LIN 103B Linguistic Analysis I (Fall 2016).
+LIN 001 Introduction to Linguistics (Spring 2020, Spring 2019, Summer 2017, Spring 2016, Winter 2016, Fall2015, Spring 2015, Winter 2015)
