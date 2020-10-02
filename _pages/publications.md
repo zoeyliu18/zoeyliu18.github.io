@@ -5,12 +5,42 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<br>
+<b>[Mixed Evidence for Crosslinguistic Dependency Length Minimization](http://zoeyliu18.github.io/files/crosslinguistic_dlm.pdf)</b> (in press) <br> 
+<b>Zoey Liu</b>.
+<i>STUF-Language Typology and Universals.</i>. 
 
-{% include base_path %}
+<b>[A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information Expression](https://2020.emnlp.org)</b> <br> 
+Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li.
+2020.
+<i>In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>. 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[Frequency-dependent Regularization in Constituent Ordering Preferences](https://cognitivesciencesociety.org/cogsci20/papers/0751/0751.pdf)</b> <br> 
+<b>Zoey Liu</b> and Emily Morgan
+2020.
+<i>In Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</i>. 
+
+<b>[A  Comparative  Corpus  Analysis  of  PP  Ordering  in  English  and  Chinese](https://www.aclweb.org/anthology/W19-7905/)</b> <br> 
+<b>Zoey Liu</b>
+2019.
+<i>In Proceedings of the First Workshop on Quantitative Syntax (Quasy, SyntaxFest 2019).</i>. 
+
+<b>[Quantifying  Structural  and  Lexical  Constraints  in  PP  Ordering  Typology](https://scholarworks.umass.edu/scil/vol2/iss1/33/)</b> (extended abstract) <br> 
+<b>Zoey Liu</b>
+2019.
+<i>In Proceedings of the Society for Computation in Linguistics (SCiL) 2019.</i>. 
+
+<b>[Apparent-talker height is influenced by Mandarin lexicaltone](https://asa.scitation.org/doi/10.1121/1.5022156)</b> <br> 
+Santiago Barreda and <b>Zoey Liu</b>.
+2018.
+<i>The Journal of the Acoustical Society of America, EL.</i>. 
+
+<b>[Syntactic Annotation of a Hupa Text Corpus](https://nas.ucdavis.edu/sites/g/files/dgvnsk7031/files/files/person/Spence%20et%20al.%20DLC%202017%20paper-final.pdf)</b> <br> 
+Justin Spence, <b>Zoey Liu</b>, Kayla Palakurthy, and Tyler Lee-Wynant.
+2018.
+<i>In Proceedings of Working Papers in Athabaskan Languages: Alaska Native Language Center Working Papers.</i>. 
+
+<b>[Dependency length minimization and lexical frequency in prepo-sitional  phrase  ordering  in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b>  (extended abstract) <br> 
+<b>Zoey Liu</b>
+2018.
+<i>In Proceedings of the Society for Computation in Linguistics (SCiL) 2018.</i>. 
