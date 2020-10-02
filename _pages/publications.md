@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <br>
-<b>[Mixed Evidence for Crosslinguistic Dependency Length Minimization](/files/crosslinguistic_dlm.pdf)</b> (in press) <br> 
+<b>[Mixed Evidence for Crosslinguistic Dependency Length Minimization](https://www.researchgate.net/publication/343333134_Mixed_Evidence_for_Crosslinguistic_Dependency_Length_Minimization)</b> (in press) <br> 
 <b>Zoey Liu</b>.
 <i>STUF-Language Typology and Universals.</i>. 
 
