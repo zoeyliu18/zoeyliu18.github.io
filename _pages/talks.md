@@ -9,13 +9,13 @@ Invited Presentations
 ======
 
 <br>
-<b>Data-driven Crosslinguistic Modeling of Constituent Ordering Preferences</b><br> 
+<b>Data-driven Crosslinguistic Modeling of Constituent Ordering Preferences</b> <br> 
 <b>Zoey Liu</b>.
 <i>Ted-Lab, Department of Brain and Cognitive Sciences, MIT, October 6th, 2020.</i>. 
 
 <b>Frequency-dependent Regularization in Constituent Ordering Preferences</b> <br> 
 <b>Zoey Liu</b>.
-<i> NERT,Department of Linguistics, Georgetown University, March 31st, 2020.</i>. 
+<i> NERT, Department of Linguistics, Georgetown University, March 31st, 2020.</i>. 
 
 
 Conference Presentations
