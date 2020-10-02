@@ -1,46 +1,34 @@
 ---
-layout: archive
+permalink: /
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-<br>
-<b>[Mixed Evidence for Crosslinguistic Dependency Length Minimization](/files/crosslinguistic_dlm.pdf)</b> (in press) <br> 
-<b>Zoey Liu</b>.
-<i>STUF-Language Typology and Universals.</i>. 
 
-<b>[A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information Expression](https://2020.emnlp.org)</b> <br> 
-Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li.
-2020.
-<i>In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>. 
+Hello! I'm a PhD graduate from the Department of Linguistics at University of California, Davis, advised by [Kenji Sagae](http://www.sagae.org). 
 
-<b>[Frequency-dependent Regularization in Constituent Ordering Preferences](https://cognitivesciencesociety.org/cogsci20/papers/0751/0751.pdf)</b> <br> 
-<b>Zoey Liu</b> and Emily Morgan.
-2020.
-<i>In Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</i>. 
+My research interests lie in crosslinguistic variation. My work tries to better understand what people say, why they would say that and when they would say that. I address these questions from the angle of language typology, documentation of endangered languages, and language development, with a non-western mind. The general methodology that I take upon is a data-driven approach coupled with [The #BenderRule](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/) and methods of number counting at varying degrees of complication. 
 
-<b>[A  Comparative  Corpus  Analysis  of  PP  Ordering  in  English  and  Chinese](https://www.aclweb.org/anthology/W19-7905/)</b> <br> 
-<b>Zoey Liu</b>.
-2019.
-<i>In Proceedings of the First Workshop on Quantitative Syntax (Quasy, SyntaxFest 2019).</i>. 
+Besides academic responsibilities, I serve as the Linguistic Partner for [Breath of Life](https://aicls.org/breath-of-life-institute/), a biennial conference organized by [Advocates for Indigenous California Language Survival](https://aicls.org). 
 
-<b>[Quantifying  Structural  and  Lexical  Constraints  in  PP  Ordering  Typology](https://scholarworks.umass.edu/scil/vol2/iss1/33/)</b> (extended abstract) <br> 
-<b>Zoey Liu</b>.
-2019.
-<i>In Proceedings of the Society for Computation in Linguistics (SCiL) 2019.</i>. 
+My non-research interests are music, food, and simple methods, and in that order too.
 
-<b>[Apparent-talker height is influenced by Mandarin lexicaltone](https://asa.scitation.org/doi/10.1121/1.5022156)</b> <br> 
-Santiago Barreda and <b>Zoey Liu</b>.
-2018.
-<i>The Journal of the Acoustical Society of America, EL.</i>. 
 
-<b>[Syntactic Annotation of a Hupa Text Corpus](https://nas.ucdavis.edu/sites/g/files/dgvnsk7031/files/files/person/Spence%20et%20al.%20DLC%202017%20paper-final.pdf)</b> <br> 
-Justin Spence, <b>Zoey Liu</b>, Kayla Palakurthy, and Tyler Lee-Wynant.
-2018.
-<i>In Proceedings of Working Papers in Athabaskan Languages: Alaska Native Language Center Working Papers.</i>. 
+Brief Bio
+======
 
-<b>[Dependency length minimization and lexical frequency in prepo-sitional  phrase  ordering  in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b>  (extended abstract) <br> 
-<b>Zoey Liu</b>.
-2018.
-<i>In Proceedings of the Society for Computation in Linguistics (SCiL) 2018.</i>. 
+Fall 2020 -
+------
+
+Starting late Fall 2020, I will be working as a postdoctoral fellow with [Emily Tucker Prud'hommeaux](http://cs.bc.edu/~prudhome/publications.html) in the Department of Computer Science at Boston College, where I'll be splitting time between endangered language documentation and pragmatic analysis of language development in children with autism spectrum disorder. The former will be focusing on developing and applying natural language generation technologies to the Iroquoian language family, most of which have very few or no living native/fluent speakers whose communities are currently engaged in efforts to reclaim their heritage languages.
+
+2016 - Summer 2020
+------
+
+During this time, I got a PhD. My [dissertation project](http://zoeyliu18.github.io/files/Zoey_Dissertation.pdf) focuses on crosslinguistic modeling of word order preferences, adopting a data-driven approach to investigate what abstract constraints as well as idiosyncrasies govern language users' structural choices from both synchronic and diachronic perspectives. Additionally, this project also tries to adapt theoretical framework of dependency syntax to develop a dependency treebank for Hupa, an endangered Dene language of northwestern California traditionally spoken in Hoopa Valley on the lower Trinity River in present-day Humboldt County, as a way to formalize and model the syntax of indigenous languages.
+
+Summer 2019 
+------
+
+During this time, I interned as a software developer at the Cognitive Computing Lab at [Baidu](http://research.baidu.com/Index). I worked on designing knowledge represetations for English and Mandarin Chinese to facilitate open information extraction.
