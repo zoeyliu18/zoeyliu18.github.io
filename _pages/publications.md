@@ -18,6 +18,9 @@ Santiago Barreda and <b>Zoey Liu</b>.
 2018.
 <i>The Journal of the Acoustical Society of America, EL.</i>. 
 
+Peer-Reviewed Conference Papers
+======
+
 <b>[A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information Expression](https://2020.emnlp.org)</b> <br> 
 Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li.
 2020.
@@ -33,15 +36,18 @@ Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li.
 2019.
 <i>In Proceedings of the First Workshop on Quantitative Syntax (Quasy, SyntaxFest 2019).</i>. 
 
-<b>[Quantifying  Structural  and  Lexical  Constraints  in  PP  Ordering  Typology](https://scholarworks.umass.edu/scil/vol2/iss1/33/)</b> (extended abstract) <br> 
-<b>Zoey Liu</b>.
-2019.
-<i>In Proceedings of the Society for Computation in Linguistics (SCiL) 2019.</i>. 
-
 <b>[Syntactic Annotation of a Hupa Text Corpus](https://nas.ucdavis.edu/sites/g/files/dgvnsk7031/files/files/person/Spence%20et%20al.%20DLC%202017%20paper-final.pdf)</b> <br> 
 Justin Spence, <b>Zoey Liu</b>, Kayla Palakurthy, and Tyler Lee-Wynant.
 2018.
 <i>In Proceedings of Working Papers in Athabaskan Languages: Alaska Native Language Center Working Papers.</i>. 
+
+Peer-Reviewed Extended Abstracts
+======
+
+<b>[Quantifying  Structural  and  Lexical  Constraints  in  PP  Ordering  Typology](https://scholarworks.umass.edu/scil/vol2/iss1/33/)</b> (extended abstract) <br> 
+<b>Zoey Liu</b>.
+2019.
+<i>In Proceedings of the Society for Computation in Linguistics (SCiL) 2019.</i>. 
 
 <b>[Dependency length minimization and lexical frequency in prepo-sitional  phrase  ordering  in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b>  (extended abstract) <br> 
 <b>Zoey Liu</b>.
