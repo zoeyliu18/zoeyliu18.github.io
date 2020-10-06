@@ -11,7 +11,7 @@ Invited Presentations
 <br>
 <b>Data-driven Crosslinguistic Modeling of Constituent Ordering Preferences</b> <br> 
 <b>Zoey Liu</b>.
-<i>Ted-Lab, Department of Brain and Cognitive Sciences, MIT, October 6th, 2020.</i>. 
+<i>TedLab, Department of Brain and Cognitive Sciences, MIT, October 6th, 2020.</i>. 
 
 <b>Frequency-dependent Regularization in Constituent Ordering Preferences</b> <br> 
 <b>Zoey Liu</b>.
@@ -46,7 +46,7 @@ Poster presentation at <i>The 33rd Annual CUNY Human Sentence Processing Confere
 <b>[Frequency-dependent  regularization in abstract syntacticstructures](https://osf.io/6ry9g/?show=view)</b> <br> 
 <b>Zoey Liu</b> and Emily Morgan.
 2020.
-Poster presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>. 
+Oral presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>. 
 
 <b>[A  Comparative  Corpus  Analysis  of  PP  Ordering  in  English  and  Chinese](https://www.aclweb.org/anthology/W19-7905/)</b> <br> 
 <b>Zoey Liu</b>.
