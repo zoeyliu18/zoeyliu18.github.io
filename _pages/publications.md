@@ -31,7 +31,7 @@ Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li.
 2020.
 <i>In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>. 
 
-<b>[Frequency-dependent Regularization in Constituent Ordering Preferences](https://www.researchgate.net/profile/Zoey_Liu2/publication/341712949_Frequency-dependent_Regularization_in_Constituent_Ordering_Preferences/links/5ecffdb292851c9c5e65d021/Frequency-dependent-Regularization-in-Constituent-Ordering-Preferences.pdf)</b> <br> 
+<b>[Frequency-dependent Regularization in Constituent Ordering Preferences](https://cognitivesciencesociety.org/cogsci20/papers/0751/0751.pdf)</b> <br> 
 <b>Zoey Liu</b> and Emily Morgan.
 2020.
 <i>In Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</i>
