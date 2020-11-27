@@ -13,7 +13,7 @@ Hello! I'm a postdoctoral fellow in the Department of Computer Science at Boston
 
 My research interests lie in structural variation. My work tries to better understand what people say, why they would say that and when they would say that. I address these questions from the angle of language typology, documentation of endangered languages, and language development, along with a non-western mind. The general methodology that I take upon is a data-driven approach coupled with [The #BenderRule](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/) and methods of number counting at varying degrees of carbon dioxide consumption. 
 
-Besides academic responsibilities, I proudly serve as the Linguistic Partner for [Breath of Life](https://aicls.org/breath-of-life-institute/), a biennial institute organized by [Advocates for Indigenous California Language Survival](https://aicls.org). 
+Besides academic responsibilities, I proudly serve on the planning committee for [Advocates for Indigenous California Language Survival](https://aicls.org), and their biennial institute [Breath of Life](https://aicls.org/breath-of-life-institute/). 
 
 My non-research interests are music, food, and simple methods, and in that order too.
 
