@@ -26,6 +26,11 @@ Peer-Reviewed Conference Papers
 ======
 
 <br>
+<b>[Frequency-dependent Regularization in Constituent Ordering Preferences](https://cognitivesciencesociety.org/cogsci20/papers/0751/0751.pdf)</b> <br> 
+<b>Zoey Liu</b> and Emily Morgan.
+2020.
+<i>In Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</i>
+
 <b>[The Crosslinguistic Relationship between Ordering Flexibility and DependencyLength Minimization: A Data-Driven Approach.]</b> <br> 
 <b>Zoey Liu</b>.
 2021.
