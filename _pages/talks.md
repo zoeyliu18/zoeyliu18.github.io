@@ -23,7 +23,12 @@ Conference Presentations
 ======
 
 <br>
-<b>[The relationship between word order flexibility and dependency length minimiza-tion](https://osf.io/6vztu/)</b> <br> 
+<b>The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach.</b> <br> 
+<b>Zoey Liu</b>.
+2021.
+<i>In Proceedings of The Society for Computation in Linguistics (SCiL)</i>.
+
+<b>[The relationship between word order flexibility and dependency length minimization](https://osf.io/6vztu/)</b> <br> 
 <b>Zoey Liu</b>.
 2020.
 Oral presentation at <i>The 53rd Annual Meeting of the Societas Linguistica Europaea</i>. 
