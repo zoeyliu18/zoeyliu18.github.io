@@ -26,6 +26,11 @@ Peer-Reviewed Conference Papers
 ======
 
 <br>
+<b>The Crosslinguistic Relationship between Ordering Flexibility and DependencyLength Minimization: A Data-Driven Approach.</b> <br> 
+<b>Zoey Liu</b>.
+2021.
+<i>In Proceedings of The Society for Computation inLinguistics (SCiL)</i>.
+
 <b>[A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information Expression](https://2020.emnlp.org)</b> <br> 
 Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li.
 2020.
