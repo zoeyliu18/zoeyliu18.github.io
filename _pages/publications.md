@@ -26,15 +26,11 @@ Peer-Reviewed Conference Papers
 ======
 
 <br>
-<b>[Frequency-dependent Regularization in Constituent Ordering Preferences](https://cognitivesciencesociety.org/cogsci20/papers/0751/0751.pdf)</b> <br> 
-<b>Zoey Liu</b> and Emily Morgan.
-2020.
-<i>In Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</i>
 
-<b>[The Crosslinguistic Relationship between Ordering Flexibility and DependencyLength Minimization: A Data-Driven Approach.]</b> <br> 
+<b>The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach.</b> <br> 
 <b>Zoey Liu</b>.
 2021.
-<i>In Proceedings of The Society for Computation inLinguistics (SCiL)</i>.
+<i>In Proceedings of The Society for Computation in Linguistics (SCiL)</i>.
 
 <b>[A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information Expression](https://2020.emnlp.org)</b> <br> 
 Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li.
