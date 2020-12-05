@@ -25,10 +25,20 @@ Conference Presentations
 
 <br>
 
-<b>The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach.</b> <br> 
+<b>The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach</b> <br> 
 <b>Zoey Liu</b>.
 2021.
-<i>In Proceedings of The Society for Computation in Linguistics (SCiL)</i>.
+Presentation at <i>The Society for Computation in Linguistics (SCiL)</i>.
+
+<b>Frequency-dependent Regularization in Syntactic Constructions</b> <br> 
+<b>Zoey Liu</b> and Emily Morgan.
+2021.
+Presentation at <i>The Society for Computation in Linguistics (SCiL)</i>. 
+
+<b>A Data-driven Approach to Crosslinguistic Structural Biases</b> <br> 
+Alex Kramer and <b>Zoey Liu</b>.
+2021.
+Presentation at <i>The Society for Computation in Linguistics (SCiL)</i>. 
 
 <b>[The relationship between word order flexibility and dependency length minimization](https://osf.io/6vztu/)</b> <br> 
 <b>Zoey Liu</b>.
@@ -50,7 +60,7 @@ Poster presentation at <i>The 33rd Annual CUNY Human Sentence Processing Confere
 2020.
 Poster presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>. 
 
-<b>[Frequency-dependent  regularization in abstract syntacticstructures](https://osf.io/6ry9g/?show=view)</b> <br> 
+<b>[Frequency-dependent regularization in abstract syntacticstructures](https://osf.io/6ry9g/?show=view)</b> <br> 
 <b>Zoey Liu</b> and Emily Morgan.
 2020.
 Oral presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>. 
