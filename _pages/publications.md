@@ -9,13 +9,14 @@ Journal Articles
 ======
 
 <br>
+
 <b>[Mixed evidence for crosslinguistic dependency length minimization](https://www.degruyter.com/view/journals/stuf/73/4/article-p605.xml)</b><br> 
 <b>Zoey Liu</b>.
 2020.
 <i>STUF-Language Typology and Universals.</i> 
 [copy](https://www.researchgate.net/publication/343333134_Mixed_Evidence_for_Crosslinguistic_Dependency_Length_Minimization)
 
-<b>[Apparent-talker height is influenced by Mandarin lexicaltone](https://asa.scitation.org/doi/10.1121/1.5022156)</b> <br> 
+<b>[Apparent-talker height is influenced by Mandarin lexical tone](https://asa.scitation.org/doi/10.1121/1.5022156)</b> <br> 
 Santiago Barreda and <b>Zoey Liu</b>.
 2018.
 <i>The Journal of the Acoustical Society of America, EL.</i>
@@ -27,7 +28,7 @@ Peer-Reviewed Conference Papers
 
 <br>
 
-<b>The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach.</b> <br> 
+<b>The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach</b> <br> 
 <b>Zoey Liu</b>.
 2021.
 <i>In Proceedings of The Society for Computation in Linguistics (SCiL)</i>.
