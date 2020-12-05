@@ -26,7 +26,7 @@ Peer-Reviewed Conference Papers
 ======
 
 <br>
-<b>The Crosslinguistic Relationship between Ordering Flexibility and DependencyLength Minimization: A Data-Driven Approach.</b> <br> 
+<b>[The Crosslinguistic Relationship between Ordering Flexibility and DependencyLength Minimization: A Data-Driven Approach.]</b> <br> 
 <b>Zoey Liu</b>.
 2021.
 <i>In Proceedings of The Society for Computation inLinguistics (SCiL)</i>.
