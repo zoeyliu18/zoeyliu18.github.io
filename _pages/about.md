@@ -25,7 +25,7 @@ Brief Bio
 Fall 2020 -
 ------
 
-Starting working as a postdoc. I shift focus from analyzing large-scale corpora to low-resource settings, splitting time between endangered language documentation and language development. For the former, I focus on capturing structural variation via development of language generation technologies for the Iroquoian language family in order to help the communities with their own language reclamation. Most of the Iroquoian languages have very few or no living native/fluent speakers whose communities are currently engaged in efforts to reclaim their heritage languages. For the latter, I focus on capturing syntactic and pragmatic variation comparing children and adults with different neurodevelopmental conditions, using computational and experimental methods.
+Starting working as a postdoc, I shift focus from analyzing large-scale corpora to low-resource settings, splitting time between endangered language documentation and language development. For the former, I focus on capturing structural variation via development of language generation technologies for the Iroquoian language family in order to help the communities with their own language reclamation. Most of the Iroquoian languages have very few or no living native/fluent speakers whose communities are currently engaged in efforts to reclaim their heritage languages. For the latter, I focus on capturing syntactic and pragmatic variation comparing children and adults with different neurodevelopmental conditions, using computational and experimental methods.
 
 
 2014 - Summer 2020
