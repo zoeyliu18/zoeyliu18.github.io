@@ -8,8 +8,6 @@ author_profile: true
 Invited Presentations
 ======
 
-<br>
-
 <b>Data-driven Crosslinguistic Modeling of Constituent Ordering Preferences</b> <br> 
 <b>Zoey Liu</b>.
 <i>TedLab, Department of Brain and Cognitive Sciences, MIT, October 6th, 2020.</i>. 
@@ -23,22 +21,25 @@ Invited Presentations
 Conference Presentations
 ======
 
-<br>
+<b>A multifactorial approach to constituent orderings</b> <br> 
+<b>Zoey Liu</b>.
+2021.
+Oral presentation at <i>The 34th Annual CUNY Human Sentence Processing Conference</i>. 
 
 <b>The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach</b> <br> 
 <b>Zoey Liu</b>.
 2021.
-Presentation at <i>The Society for Computation in Linguistics (SCiL)</i>.
+Poster presentation at <i>The Society for Computation in Linguistics (SCiL)</i>.
 
 <b>Frequency-dependent Regularization in Syntactic Constructions</b> <br> 
 <b>Zoey Liu</b> and Emily Morgan.
 2021.
-Presentation at <i>The Society for Computation in Linguistics (SCiL)</i>. 
+Poster presentation at <i>The Society for Computation in Linguistics (SCiL)</i>. 
 
 <b>A Data-driven Approach to Crosslinguistic Structural Biases</b> <br> 
 Alex Kramer and <b>Zoey Liu</b>.
 2021.
-Presentation at <i>The Society for Computation in Linguistics (SCiL)</i>. 
+Poster presentation at <i>The Society for Computation in Linguistics (SCiL)</i>. 
 
 <b>[The relationship between word order flexibility and dependency length minimization](https://osf.io/6vztu/)</b> <br> 
 <b>Zoey Liu</b>.
