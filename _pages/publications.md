@@ -22,7 +22,6 @@ Alex Kramer and <b>Zoey Liu</b>.
 
 2020
 =====
-<br>
 
 <b>[Mixed evidence for crosslinguistic dependency length minimization](https://www.degruyter.com/view/journals/stuf/73/4/article-p605.xml)</b><br> 
 <b>Zoey Liu</b>.
@@ -56,7 +55,6 @@ Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li.
 
 2018
 =====
-<br>
 
 <b>[Apparent-talker height is influenced by Mandarin lexical tone](https://asa.scitation.org/doi/10.1121/1.5022156)</b> <br> 
 Santiago Barreda and <b>Zoey Liu</b>.
