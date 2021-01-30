@@ -48,7 +48,7 @@ Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li.
 2019.
 <i>In Proceedings of the First Workshop on Quantitative Syntax (Quasy, SyntaxFest 2019).</i>
 
-<b>[Quantifying  Structural  and  Lexical  Constraints  in  PP  Ordering  Typology](https://scholarworks.umass.edu/scil/vol2/iss1/33/)</b> (extended abstract) <br> 
+<b>[Quantifying  Structural  and  Lexical  Constraints  in  PP  Ordering  Typology](https://scholarworks.umass.edu/scil/vol2/iss1/33/)</b> <br> 
 <b>Zoey Liu</b>.
 2019.
 <i>In Proceedings of the Society for Computation in Linguistics (SCiL) 2019.</i>
@@ -66,7 +66,7 @@ Justin Spence, <b>Zoey Liu</b>, Kayla Palakurthy, and Tyler Lee-Wynant.
 2018.
 <i>In Proceedings of Working Papers in Athabaskan Languages: Alaska Native Language Center Working Papers.</i>
 
-<b>[Dependency length minimization and lexical frequency in prepositional phrase ordering  in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b>  (extended abstract) <br> 
+<b>[Dependency length minimization and lexical frequency in prepositional phrase ordering  in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b> <br> 
 <b>Zoey Liu</b>.
 2018.
 <i>In Proceedings of the Society for Computation in Linguistics (SCiL) 2018.</i>
