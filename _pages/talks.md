@@ -8,15 +8,17 @@ author_profile: true
 Invited Presentations
 ======
 
+<b>A Data-driven Approach to Structural Variation</b> <br> 
+<b>Zoey Liu</b>.
+<i>Department of Linguistics, UC Davis, 2021.</i>. 
+
 <b>Data-driven Crosslinguistic Modeling of Constituent Ordering Preferences</b> <br> 
 <b>Zoey Liu</b>.
-<i>TedLab, Department of Brain and Cognitive Sciences, MIT, October 6th, 2020.</i>. 
+<i>TedLab, Department of Brain and Cognitive Sciences, MIT, 2020.</i>. 
 
 <b>Frequency-dependent Regularization in Constituent Ordering Preferences</b> <br> 
 <b>Zoey Liu</b>.
-<i> NERT, Department of Linguistics, Georgetown University, March 31st, 2020.</i>. 
-
-<br>
+<i> NERT, Department of Linguistics, Georgetown University, 2020.</i>. 
 
 Conference Presentations
 ======
