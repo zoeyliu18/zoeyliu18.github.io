@@ -20,6 +20,7 @@ author_profile: true
 Alex Kramer and <b>Zoey Liu</b>.  
 <i>In Proceedings of The Society for Computation in Linguistics (SCiL)</i>.
 
+<br>
 2020
 =====
 
@@ -39,9 +40,9 @@ Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li.
 2020.
 <i>In Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</i>
 
+<br>
 2019
 =====
-<br>
 
 <b>[A  Comparative  Corpus  Analysis  of  PP  Ordering  in  English  and  Chinese](https://www.aclweb.org/anthology/W19-7905/)</b> <br> 
 <b>Zoey Liu</b>.
@@ -53,6 +54,7 @@ Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li.
 2019.
 <i>In Proceedings of the Society for Computation in Linguistics (SCiL)</i>.
 
+<br>
 2018
 =====
 
