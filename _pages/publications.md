@@ -42,6 +42,7 @@ Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li.
 <i>In Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</i>
 
 <br>
+
 2019
 =====
 
@@ -56,6 +57,7 @@ Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li.
 <i>In Proceedings of the Society for Computation in Linguistics (SCiL)</i>.
 
 <br>
+
 2018
 =====
 
