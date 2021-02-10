@@ -8,15 +8,15 @@ author_profile: true
 2021
 ======
 
-<b>The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach</b> <br> 
+<b>[The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach](https://scholarworks.umass.edu/scil/vol4/iss1/25)</b> <br> 
 <b>Zoey Liu</b>.
 <i>In Proceedings of The Society for Computation in Linguistics (SCiL)</i>.
 
-<b>Frequency-dependent Regularization in Syntactic Constructions</b> <br>
+<b>[Frequency-dependent Regularization in Syntactic Constructions](https://scholarworks.umass.edu/scil/vol4/iss1/42)</b> <br>
 <b>Zoey Liu</b> and Emily Morgan.  
 <i>In Proceedings of The Society for Computation in Linguistics (SCiL)</i>.
 
-<b>A Data-driven Approach to Crosslinguistic Structural Biases</b> <br>
+<b>[A Data-driven Approach to Crosslinguistic Structural Biases](https://scholarworks.umass.edu/scil/vol4/iss1/31)</b> <br>
 Alex Kramer and <b>Zoey Liu</b>.  
 <i>In Proceedings of The Society for Computation in Linguistics (SCiL)</i>.
 
