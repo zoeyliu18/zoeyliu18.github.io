@@ -9,7 +9,7 @@ author_profile: true
 ======
 
 <b>[The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach](https://scholarworks.umass.edu/scil/vol4/iss1/25)</b> <br> 
-<b>Zoey Liu</b>.
+<b>Zoey Liu</b>.<br>
 <i>In Proceedings of The Society for Computation in Linguistics (SCiL)</i>.
 
 <b>[Frequency-dependent Regularization in Syntactic Constructions](https://scholarworks.umass.edu/scil/vol4/iss1/42)</b> <br>
