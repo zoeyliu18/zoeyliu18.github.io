@@ -9,7 +9,7 @@ author_profile: true
 ======
 
 <b>Dependency Parsing Evaluation for Low-resource Spontaneous Speech</b><br>
-<b>Zoey Liu</b> and Emily Prud'hommeaux.
+<b>Zoey Liu</b> and Emily Prud'hommeaux.<br>
 <i>In Proceedings of The Second Workshop on Domain Adaptation for NLP</i>.
 
 <b>[The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach](https://scholarworks.umass.edu/scil/vol4/iss1/25)</b> <br> 
