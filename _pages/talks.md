@@ -25,7 +25,7 @@ Invited Presentations
 Conference Presentations
 ======
 
-<b>A multifactorial approach to constituent orderings</b> <br> 
+<b>[A multifactorial approach to constituent orderings](https://www.youtube.com/watch?v=uUFGrilspbk&t=13s)</b> <br> 
 <b>Zoey Liu</b>.
 2021.
 Oral presentation at <i>The 34th Annual CUNY Human Sentence Processing Conference</i>. 
