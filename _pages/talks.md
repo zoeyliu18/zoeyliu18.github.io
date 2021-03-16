@@ -86,7 +86,7 @@ Satiago Barreda and <b>Zoey Liu</b>.
 Poster presentation at <i>The 93rd Annual Meeting of the Linguistic Societyof America</i>. 
 
 <b>[Dependency length minimization and lexical frequency in prepositional phrase ordering in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b> <br> 
-<b>Zoey Liu</b>.
+<b>Zoey Liu</b> and Kenji Sagae.
 2018.
 Oral presentation at <i>The Society for Computation in Linguistics (SCiL).</i>
 
