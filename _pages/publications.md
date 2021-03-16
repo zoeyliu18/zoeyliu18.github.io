@@ -69,5 +69,5 @@ Justin Spence, <b>Zoey Liu</b>, Kayla Palakurthy, and Tyler Lee-Wynant.<br>
 <i>In Proceedings of Working Papers in Athabaskan Languages: Alaska Native Language Center Working Papers.</i>
 
 <b>[Dependency length minimization and lexical frequency in prepositional phrase ordering  in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b> <br> 
-<b>Zoey Liu</b>.<br>
+<b>Zoey Liu</b> and Kenji Sagae.<br>
 <i>In Proceedings of the Society for Computation in Linguistics (SCiL)</i>.
