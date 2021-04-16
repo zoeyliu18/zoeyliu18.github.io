@@ -100,8 +100,7 @@ Oral presentation at <i>The Society for Computation in Linguistics (SCiL).</i>
 2017
 ======
 
-<b>[Syntactic Annotation of a Hupa Text Corpus](https://nas.ucdavis.edu/sites/g/files/dgvnsk7031/files/files/person/Spence%20et%20al.%20DLC%202017%20paper
-final.pdf)</b> <br> 
+<b>[Syntactic Annotation of a Hupa Text Corpus](https://nas.ucdavis.edu/sites/g/files/dgvnsk7031/files/files/person/Spence%20et%20al.%20DLC%202017%20paperfinal.pdf)</b> <br> 
 Justin Spence, <b>Zoey Liu</b>, Kayla Palakurthy, and Tyler Lee-Wynant. <br>
 Oral presentation at <i>Dene/Athabaskan Language Conference</i>. 
 
