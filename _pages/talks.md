@@ -53,7 +53,7 @@ Alex Kramer and <b>Zoey Liu</b>.
 Poster presentation at <i>The Society for Computation in Linguistics (SCiL)</i>. 
 
 
-2021
+2020
 ======
 
 <b>[The relationship between word order flexibility and dependency length minimization](https://osf.io/6vztu/)</b> <br> 
@@ -81,6 +81,11 @@ Poster presentation at <i>The 33rd Annual CUNY Human Sentence Processing Confere
 2020.
 Oral presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>. 
 
+
+
+2019
+======
+
 <b>[A  Comparative  Corpus  Analysis  of  PP  Ordering  in  English  and  Chinese](https://www.aclweb.org/anthology/W19-7905/)</b> <br> 
 <b>Zoey Liu</b>.
 2019.
@@ -96,10 +101,19 @@ Satiago Barreda and <b>Zoey Liu</b>.
 2019.
 Poster presentation at <i>The 93rd Annual Meeting of the Linguistic Societyof America</i>. 
 
+
+
+2018
+======
+
 <b>[Dependency length minimization and lexical frequency in prepositional phrase ordering in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b> <br> 
 <b>Zoey Liu</b> and Kenji Sagae.
 2018.
 Oral presentation at <i>The Society for Computation in Linguistics (SCiL).</i>
+
+
+2017
+======
 
 <b>[Syntactic Annotation of a Hupa Text Corpus](https://nas.ucdavis.edu/sites/g/files/dgvnsk7031/files/files/person/Spence%20et%20al.%20DLC%202017%20paper
 final.pdf)</b> <br> 
@@ -111,6 +125,10 @@ Oral presentation at <i>Dene/Athabaskan Language Conference</i>.
 Justin Spence and <b>Zoey Liu</b>.
 2017.
 Oral presentation at <i>The Society of the Study of the Indigenous Languages of the Americas</i>. 
+
+
+2016
+======
 
 <b>The role of function words:  An empirical study of text distance measure performance</b> <br> 
 <b>Zoey Liu</b>.
