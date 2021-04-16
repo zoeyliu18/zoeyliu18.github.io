@@ -29,8 +29,7 @@ Conference Presentations
 ======
 
 <b>Dependency Parsing Evaluation for Low-Resource Spontaneous Speech</b> <br>
-<b>Zoey Liu</b> and Emily Prud’hommeaux.
-
+<b>Zoey Liu</b> and Emily Prud’hommeaux. <br>
 Oral presentation at <i>The Second Workshop on Domain Adaptation for NLP ((Adapt-NLP)</i>.
 
 <b>[A multifactorial approach to constituent orderings](https://www.youtube.com/watch?v=uUFGrilspbk&t=13s)</b> <br> 
