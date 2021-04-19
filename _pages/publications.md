@@ -18,7 +18,7 @@ To Appear In <i>Proceedings of The 43rd Annual Conference of the Cognitive Scien
 
 <b>[Dependency Parsing Evaluation for Low-resource Spontaneous Speech](https://www.aclweb.org/anthology/2021.adaptnlp-1.16/)</b><br>
 <b>Zoey Liu</b> and Emily Prud'hommeaux. <br>
-In <i>Proceedings of The Second Workshop on Domain Adaptation for NLP</i>.
+In <i>Proceedings of The Second Workshop on Domain Adaptation for NLP (Adapt-NLP)</i>.
 
 <b>[The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach](https://scholarworks.umass.edu/scil/vol4/iss1/25)</b> <br> 
 <b>Zoey Liu</b>.<br>
