@@ -28,7 +28,7 @@ In <i>Proceedings of The Society for Computation in Linguistics (SCiL)</i>.
 <b>Zoey Liu</b> and Emily Morgan. <br>
 In <i>Proceedings of The Society for Computation in Linguistics (SCiL)</i>.
 
-<b>[A Data-driven Approach to Crosslinguistic Structural Biases](https://scholarworks.umass.edu/scil/vol4/iss1/31)</b> <br>
+<b>[A Data-driven Approach to Crosslinguistic Structural Biases](https://scholarworks.umass.edu/scil/vol4/iss1/31)</b> (abstract) <br>
 Alex Kramer and <b>Zoey Liu</b>. <br>
 In <i>Proceedings of The Society for Computation in Linguistics (SCiL)</i>.
 
