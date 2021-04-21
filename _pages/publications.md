@@ -24,7 +24,7 @@ In <i>Proceedings of The Second Workshop on Domain Adaptation for NLP (Adapt-NLP
 <b>Zoey Liu</b>.<br>
 In <i>Proceedings of The Society for Computation in Linguistics (SCiL)</i>.
 
-<b>[Frequency-dependent Regularization in Syntactic Constructions](https://scholarworks.umass.edu/scil/vol4/iss1/42)</b> <br>
+<b>[Frequency-dependent Regularization in Syntactic Constructions](https://scholarworks.umass.edu/scil/vol4/iss1/42)</b> (abstract) <br>
 <b>Zoey Liu</b> and Emily Morgan. <br>
 In <i>Proceedings of The Society for Computation in Linguistics (SCiL)</i>.
 
@@ -59,7 +59,7 @@ In <i>Proceedings of the 42nd Annual Conference of the Cognitive Science Society
 <b>Zoey Liu</b>. <br>
 In <i>Proceedings of the First Workshop on Quantitative Syntax (Quasy, SyntaxFest).</i>
 
-<b>[Quantifying  Structural  and  Lexical  Constraints  in  PP  Ordering  Typology](https://scholarworks.umass.edu/scil/vol2/iss1/33/)</b> <br> 
+<b>[Quantifying  Structural  and  Lexical  Constraints  in  PP  Ordering  Typology](https://scholarworks.umass.edu/scil/vol2/iss1/33/)</b> (extended abstract) <br> 
 <b>Zoey Liu</b>. <br>
 In <i>Proceedings of the Society for Computation in Linguistics (SCiL)</i>.
 
@@ -76,6 +76,6 @@ Santiago Barreda and <b>Zoey Liu</b>. <br>
 Justin Spence, <b>Zoey Liu</b>, Kayla Palakurthy, and Tyler Lee-Wynant. <br>
 In <i>Proceedings of Working Papers in Athabaskan Languages: Alaska Native Language Center Working Papers.</i>
 
-<b>[Dependency length minimization and lexical frequency in prepositional phrase ordering  in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b> <br> 
+<b>[Dependency length minimization and lexical frequency in prepositional phrase ordering  in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b> (extended abstract) <br> 
 <b>Zoey Liu</b> and Kenji Sagae. <br>
 In <i>Proceedings of the Society for Computation in Linguistics (SCiL)</i>.
