@@ -68,7 +68,7 @@ Poster presentation at <i>The 33rd Annual CUNY Human Sentence Processing Confere
 <b>Zoey Liu</b>. <br>
 Poster presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>. 
 
-<b>[Frequency-dependent regularization in abstract syntacticstructures](https://osf.io/6ry9g/?show=view)</b> <br> 
+<b>[Frequency-dependent regularization in abstract syntacticstructures](https://osf.io/hykew/) </b> [video](https://osf.io/6ry9g/?show=view) <br> 
 <b>Zoey Liu</b> and Emily Morgan. <br>
 Oral presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>. 
 
