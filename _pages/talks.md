@@ -28,11 +28,11 @@ Conference Presentations
 2021
 ======
 
-<b>Dependency Parsing Evaluation for Low-Resource Spontaneous Speech</b> <br>
+<b>[Dependency Parsing Evaluation for Low-Resource Spontaneous Speech](https://www.aclweb.org/anthology/2021.adaptnlp-1.16/)</b> <br>
 <b>Zoey Liu</b> and Emily Prud’hommeaux. <br>
 Oral presentation at <i>The Second Workshop on Domain Adaptation for NLP (Adapt-NLP)</i>.
 
-<b>[A multifactorial approach to constituent orderings](https://www.youtube.com/watch?v=uUFGrilspbk&t=13s)</b> <br> 
+<b>[A multifactorial approach to constituent orderings](https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_230.pdf)</b> [video](https://www.youtube.com/watch?v=uUFGrilspbk&t=13s) <br> 
 <b>Zoey Liu</b>. <br>
 Oral presentation at <i>The 34th Annual CUNY Human Sentence Processing Conference</i>. 
 
