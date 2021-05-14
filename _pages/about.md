@@ -11,7 +11,7 @@ redirect_from:
 
 Hello! I'm a postdoctoral fellow in the Department of Computer Science at Boston College, advised by [Emily Tucker Prud'hommeaux](http://cs.bc.edu/~prudhome/publications.html). I received my PhD in Linguistics from the University of California, Davis in Summer 2020, advised by [Kenji Sagae](http://www.sagae.org). 
 
-My research studies structural variation in both languages and machines. I address related questions from the angle of language typology, documentation of endangered languages, and language development, along with a non-western mind. The general methodology that I take upon is a data-driven approach coupled with [The #BenderRule](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/) and methods of number counting at varying degrees of carbon dioxide consumption. 
+My research studies structural variation in both languages and machines. I address related questions from the angle of language typology, low-resource NLP, and cognitive development, along with a non-western mind. The general methodology that I take upon is a data-driven approach coupled with [The #BenderRule](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/) and methods of number counting at varying degrees of carbon dioxide consumption. 
 
 Besides academic responsibilities, I proudly serve on the planning committee for [Advocates for Indigenous California Language Survival](https://aicls.org), and their biennial institute [Breath of Life](https://aicls.org/breath-of-life-institute/). 
 
