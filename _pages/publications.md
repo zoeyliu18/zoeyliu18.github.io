@@ -17,7 +17,7 @@ To Appear In <i>Proceedings of The First Workshop on NLP for Indigenous Language
 To Appear In <i>Proceedings of The 43rd Annual Conference of the Cognitive Science Society</i>.
 
 <b>Predicting pragmatic discourse features in the language of adults with autism spectrum disorders</b><br>
-Christine Yang, Duanchen Liu, Qingyun Yang, <b>Zoey Liu</b> and Emily Prud'hommeaux
+Christine Yang, Duanchen Liu, Qingyun Yang, <b>Zoey Liu</b> and Emily Prud'hommeaux. <br>
 To Appear in <i>{Proceedings of the Student Research Workshop at The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)</i>.
 
 <b>[Dependency Parsing Evaluation for Low-resource Spontaneous Speech](https://www.aclweb.org/anthology/2021.adaptnlp-1.16/)</b><br>
