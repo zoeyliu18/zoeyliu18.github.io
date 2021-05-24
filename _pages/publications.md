@@ -16,6 +16,11 @@ To Appear In <i>Proceedings of The First Workshop on NLP for Indigenous Language
 <b>Zoey Liu</b> and Masoud Jasbi. <br>
 To Appear In <i>Proceedings of The 43rd Annual Conference of the Cognitive Science Society</i>.
 
+<b>Predicting cross-linguistic adjective order with information gain</b><br>
+William Dyer, Richard Futrell, <b>Zoey Liu</b> and Gregory Scontras. <br>
+To appear in <i>Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)</i>.
+
+
 <b>Predicting pragmatic discourse features in the language of adults with autism spectrum disorders</b><br>
 Christine Yang, Duanchen Liu, Qingyun Yang, <b>Zoey Liu</b> and Emily Prud'hommeaux. <br>
 To Appear in <i>Proceedings of the Student Research Workshop at The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)</i>.
