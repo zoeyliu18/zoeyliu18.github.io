@@ -8,7 +8,7 @@ author_profile: true
 2021
 ======
 
-<b>Morphological Segmentation for Seneca</b> <br>
+<b>[Morphological Segmentation for Seneca](https://www.aclweb.org/anthology/2021.americasnlp-1.10.pdf)</b> <br>
 <b>Zoey Liu</b>, Robbie Jimerson and Emily Prud’hommeaux. <br>
 To Appear In <i>Proceedings of The First Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)</i>.
 
