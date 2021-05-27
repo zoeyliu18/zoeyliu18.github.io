@@ -8,6 +8,14 @@ author_profile: true
 2021
 ======
 
+<b>Predicting pragmatic discourse features in the language of adults with autism spectrum disorders</b><br>
+Christine Yang, Duanchen Liu, Qingyun Yang, <b>Zoey Liu</b> and Emily Prud'hommeaux. <br>
+To Appear in <i>Proceedings of the Student Research Workshop at The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)</i>.
+
+<b>Predicting cross-linguistic adjective order with information gain</b><br>
+William Dyer, Richard Futrell, <b>Zoey Liu</b> and Gregory Scontras. <br>
+To appear in <i>Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)</i>.
+
 <b>[Morphological Segmentation for Seneca](https://www.aclweb.org/anthology/2021.americasnlp-1.10.pdf)</b> <br>
 <b>Zoey Liu</b>, Robbie Jimerson and Emily Prud’hommeaux. <br>
 To Appear In <i>Proceedings of The First Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)</i>.
@@ -15,15 +23,6 @@ To Appear In <i>Proceedings of The First Workshop on NLP for Indigenous Language
 <b>English Negative Constructions and Communicative Functions in Child Language</b> <br>
 <b>Zoey Liu</b> and Masoud Jasbi. <br>
 To Appear In <i>Proceedings of The 43rd Annual Conference of the Cognitive Science Society</i>.
-
-<b>Predicting cross-linguistic adjective order with information gain</b><br>
-William Dyer, Richard Futrell, <b>Zoey Liu</b> and Gregory Scontras. <br>
-To appear in <i>Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)</i>.
-
-
-<b>Predicting pragmatic discourse features in the language of adults with autism spectrum disorders</b><br>
-Christine Yang, Duanchen Liu, Qingyun Yang, <b>Zoey Liu</b> and Emily Prud'hommeaux. <br>
-To Appear in <i>Proceedings of the Student Research Workshop at The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)</i>.
 
 <b>[Dependency Parsing Evaluation for Low-resource Spontaneous Speech](https://www.aclweb.org/anthology/2021.adaptnlp-1.16/)</b><br>
 <b>Zoey Liu</b> and Emily Prud'hommeaux. <br>
