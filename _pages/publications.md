@@ -16,7 +16,7 @@ To Appear in <i>Proceedings of the Student Research Workshop at The Joint Confer
 William Dyer, Richard Futrell, <b>Zoey Liu</b> and Gregory Scontras. <br>
 To appear in <i>Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)</i>.
 
-<b>[Morphological Segmentation for Seneca](https://www.aclweb.org/anthology/2021.americasnlp-1.10.pdf)</b> <br>
+<b>[Morphological Segmentation for Seneca](https://www.aclweb.org/anthology/2021.americasnlp-1.10/)</b> <br>
 <b>Zoey Liu</b>, Robbie Jimerson and Emily Prud’hommeaux. <br>
 To Appear In <i>Proceedings of The First Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)</i>.
 
