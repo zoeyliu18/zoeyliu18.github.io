@@ -50,7 +50,7 @@ In <i>Proceedings of The Society for Computation in Linguistics (SCiL)</i>.
 <i>STUF-Language Typology and Universals.</i> 
 [copy](https://www.researchgate.net/publication/343333134_Mixed_Evidence_for_Crosslinguistic_Dependency_Length_Minimization)
 
-<b>[A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information Expression](https://2020.emnlp.org)</b> <br> 
+<b>[A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information Expression](https://www.aclweb.org/anthology/2020.emnlp-main.167/)</b> <br> 
 Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li. <br>
 In <i>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>. 
 
