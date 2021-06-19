@@ -28,6 +28,10 @@ Conference Presentations
 2021
 ======
 
+<b>[Morphological Segmentation for Seneca](https://www.aclweb.org/anthology/2021.americasnlp-1.10/)</b> <br>
+<b>Zoey Liu</b>, Robert Jimerson and Emily Prud’hommeaux. <br>
+Poster presentation at <i>The First Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)</i>.
+
 <b>[Dependency Parsing Evaluation for Low-Resource Spontaneous Speech](https://www.aclweb.org/anthology/2021.adaptnlp-1.16/)</b> <br>
 <b>Zoey Liu</b> and Emily Prud’hommeaux. <br>
 Oral presentation at <i>The Second Workshop on Domain Adaptation for NLP (Adapt-NLP)</i>.
