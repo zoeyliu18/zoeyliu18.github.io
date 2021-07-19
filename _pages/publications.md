@@ -20,7 +20,7 @@ To appear in <i>Findings of the Joint Conference of the 59th Annual Meeting of t
 <b>Zoey Liu</b>, Robbie Jimerson and Emily Prud’hommeaux. <br>
 To Appear In <i>Proceedings of The First Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)</i>.
 
-<b>English Negative Constructions and Communicative Functions in Child Language</b> <br>
+<b>[English Negative Constructions and Communicative Functions in Child Language](https://cognitivesciencesociety.org/wp-content/uploads/2021/07/cogsci21_proceedings_v4.pdf)</b> <br>
 <b>Zoey Liu</b> and Masoud Jasbi. <br>
 To Appear In <i>Proceedings of The 43rd Annual Conference of the Cognitive Science Society</i>.
 
