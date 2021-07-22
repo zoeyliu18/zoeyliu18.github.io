@@ -22,6 +22,11 @@ My non-research interests are music, food, and simple methods, and in that order
 Brief Bio
 ======
 
+Fall 2021 -
+------
+
+Starting as a 2021-2023 [Computing Innovation Fellow](https://cra.org/ccc/leadership-development/cifellows/), supported by NSF/CRA.
+
 Fall 2020 -
 ------
 
