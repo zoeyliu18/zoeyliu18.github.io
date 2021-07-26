@@ -25,7 +25,7 @@ Brief Bio
 Fall 2021 -
 ------
 
-Starting as a 2021-2023 [Computing Innovation Fellow](https://cra.org/ccc/leadership-development/cifellows/), supported by NSF/CRA.
+Starting as a 2021-2023 [Computing Innovation Fellow](https://cccblog.org/2021/07/22/announcing-the-2021-computing-innovation-fellows/), supported by NSF/CRA.
 
 Fall 2020 -
 ------
