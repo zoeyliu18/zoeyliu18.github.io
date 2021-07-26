@@ -8,21 +8,21 @@ author_profile: true
 2021
 ======
 
-<b>Predicting pragmatic discourse features in the language of adults with autism spectrum disorders</b><br>
+<b>(Predicting pragmatic discourse features in the language of adults with autism spectrum disorders)[https://aclanthology.org/2021.acl-srw.29/]</b><br>
 Christine Yang, Duanchen Liu, Qingyun Yang, <b>Zoey Liu</b> and Emily Prud'hommeaux. <br>
-To Appear in <i>Proceedings of the Student Research Workshop at The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)</i>.
+In <i>Proceedings of the Student Research Workshop at The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)</i>.
 
-<b>Predicting cross-linguistic adjective order with information gain</b><br>
+<b>[Predicting cross-linguistic adjective order with information gain](https://aclanthology.org/2021.findings-acl.83/)</b><br>
 William Dyer, Richard Futrell, <b>Zoey Liu</b> and Gregory Scontras. <br>
-To appear in <i>Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)</i>.
+In <i>Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021)</i>.
 
 <b>[Morphological Segmentation for Seneca](https://www.aclweb.org/anthology/2021.americasnlp-1.10/)</b> <br>
 <b>Zoey Liu</b>, Robbie Jimerson and Emily Prud’hommeaux. <br>
-To Appear In <i>Proceedings of The First Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)</i>.
+In <i>Proceedings of The First Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)</i>.
 
 <b>[English Negative Constructions and Communicative Functions in Child Language](https://escholarship.org/uc/item/0kj5j80c)</b> <br>
 <b>Zoey Liu</b> and Masoud Jasbi. <br>
-To Appear In <i>Proceedings of The 43rd Annual Conference of the Cognitive Science Society</i>.
+In <i>Proceedings of The 43rd Annual Conference of the Cognitive Science Society</i>.
 
 <b>[Dependency Parsing Evaluation for Low-resource Spontaneous Speech](https://www.aclweb.org/anthology/2021.adaptnlp-1.16/)</b><br>
 <b>Zoey Liu</b> and Emily Prud'hommeaux. <br>
