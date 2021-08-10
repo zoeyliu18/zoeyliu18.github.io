@@ -19,7 +19,7 @@ My non-research interests are music, food, and simple methods, and in that order
 
 <br>
 
-Brief Bio
+Something extra
 ======
 
 Fall 2021 -
@@ -36,7 +36,7 @@ Started working as a postdoc in late November, advised by [Emily Tucker Prud'hom
 2014 - Summer 2020
 ------
 
-During this time, I got a PhD, advised by [Kenji Sagae](http://www.sagae.org). My [dissertation project](http://zoeyliu18.github.io/files/Zoey_Dissertation.pdf) focuses on crosslinguistic modeling of word order preferences, asking what abstract constraints as well as idiosyncrasies govern language users' structural choices from both synchronic and diachronic perspectives. Additionally, this project also tries to adapt theoretical framework of dependency syntax to develop a dependency treebank for Hupa, an endangered Dene language of northwestern California traditionally spoken in Hoopa Valley on the lower Trinity River in present-day Humboldt County, as a way to formalize and model the syntax of indigenous languages.
+During this time, I got a PhD, advised by [Kenji Sagae](http://www.sagae.org). My [dissertation project](http://zoeyliu18.github.io/files/Zoey_Dissertation.pdf) focuses on crosslinguistic modeling of word order preferences, asking what abstract constraints as well as idiosyncrasies govern language users' structural choices from both synchronic and diachronic perspectives. Additionally, this project also tries to adapt theoretical framework of dependency syntax to develop a treebank for Hupa, an endangered Dene language of northwestern California traditionally spoken in Hoopa Valley on the lower Trinity River in present-day Humboldt County, as a way to formalize and model the syntax of indigenous languages.
 
 
 Summer 2019 
