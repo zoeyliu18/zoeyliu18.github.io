@@ -30,7 +30,7 @@ Starting as a 2021-2023 [Computing Innovation Fellow](https://cccblog.org/2021/0
 Fall 2020 -
 ------
 
-Started working as a postdoc in late November, advised by [Emily Tucker Prud'hommeaux](http://cs.bc.edu/~prudhome/publications.html). I shift focus from analyzing large-scale corpora to low-resource settings, splitting time between endangered language documentation and language development. For the former, I focus on capturing structural variation via development of language generation technologies for the Iroquoian language family in order to help the communities with their own language reclamation. Most of the Iroquoian languages have very few or no living native/fluent speakers whose communities are currently engaged in efforts to reclaim their heritage languages. For the latter, I focus on capturing syntactic and pragmatic variation comparing children and adults with different neurodevelopmental conditions, using computational and experimental methods.
+Started working as a postdoc in late November, advised by [Emily Tucker Prud'hommeaux](http://cs.bc.edu/~prudhome/publications.html). I usually spend time wandering around low-resource NLP evaluation and language technologies for enhancing documentation of indigenous languages. Some other times I like to think about language development. 
 
 
 2014 - Summer 2020
