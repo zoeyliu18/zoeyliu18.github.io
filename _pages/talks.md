@@ -27,7 +27,7 @@ Conference Presentations
 
 2021
 ======
-
+```
 <b>[Morphological Segmentation for Seneca](https://www.aclweb.org/anthology/2021.americasnlp-1.10/)</b> <br>
 <b>Zoey Liu</b>, Robert Jimerson and Emily Prud’hommeaux. <br>
 Poster presentation at <i>The First Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)</i>.
@@ -35,11 +35,11 @@ Poster presentation at <i>The First Workshop on NLP for Indigenous Languages of 
 <b>[Dependency Parsing Evaluation for Low-Resource Spontaneous Speech](https://www.aclweb.org/anthology/2021.adaptnlp-1.16/)</b> <br>
 <b>Zoey Liu</b> and Emily Prud’hommeaux. <br>
 Oral presentation at <i>The Second Workshop on Domain Adaptation for NLP (Adapt-NLP)</i>.
-
+```
 <b>[A multifactorial approach to constituent orderings](https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_230.pdf)</b> [video](https://www.youtube.com/watch?v=uUFGrilspbk&t=13s) <br> 
 <b>Zoey Liu</b>. <br>
 Oral presentation at <i>The 34th Annual CUNY Human Sentence Processing Conference</i>. 
-
+```
 <b>[The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach](https://scholarworks.umass.edu/scil/vol4/iss1/25)</b> <br> 
 <b>Zoey Liu</b>. <br>
 Poster presentation at <i>The Society for Computation in Linguistics (SCiL)</i>.
@@ -51,7 +51,7 @@ Poster presentation at <i>The Society for Computation in Linguistics (SCiL)</i>.
 <b>[A Data-driven Approach to Crosslinguistic Structural Biases](https://scholarworks.umass.edu/scil/vol4/iss1/31)</b> <br> 
 Alex Kramer and <b>Zoey Liu</b>. <br>
 Poster presentation at <i>The Society for Computation in Linguistics (SCiL)</i>. 
-
+```
 
 2020
 ======
