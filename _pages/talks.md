@@ -27,43 +27,18 @@ Conference Presentations
 
 2021
 ======
-```
-<b>[Morphological Segmentation for Seneca](https://www.aclweb.org/anthology/2021.americasnlp-1.10/)</b> <br>
-<b>Zoey Liu</b>, Robert Jimerson and Emily Prud’hommeaux. <br>
-Poster presentation at <i>The First Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)</i>.
 
-<b>[Dependency Parsing Evaluation for Low-Resource Spontaneous Speech](https://www.aclweb.org/anthology/2021.adaptnlp-1.16/)</b> <br>
-<b>Zoey Liu</b> and Emily Prud’hommeaux. <br>
-Oral presentation at <i>The Second Workshop on Domain Adaptation for NLP (Adapt-NLP)</i>.
-```
 <b>[A multifactorial approach to constituent orderings](https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_230.pdf)</b> [video](https://www.youtube.com/watch?v=uUFGrilspbk&t=13s) <br> 
 <b>Zoey Liu</b>. <br>
 Oral presentation at <i>The 34th Annual CUNY Human Sentence Processing Conference</i>. 
-```
-<b>[The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach](https://scholarworks.umass.edu/scil/vol4/iss1/25)</b> <br> 
-<b>Zoey Liu</b>. <br>
-Poster presentation at <i>The Society for Computation in Linguistics (SCiL)</i>.
-
-<b>[Frequency-dependent Regularization in Syntactic Constructions](https://scholarworks.umass.edu/scil/vol4/iss1/42)</b> <br> 
-<b>Zoey Liu</b> and Emily Morgan. <br>
-Poster presentation at <i>The Society for Computation in Linguistics (SCiL)</i>. 
-
-<b>[A Data-driven Approach to Crosslinguistic Structural Biases](https://scholarworks.umass.edu/scil/vol4/iss1/31)</b> <br> 
-Alex Kramer and <b>Zoey Liu</b>. <br>
-Poster presentation at <i>The Society for Computation in Linguistics (SCiL)</i>. 
-```
 
 2020
 ======
-```
+
 <b>[The relationship between word order flexibility and dependency length minimization](https://osf.io/6vztu/)</b> <br> 
 <b>Zoey Liu</b>. <br>
 Oral presentation at <i>The 53rd Annual Meeting of the Societas Linguistica Europaea</i>. 
 
-<b>[Frequency-dependent Regularization in Constituent Ordering Preferences](https://cognitivesciencesociety.org/cogsci20/papers/0751/0751.pdf)</b> <br> 
-<b>Zoey Liu</b> and Emily Morgan. <br>
-Poster presentation at <i>The 42nd Annual Conference of the Cognitive Science Society</i>. 
-```
 <b>[Frequency-dependent regularization in abstract syntacticstructures](https://osf.io/hykew/) </b> [video](https://osf.io/6ry9g/?show=view) <br> 
 <b>Zoey Liu</b> and Emily Morgan. <br>
 Oral presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>. 
@@ -78,27 +53,13 @@ Poster presentation at <i>The 33rd Annual CUNY Human Sentence Processing Confere
 
 2019
 ======
-```
-<b>[A  Comparative  Corpus  Analysis  of  PP  Ordering  in  English  and  Chinese](https://www.aclweb.org/anthology/W19-7905/)</b> <br> 
-<b>Zoey Liu</b>. <br>
-Oral presentation at <i>SyntaxFest</i>. 
 
-<b>[Quantifying  Structural  and  Lexical  Constraints  in  PP  Ordering  Typology](https://scholarworks.umass.edu/scil/vol2/iss1/33/)</b> <br> 
-<b>Zoey Liu</b>. <br>
-Poster presentation at <i>The Society for Computation in Linguistics (SCiL).</i>.
-```
 <b>The  effect  of  linguistic  experience  on  the  perception  of talker height from speech</b> <br> 
 Satiago Barreda and <b>Zoey Liu</b>. <br>
 Poster presentation at <i>The 93rd Annual Meeting of the Linguistic Societyof America</i>. 
 
-
 2018
 ======
-```
-<b>[Dependency length minimization and lexical frequency in prepositional phrase ordering in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b> <br> 
-<b>Zoey Liu</b> and Kenji Sagae. <br>
-Oral presentation at <i>The Society for Computation in Linguistics (SCiL).</i>
-```
 
 <b>Quantifying Structural and Lexical Constraints in PP Ordering Typology</b> <br>
 <b>Zoey Liu</b>. <br>
@@ -106,15 +67,10 @@ Oral presentation at <i>California Meeting on Psycholinguistics}.</i>
 
 2017
 ======
-```
-<b>[Syntactic Annotation of a Hupa Text Corpus](https://nas.ucdavis.edu/sites/g/files/dgvnsk7031/files/files/person/Spence%20et%20al.%20DLC%202017%20paperfinal.pdf)</b> <br> 
-Justin Spence, <b>Zoey Liu</b>, Kayla Palakurthy, and Tyler Lee-Wynant. <br>
-Oral presentation at <i>Dene/Athabaskan Language Conference</i>. 
-```
+
 <b>Building for the future: Adopting TEI standards in a text of Hupa</b> <br> 
 Justin Spence and <b>Zoey Liu</b>. <br>
 Oral presentation at <i>The Society of the Study of the Indigenous Languages of the Americas</i>. 
-
 
 2016
 ======
