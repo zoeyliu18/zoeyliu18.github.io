@@ -30,7 +30,7 @@ Starting as a 2021-2023 [Computing Innovation Fellow](https://cccblog.org/2021/0
 Fall 2020 -
 ------
 
-Started working as a postdoc in late November, advised by [Emily Tucker Prud'hommeaux](http://cs.bc.edu/~prudhome/publications.html). I usually spend time wandering around low-resource NLP evaluation and language technologies for enhancing documentation of indigenous languages. Some other times I like to think about language development. 
+Started working as a postdoc in late November, advised by [Emily Tucker Prud'hommeaux](http://cs.bc.edu/~prudhome/publications.html). I usually spend time wandering around low-resource NLP evaluation as well as language technologies for enhancing documentation of indigenous languages. Some other times I like to think about language development and to continue wondering about typology.
 
 
 2014 - Summer 2020
