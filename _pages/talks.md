@@ -55,7 +55,7 @@ Poster presentation at <i>The Society for Computation in Linguistics (SCiL)</i>.
 
 2020
 ======
-
+```
 <b>[The relationship between word order flexibility and dependency length minimization](https://osf.io/6vztu/)</b> <br> 
 <b>Zoey Liu</b>. <br>
 Oral presentation at <i>The 53rd Annual Meeting of the Societas Linguistica Europaea</i>. 
@@ -63,6 +63,10 @@ Oral presentation at <i>The 53rd Annual Meeting of the Societas Linguistica Euro
 <b>[Frequency-dependent Regularization in Constituent Ordering Preferences](https://cognitivesciencesociety.org/cogsci20/papers/0751/0751.pdf)</b> <br> 
 <b>Zoey Liu</b> and Emily Morgan. <br>
 Poster presentation at <i>The 42nd Annual Conference of the Cognitive Science Society</i>. 
+```
+<b>[Frequency-dependent regularization in abstract syntacticstructures](https://osf.io/hykew/) </b> [video](https://osf.io/6ry9g/?show=view) <br> 
+<b>Zoey Liu</b> and Emily Morgan. <br>
+Oral presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>. 
 
 <b>[Crosslinguistic extent of dependency length minimization](https://osf.io/v9cxu/)</b> <br> 
 <b>Zoey Liu</b>. <br>
@@ -72,14 +76,9 @@ Poster presentation at <i>The 33rd Annual CUNY Human Sentence Processing Confere
 <b>Zoey Liu</b>. <br>
 Poster presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>. 
 
-<b>[Frequency-dependent regularization in abstract syntacticstructures](https://osf.io/hykew/) </b> [video](https://osf.io/6ry9g/?show=view) <br> 
-<b>Zoey Liu</b> and Emily Morgan. <br>
-Oral presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>. 
-
-
 2019
 ======
-
+```
 <b>[A  Comparative  Corpus  Analysis  of  PP  Ordering  in  English  and  Chinese](https://www.aclweb.org/anthology/W19-7905/)</b> <br> 
 <b>Zoey Liu</b>. <br>
 Oral presentation at <i>SyntaxFest</i>. 
@@ -87,7 +86,7 @@ Oral presentation at <i>SyntaxFest</i>.
 <b>[Quantifying  Structural  and  Lexical  Constraints  in  PP  Ordering  Typology](https://scholarworks.umass.edu/scil/vol2/iss1/33/)</b> <br> 
 <b>Zoey Liu</b>. <br>
 Poster presentation at <i>The Society for Computation in Linguistics (SCiL).</i>.
-
+```
 <b>The  effect  of  linguistic  experience  on  the  perception  of talker height from speech</b> <br> 
 Satiago Barreda and <b>Zoey Liu</b>. <br>
 Poster presentation at <i>The 93rd Annual Meeting of the Linguistic Societyof America</i>. 
@@ -95,19 +94,23 @@ Poster presentation at <i>The 93rd Annual Meeting of the Linguistic Societyof Am
 
 2018
 ======
-
+```
 <b>[Dependency length minimization and lexical frequency in prepositional phrase ordering in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b> <br> 
 <b>Zoey Liu</b> and Kenji Sagae. <br>
 Oral presentation at <i>The Society for Computation in Linguistics (SCiL).</i>
+```
 
+<b>Quantifying Structural and Lexical Constraints in PP Ordering Typology</b> <br>
+<b>Zoey Liu</b>. <br>
+Oral presentation at <i>California Meeting on Psycholinguistics}.</i>
 
 2017
 ======
-
+```
 <b>[Syntactic Annotation of a Hupa Text Corpus](https://nas.ucdavis.edu/sites/g/files/dgvnsk7031/files/files/person/Spence%20et%20al.%20DLC%202017%20paperfinal.pdf)</b> <br> 
 Justin Spence, <b>Zoey Liu</b>, Kayla Palakurthy, and Tyler Lee-Wynant. <br>
 Oral presentation at <i>Dene/Athabaskan Language Conference</i>. 
-
+```
 <b>Building for the future: Adopting TEI standards in a text of Hupa</b> <br> 
 Justin Spence and <b>Zoey Liu</b>. <br>
 Oral presentation at <i>The Society of the Study of the Indigenous Languages of the Americas</i>. 
