@@ -11,6 +11,7 @@ author_profile: true
 <b>A Multifactorial Approach to Crosslinguistic Constituent Orderings</b><br>
 Zoey Liu. <br>
 To appear in <i>Linguistics Vanguard</i>.
+[copy](https://www.researchgate.net/publication/354204297_A_Multifactorial_Approach_to_Crosslinguistic_Constituent_Orderings)
 
 <b>[Predicting pragmatic discourse features in the language of adults with autism spectrum disorders](https://aclanthology.org/2021.acl-srw.29/)</b><br>
 Christine Yang, Duanchen Liu, Qingyun Yang, <b>Zoey Liu</b> and Emily Prud'hommeaux. <br>
