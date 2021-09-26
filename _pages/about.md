@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello! I'm a postdoctoral researcher in the Department of Computer Science at Boston College, and a 2021-2023 [Computing Innovation Fellow](https://cccblog.org/2021/07/22/announcing-the-2021-computing-innovation-fellows/) supported by NSF/CRA. I received my PhD in Linguistics from the University of California, Davis in Summer 2020. 
+Nice to e-meet you! I'm a 2021-2023 [Computing Innovation Fellow](https://cccblog.org/2021/07/22/announcing-the-2021-computing-innovation-fellows/) supported by NSF. My host institution is Boston College. I received my PhD in Linguistics from the University of California, Davis in Summer 2020. 
 
 My research studies structural variation in both languages and machines. I address related questions from the angle of language typology, low-resource NLP, and cognitive development, along with a non-western mind. The general methodology that I take upon is a data-driven approach coupled with [The #BenderRule](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/) and methods of number counting at varying degrees of carbon dioxide consumption. 
 
@@ -30,7 +30,7 @@ Starting as a Computing Innovation Fellow.
 Fall 2020 -
 ------
 
-Started working as a postdoc in late November, advised by [Emily Tucker Prud'hommeaux](http://cs.bc.edu/~prudhome/publications.html). I usually spend time wandering around low-resource NLP evaluation as well as language technologies for enhancing documentation of indigenous languages. Some other times I like to think about language development and typology.
+Started working as a postdoc in late November, mentored by [Emily Tucker Prud'hommeaux](http://cs.bc.edu/~prudhome/publications.html). I usually spend time wandering around low-resource NLP evaluation as well as language technologies for enhancing documentation of indigenous languages. Some other times I like to think about language development and typology.
 
 
 2014 - Summer 2020
