@@ -5,11 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-University of California, Davis
-======
-
 Instructor
 ------
+
+<b>University of California, Davis</b><br>
 
 LIN 001 Introduction to Linguistics (Winter 2019, Summer 2018).
 
@@ -18,6 +17,8 @@ ESL (Summer 2016).
 
 Teaching Assistant
 ------
+
+<b>University of California, Davis</b><br>
 
 LIN 177 Computational  Linguistics  (Winter  2020,  Fall  2019,  Fall  2018,  Spring  2018,  Winter  2018,  Spring 2017)
 
