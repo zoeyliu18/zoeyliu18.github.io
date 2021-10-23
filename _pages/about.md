@@ -11,7 +11,7 @@ redirect_from:
 
 Nice to e-meet you! I'm a 2021-2023 [Computing Innovation Fellow](https://cccblog.org/2021/07/22/announcing-the-2021-computing-innovation-fellows/) supported by NSF. My host institution is Boston College. I received my PhD in Linguistics from the University of California, Davis in Summer 2020. 
 
-My research program studies structural variation in languages, machines and their intersections. I address related questions from the angle of language typology, low-resource NLP, and cognitive development, along with a non-western mind. The general methodology that I take upon is a data-driven approach coupled with [The #BenderRule](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/) and methods of number counting at varying degrees of carbon dioxide consumption. 
+My research program studies variation in languages, machines and their intersections. I address related questions from the angle of language typology, low-resource NLP, and cognitive development, along with a non-western mind. The general methodology that I take upon is a data-driven approach coupled with [The #BenderRule](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/) and methods of number counting at varying degrees of carbon dioxide consumption. 
 
 Besides academic responsibilities, I proudly serve on the planning committee for [Advocates for Indigenous California Language Survival](https://aicls.org), and their biennial institute [Breath of Life](https://aicls.org/breath-of-life-institute/). 
 
