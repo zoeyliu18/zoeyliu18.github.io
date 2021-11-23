@@ -5,13 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-2021
-======
 
 <b>A Multifactorial Approach to Crosslinguistic Constituent Orderings</b><br>
 <b>Zoey Liu</b>.<br>
 To appear in <i>Linguistics Vanguard</i>.
 [copy](https://www.researchgate.net/publication/354204297_A_Multifactorial_Approach_to_Crosslinguistic_Constituent_Orderings)
+
+2021
+======
 
 <b>[SIGMORPHON 2021 Shared Task on Morphological Reinflection: Generalization Across Languages](https://aclanthology.org/2021.sigmorphon-1.25/)</b><br>
 Tiago Pimentel, Maria Ryskina...<b>Zoey Liu</b>...Ben Ambridge, Ekaterina Vylomova. <br>
