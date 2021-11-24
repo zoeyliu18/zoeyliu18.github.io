@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Invited Presentations
+Invited Talks
 ======
 
 <b>Data-driven Approach to Gradience in Languages and Machines</b> <br>
