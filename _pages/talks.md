@@ -37,7 +37,7 @@ Some Conference Presentations
 Oral presentation at <i>The Society for the Study of the Indigenous Languages of the Americas.</i>
 
 <b>Dependency length minimization does not affect acceptability of PP ordering in Hindi and English</b> <br>
-<b>Zoey Liu}</b>, Ria Upreti, Mathew A. Kramer, and Savithry Namboodiripad <br>
+<b>Zoey Liu</b>, Ria Upreti, Mathew A. Kramer, and Savithry Namboodiripad <br>
 Oral presentation at <i>The 96th Annual Meeting of the Linguistic Society of America.</i>
 
 2021
