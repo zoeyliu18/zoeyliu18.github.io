@@ -7,7 +7,7 @@ author_profile: true
 
 <b>Model Generalizability in Crosslinguistic Low-resource Settings</b> <br>
 <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
-Accepted with revision to \textit{Transactions of the Association for Computational Linguistics}}.
+Accepted with revision to <i>Transactions of the Association for Computational Linguistics</i>.
 
 <b>A Multifactorial Approach to Crosslinguistic Constituent Orderings</b><br>
 <b>Zoey Liu</b><br>
