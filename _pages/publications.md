@@ -5,7 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Model Generalizability in Crosslinguistic Low-resource Settings</b> <br>
+2022
+======
+
+<b>Data-driven Model Generalizability in Crosslinguistic Lowresource Morphological Segmentation</b> <br>
 <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
 To appear in <i>Transactions of the Association for Computational Linguistics</i>.
 
