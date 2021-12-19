@@ -43,9 +43,9 @@ Oral presentation at <i>The 96th Annual Meeting of the Linguistic Society of Ame
 2021
 ======
 
-<b>[A multifactorial approach to constituent orderings](https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_230.pdf)</b> [video](https://www.youtube.com/watch?v=uUFGrilspbk&t=13s) <br> 
+<b>[A multifactorial approach to constituent orderings](https://www.cuny2021.io/wp-content/uploads/2021/02/CUNY_2021_abstract_230.pdf)</b> <br> 
 <b>Zoey Liu</b> <br>
-Oral presentation at <i>The 34th Annual CUNY Human Sentence Processing Conference</i>. 
+Oral presentation at <i>The 34th Annual CUNY Human Sentence Processing Conference</i>. [video](https://www.youtube.com/watch?v=uUFGrilspbk&t=13s)
 
 2020
 ======
@@ -54,9 +54,9 @@ Oral presentation at <i>The 34th Annual CUNY Human Sentence Processing Conferenc
 <b>Zoey Liu</b> <br>
 Oral presentation at <i>The 53rd Annual Meeting of the Societas Linguistica Europaea</i>. 
 
-<b>[Frequency-dependent regularization in abstract syntacticstructures](https://osf.io/hykew/) </b> [video](https://osf.io/6ry9g/?show=view) <br> 
+<b>[Frequency-dependent regularization in abstract syntacticstructures](https://osf.io/hykew/) </b> <br> 
 <b>Zoey Liu</b> and Emily Morgan <br>
-Oral presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>. 
+Oral presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>. [video](https://osf.io/6ry9g/?show=view)
 
 <b>[Crosslinguistic extent of dependency length minimization](https://osf.io/v9cxu/)</b> <br> 
 <b>Zoey Liu</b> <br>
