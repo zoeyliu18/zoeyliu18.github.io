@@ -21,7 +21,7 @@ To appear in <i>Linguistics Vanguard</i>.
 ======
 
 <b>[SIGMORPHON 2021 Shared Task on Morphological Reinflection: Generalization Across Languages](https://aclanthology.org/2021.sigmorphon-1.25/)</b><br>
-Tiago Pimentel, Maria Ryskina...<b>Zoey Liu</b>...Ben Ambridge, Ekaterina Vylomova <br>
+Tiago Pimentel, Maria Ryskina ... <b>Zoey Liu</b> ... Ben Ambridge, Ekaterina Vylomova <br>
 In <i>Proceedings of the 18th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology</i>.
 
 <b>[Predicting pragmatic discourse features in the language of adults with autism spectrum disorders](https://aclanthology.org/2021.acl-srw.29/)</b><br>
