@@ -11,6 +11,7 @@ author_profile: true
 <b>Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation</b> <br>
 <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
 To appear in <i>Transactions of the Association for Computational Linguistics</i>.
+[copy](http://zoeyliu18.github.io/files/orange_chicken.pdf)
 
 <b>A Multifactorial Approach to Crosslinguistic Constituent Orderings</b><br>
 <b>Zoey Liu</b><br>
