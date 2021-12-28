@@ -78,7 +78,7 @@ Poster presentation at <i>The 93rd Annual Meeting of the Linguistic Societyof Am
 
 <b>Quantifying Structural and Lexical Constraints in PP Ordering Typology</b> <br>
 <b>Zoey Liu</b> <br>
-Oral presentation at <i>California Meeting on Psycholinguistics}.</i>
+Oral presentation at <i>California Meeting on Psycholinguistics.</i>
 
 2017
 ======
