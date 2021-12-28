@@ -25,7 +25,7 @@ Something extra
 Fall 2021 -
 ------
 
-Starting as a Computing Innovation Fellow.
+Started as a Computing Innovation Fellow.
 
 Fall 2020 -
 ------
