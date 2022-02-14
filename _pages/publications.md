@@ -56,18 +56,18 @@ In <i>Proceedings of The Society for Computation in Linguistics</i>.
 
 <b>[Frequency-dependent Regularization in Syntactic Constructions](https://scholarworks.umass.edu/scil/vol4/iss1/42) </b> (abstract) <br>
 <b>Zoey Liu</b> and Emily Morgan <br>
-2021. In <i>Proceedings of The Society for Computation in Linguistics</i>.
+In <i>Proceedings of The Society for Computation in Linguistics</i>.
 
 <b>[A Data-driven Approach to Crosslinguistic Structural Biases](https://scholarworks.umass.edu/scil/vol4/iss1/31) </b> (abstract) <br>
 Alex Kramer and <b>Zoey Liu</b> <br>
-2021. In <i>Proceedings of The Society for Computation in Linguistics</i>.
+In <i>Proceedings of The Society for Computation in Linguistics</i>.
 
 2020
 ---
 
 <b>[Mixed evidence for crosslinguistic dependency length minimization](https://www.degruyter.com/view/journals/stuf/73/4/article-p605.xml)</b><br> 
 <b>Zoey Liu</b> <br>
-2020. <i>STUF-Language Typology and Universals</i>.
+<i>STUF-Language Typology and Universals</i>.
 [copy](https://www.researchgate.net/publication/343333134_Mixed_Evidence_for_Crosslinguistic_Dependency_Length_Minimization)
 
 <b>[A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information Expression](https://www.aclweb.org/anthology/2020.emnlp-main.167/)</b> <br> 
@@ -98,7 +98,6 @@ Santiago Barreda and <b>Zoey Liu</b> <br>
 <b>[Syntactic Annotation of a Hupa Text Corpus](https://nas.ucdavis.edu/sites/g/files/dgvnsk7031/files/files/person/Spence%20et%20al.%20DLC%202017%20paper-final.pdf)</b> <br> 
 Justin Spence, <b>Zoey Liu</b>, Kayla Palakurthy, and Tyler Lee-Wynant <br>
 In <i>Proceedings of Working Papers in Athabaskan Languages: Alaska Native Language Center Working Papers.</i>
-
 
 <b>[Dependency length minimization and lexical frequency in prepositional phrase ordering in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b> <br>
 (extended abstract) <br>
