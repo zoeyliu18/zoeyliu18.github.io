@@ -95,6 +95,7 @@ Santiago Barreda and <b>Zoey Liu</b> <br>
 Justin Spence, <b>Zoey Liu</b>, Kayla Palakurthy, and Tyler Lee-Wynant <br>
 In <i>Proceedings of Working Papers in Athabaskan Languages: Alaska Native Language Center Working Papers.</i>
 
-<b>[Dependency length minimization and lexical frequency in prepositional phrase ordering in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b> (extended abstract) <br> 
+<b>[Dependency length minimization and lexical frequency in prepositional phrase ordering in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b> <br>
+(extended abstract) 
 <b>Zoey Liu</b> and Kenji Sagae <br>
 In <i>Proceedings of the Society for Computation in Linguistics</i>.
