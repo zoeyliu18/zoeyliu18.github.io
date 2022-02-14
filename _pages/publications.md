@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Articles
+# Journal Articles
 
 
 <b>Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation</b> <br>
