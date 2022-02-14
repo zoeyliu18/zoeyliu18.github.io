@@ -57,8 +57,6 @@ In <i>Proceedings of The Society for Computation in Linguistics</i>.
 Alex Kramer and <b>Zoey Liu</b> <br>
 In <i>Proceedings of The Society for Computation in Linguistics</i>.
 
-<br>
-
 2020
 =====
 
@@ -75,8 +73,6 @@ In <i>Proceedings of the 2020 Conference on Empirical Methods in Natural Languag
 <b>Zoey Liu</b> and Emily Morgan <br>
 In <i>Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</i>
 
-<br>
-
 2019
 =====
 
@@ -87,8 +83,6 @@ In <i>Proceedings of the First Workshop on Quantitative Syntax.</i>
 <b>[Quantifying  Structural  and  Lexical  Constraints  in  PP  Ordering  Typology](https://scholarworks.umass.edu/scil/vol2/iss1/33/)</b> (extended abstract) <br> 
 <b>Zoey Liu</b> <br>
 In <i>Proceedings of the Society for Computation in Linguistics</i>.
-
-<br>
 
 2018
 =====
