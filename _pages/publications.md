@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Journal Articles
-======
+------
 
 2022
 ------
