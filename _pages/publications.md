@@ -54,11 +54,11 @@ In <i>Proceedings of The Second Workshop on Domain Adaptation for NLP</i>.
 <b>Zoey Liu</b> <br>
 In <i>Proceedings of The Society for Computation in Linguistics</i>. 
 
-<b>[Frequency-dependent Regularization in Syntactic Constructions](https://scholarworks.umass.edu/scil/vol4/iss1/42) (abstract)</b> <br>
+<b>[Frequency-dependent Regularization in Syntactic Constructions](https://scholarworks.umass.edu/scil/vol4/iss1/42) </b> (abstract) <br>
 <b>Zoey Liu</b> and Emily Morgan <br>
 2021. In <i>Proceedings of The Society for Computation in Linguistics</i>.
 
-<b>[A Data-driven Approach to Crosslinguistic Structural Biases](https://scholarworks.umass.edu/scil/vol4/iss1/31) (abstract)</b> <br>
+<b>[A Data-driven Approach to Crosslinguistic Structural Biases](https://scholarworks.umass.edu/scil/vol4/iss1/31) </b> (abstract) <br>
 Alex Kramer and <b>Zoey Liu</b> <br>
 2021. In <i>Proceedings of The Society for Computation in Linguistics</i>.
 
@@ -81,10 +81,13 @@ In <i>Proceedings of the 42nd Annual Conference of the Cognitive Science Society
 2019
 ---
 
-
 <b>[A  Comparative  Corpus  Analysis  of  PP  Ordering  in  English  and  Chinese](https://www.aclweb.org/anthology/W19-7905/)</b> <br> 
 <b>Zoey Liu</b> <br>
 In <i>Proceedings of the First Workshop on Quantitative Syntax.</i>
+
+<b>[Quantifying  Structural  and  Lexical  Constraints  in  PP  Ordering  Typology](https://scholarworks.umass.edu/scil/vol2/iss1/33/) </b> (extended abstract) <br> 
+<b>Zoey Liu</b> <br>
+In <i>Proceedings of the Society for Computation in Linguistics</i>.
 
 2018
 ---
@@ -97,16 +100,10 @@ Justin Spence, <b>Zoey Liu</b>, Kayla Palakurthy, and Tyler Lee-Wynant <br>
 In <i>Proceedings of Working Papers in Athabaskan Languages: Alaska Native Language Center Working Papers.</i>
 
 
-
-
-<b>[Quantifying  Structural  and  Lexical  Constraints  in  PP  Ordering  Typology](https://scholarworks.umass.edu/scil/vol2/iss1/33/) (extended abstract) </b> <br> 
-<b>Zoey Liu</b> <br>
-2019. In <i>Proceedings of the Society for Computation in Linguistics</i>.
-
 <b>[Dependency length minimization and lexical frequency in prepositional phrase ordering in English](https://scholarworks.umass.edu/scil/vol1/iss1/23/)</b> <br>
 (extended abstract) <br>
 <b>Zoey Liu</b> and Kenji Sagae <br>
-2018. In <i>Proceedings of the Society for Computation in Linguistics</i>.
+In <i>Proceedings of the Society for Computation in Linguistics</i>.
 
 
 
