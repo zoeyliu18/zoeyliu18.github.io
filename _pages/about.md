@@ -17,7 +17,6 @@ Besides academic responsibilities, I proudly serve on the planning committee for
 
 My real-life interests are music, food, and simple methods, and in that order too.
 
-<br>
 
 Something extra
 ------
