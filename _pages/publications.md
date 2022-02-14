@@ -10,16 +10,18 @@ Journal Articles
 
 <b>Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation</b> <br>
 <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
-2022. To appear in <i>Transactions of the Association for Computational Linguistics</i>.
+To appear in <i>Transactions of the Association for Computational Linguistics</i>
 [copy](http://zoeyliu18.github.io/files/orange_chicken.pdf)
 
 <b>A Multifactorial Approach to Crosslinguistic Constituent Orderings</b><br>
 <b>Zoey Liu</b><br>
-2022. To appear in <i>Linguistics Vanguard</i>.
+To appear in <i>Linguistics Vanguard</i>
 [copy](https://www.researchgate.net/publication/354204297_A_Multifactorial_Approach_to_Crosslinguistic_Constituent_Orderings)
 
 <b>Why we need a gradient approach to word order</b> <br>
-Natalia Levshina, Savithry Namboodiripad ...... <b>Zoey Liu</b> ...... Anastasia Panova and Natalia Stoynova. \href{https://psyarxiv.com/yg9bf/}{Why we need a gradient approach to word order.} Accepted with revision to \textit{Linguistics: An Interdisciplinary Journal of the Language Sciences}.}
+Natalia Levshina, Savithry Namboodiripad ...... <b>Zoey Liu</b> ...... Anastasia Panova and Natalia Stoynova <br>
+Accepted with revision to <i>Linguistics: An Interdisciplinary Journal of the Language Sciences</i>
+[copy](https://psyarxiv.com/yg9bf/)
 
 2021
 ------
