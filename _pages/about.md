@@ -15,7 +15,7 @@ My research program studies variation in languages, machines and their intersect
 
 Besides academic responsibilities, I proudly serve on the planning committee for [Advocates for Indigenous California Language Survival](https://aicls.org), and their biennial institute [Breath of Life](https://aicls.org/breath-of-life-institute/). 
 
-My non-research interests are music, food, and simple methods, and in that order too.
+My real-life interests are music, food, and simple methods, and in that order too.
 
 <br>
 
