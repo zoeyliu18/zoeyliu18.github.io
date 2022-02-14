@@ -37,40 +37,52 @@ Oral presentation at <i>The Society for the Study of the Indigenous Languages of
 
 <b>Dependency length minimization does not affect acceptability of PP ordering in Hindi and English</b> <br>
 <b>Zoey Liu</b>, Ria Upreti, Mathew A. Kramer, and Savithry Namboodiripad <br>
-2022. Oral presentation at <i>The 96th Annual Meeting of the Linguistic Society of America.</i>
+Oral presentation at <i>The 96th Annual Meeting of the Linguistic Society of America.</i>
 
+2021
+---
 <b>[A multifactorial approach to constituent orderings](https://www.youtube.com/watch?v=uUFGrilspbk&t=13s)</b> <br> 
 <b>Zoey Liu</b> <br>
-2021. Oral presentation at <i>The 34th Annual CUNY Human Sentence Processing Conference</i>.
+Oral presentation at <i>The 34th Annual CUNY Human Sentence Processing Conference</i>.
 
+2020
+---
 <b>[The relationship between word order flexibility and dependency length minimization](https://osf.io/6vztu/)</b> <br> 
 <b>Zoey Liu</b> <br>
-2020. Oral presentation at <i>The 53rd Annual Meeting of the Societas Linguistica Europaea</i>. 
+Oral presentation at <i>The 53rd Annual Meeting of the Societas Linguistica Europaea</i>. 
 
 <b>[Frequency-dependent regularization in abstract syntactic structures](https://osf.io/6ry9g/?show=view) </b> <br> 
 <b>Zoey Liu</b> and Emily Morgan <br>
-2020. Oral presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>.
+Oral presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>.
 
 <b>[Crosslinguistic extent of dependency length minimization](https://osf.io/v9cxu/)</b> <br> 
 <b>Zoey Liu</b> <br>
-2020. Poster presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>. 
+Poster presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>. 
 
 <b>[Do arguments appear closer crosslinguistically?](https://osf.io/3hyug/)</b> <br> 
 <b>Zoey Liu</b> <br>
-2020. Poster presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>. 
+Poster presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>. 
 
+2019
+---
 <b>The  effect  of  linguistic  experience  on  the  perception  of talker height from speech</b> <br> 
 Satiago Barreda and <b>Zoey Liu</b> <br>
-2019. Poster presentation at <i>The 93rd Annual Meeting of the Linguistic Societyof America</i>. 
+Poster presentation at <i>The 93rd Annual Meeting of the Linguistic Societyof America</i>. 
 
+2018
+---
 <b>Quantifying Structural and Lexical Constraints in PP Ordering Typology</b> <br>
 <b>Zoey Liu</b> <br>
-2018. Oral presentation at <i>California Meeting on Psycholinguistics.</i>
+Oral presentation at <i>California Meeting on Psycholinguistics.</i>
 
+2017
+---
 <b>Building for the future: Adopting TEI standards in a text of Hupa</b> <br> 
 Justin Spence and <b>Zoey Liu</b> <br>
-2017. Oral presentation at <i>The Society of the Study of the Indigenous Languages of the Americas</i>. 
+Oral presentation at <i>The Society of the Study of the Indigenous Languages of the Americas</i>. 
 
+2016
+---
 <b>The role of function words:  An empirical study of text distance measure performance</b> <br> 
 <b>Zoey Liu</b>
-2016. Oral presentation at <i>The Association for Linguistic Evidence</i>. 
+Oral presentation at <i>The Association for Linguistic Evidence</i>. 
