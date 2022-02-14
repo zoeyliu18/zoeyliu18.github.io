@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-Journal Articles
-------
+## Journal Articles
+
 
 <b>Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation</b> <br>
 <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
@@ -62,7 +62,7 @@ William Dyer, Richard Futrell, <b>Zoey Liu</b> and Gregory Scontras <br>
 
 <b>[The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach](https://scholarworks.umass.edu/scil/vol4/iss1/25)</b> <br> 
 <b>Zoey Liu</b> <br>
-2021. In <i>Proceedings of The Society for Computation in Linguistics</i>.
+2021. In <i>Proceedings of The Society for Computation in Linguistics</i>. 
 
 <b>[A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information Expression](https://www.aclweb.org/anthology/2020.emnlp-main.167/)</b> <br> 
 Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li <br>
