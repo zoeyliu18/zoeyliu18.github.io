@@ -23,6 +23,16 @@ Natalia Levshina, Savithry Namboodiripad ...... <b>Zoey Liu</b> ...... Anastasia
 Accepted with revision to <i>Linguistics: An Interdisciplinary Journal of the Language Sciences</i>
 [copy](https://psyarxiv.com/yg9bf/)
 
+<b>[Mixed evidence for crosslinguistic dependency length minimization](https://www.degruyter.com/view/journals/stuf/73/4/article-p605.xml)</b><br> 
+<b>Zoey Liu</b> <br>
+2020. <i>STUF-Language Typology and Universals</i> 
+[copy](https://www.researchgate.net/publication/343333134_Mixed_Evidence_for_Crosslinguistic_Dependency_Length_Minimization)
+
+
+<b>[Apparent-talker height is influenced by Mandarin lexical tone](https://asa.scitation.org/doi/10.1121/1.5022156)</b> <br> 
+Santiago Barreda and <b>Zoey Liu</b> <br>
+2018. <i>The Journal of the Acoustical Society of America, EL</i>
+
 2021
 ------
 
@@ -65,10 +75,6 @@ In <i>Proceedings of The Society for Computation in Linguistics</i>.
 2020
 =====
 
-<b>[Mixed evidence for crosslinguistic dependency length minimization](https://www.degruyter.com/view/journals/stuf/73/4/article-p605.xml)</b><br> 
-<b>Zoey Liu</b> <br>
-<i>STUF-Language Typology and Universals.</i> 
-[copy](https://www.researchgate.net/publication/343333134_Mixed_Evidence_for_Crosslinguistic_Dependency_Length_Minimization)
 
 <b>[A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information Expression](https://www.aclweb.org/anthology/2020.emnlp-main.167/)</b> <br> 
 Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li <br>
@@ -92,9 +98,6 @@ In <i>Proceedings of the Society for Computation in Linguistics</i>.
 2018
 =====
 
-<b>[Apparent-talker height is influenced by Mandarin lexical tone](https://asa.scitation.org/doi/10.1121/1.5022156)</b> <br> 
-Santiago Barreda and <b>Zoey Liu</b> <br>
-<i>The Journal of the Acoustical Society of America, EL.</i>
 
 <b>[Syntactic Annotation of a Hupa Text Corpus](https://nas.ucdavis.edu/sites/g/files/dgvnsk7031/files/files/person/Spence%20et%20al.%20DLC%202017%20paper-final.pdf)</b> <br> 
 Justin Spence, <b>Zoey Liu</b>, Kayla Palakurthy, and Tyler Lee-Wynant <br>
