@@ -20,7 +20,7 @@ My real-life interests are music, food, and simple methods, and in that order to
 <br>
 
 Something extra
-======
+------
 
 Fall 2021 -
 ------
