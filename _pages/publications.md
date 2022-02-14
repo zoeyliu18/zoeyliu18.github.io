@@ -15,14 +15,17 @@ Journal Articles
 
 <b>A Multifactorial Approach to Crosslinguistic Constituent Orderings</b><br>
 <b>Zoey Liu</b><br>
-To appear in <i>Linguistics Vanguard</i>.
+2022. To appear in <i>Linguistics Vanguard</i>.
 [copy](https://www.researchgate.net/publication/354204297_A_Multifactorial_Approach_to_Crosslinguistic_Constituent_Orderings)
+
+<b>Why we need a gradient approach to word order</b> <br>
+Natalia Levshina, Savithry Namboodiripad ...... <b>Zoey Liu</b> ...... Anastasia Panova and Natalia Stoynova. \href{https://psyarxiv.com/yg9bf/}{Why we need a gradient approach to word order.} Accepted with revision to \textit{Linguistics: An Interdisciplinary Journal of the Language Sciences}.}
 
 2021
 ------
 
 <b>[SIGMORPHON 2021 Shared Task on Morphological Reinflection: Generalization Across Languages](https://aclanthology.org/2021.sigmorphon-1.25/)</b><br>
-Tiago Pimentel, Maria Ryskina ... <b>Zoey Liu</b> ... Ben Ambridge, Ekaterina Vylomova <br>
+Tiago Pimentel, Maria Ryskina ...... <b>Zoey Liu</b> ...... Ben Ambridge, Ekaterina Vylomova <br>
 In <i>Proceedings of the 18th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology</i>.
 
 <b>[Predicting pragmatic discourse features in the language of adults with autism spectrum disorders](https://aclanthology.org/2021.acl-srw.29/)</b><br>
