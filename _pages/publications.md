@@ -13,6 +13,10 @@ author_profile: true
 To appear in <i>Transactions of the Association for Computational Linguistics</i>.
 [copy](http://zoeyliu18.github.io/files/orange_chicken.pdf)
 
+<b>*Not always about you*: Prioritizing community needs when developing endangered language technology</b> <br>
+<b>Zoey Liu*</b>, Crystal Richardson*, Richard Hatcher and Emily Prud'hommeaux <br> 
+To appear in <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics</i>.
+
 <b>A Multifactorial Approach to Crosslinguistic Constituent Orderings</b><br>
 <b>Zoey Liu</b><br>
 To appear in <i>Linguistics Vanguard</i>.
