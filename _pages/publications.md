@@ -8,8 +8,8 @@ author_profile: true
 2022
 ----
 
-<b>*Not always about you*: Prioritizing community needs when developing endangered language technology</b> <br>
-<b>Zoey Liu*</b>, Crystal Richardson*, Richard Hatcher and Emily Prud'hommeaux <br> 
+<b><i>Not always about you*: Prioritizing community needs when developing endangered language technology</i></b> <br>
+<b>Zoey Liu</b>*, Crystal Richardson*, Richard Hatcher and Emily Prud'hommeaux <br> 
 To appear in <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics</i>.
 
 <b>Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation</b> <br>
