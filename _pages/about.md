@@ -11,7 +11,7 @@ redirect_from:
 
 Nice to e-meet you! I'm a 2021-2023 [Computing Innovation Fellow](https://cccblog.org/2021/07/22/announcing-the-2021-computing-innovation-fellows/) supported by NSF. My host institution is Boston College. 
 
-In January, 2023, I'll be joining [The Department of Linguistics](https://lin.ufl.edu/) at The University of Florida as an Assistant Professor.
+In January, 2023, I'll be joining [The Department of Linguistics](https://lin.ufl.edu/) at The University of Florida as an Assistant Professor in Computational Language Science.
 
 My research program studies ***variation*** in languages, machines and their intersections. I address related questions from aspects of language typology, language learning and low-resource NLP, along with a non-western mind. The general methodology that I use is a data-driven approach coupled with [The #BenderRule](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/) and methods of number counting at varying degrees of carbon dioxide consumption. 
 
@@ -22,11 +22,6 @@ My real-life interests are music, food, and simple methods, and in that order to
 
 Something extra
 ------
-
-Fall 2021 -
-------
-
-Started as a Computing Innovation Fellow.
 
 Fall 2020 -
 ------
