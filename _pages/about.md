@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Nice to e-meet you! I'm a 2021-2023 [Computing Innovation Fellow](https://cccblog.org/2021/07/22/announcing-the-2021-computing-innovation-fellows/) supported by NSF. My host institution is Boston College. I received my PhD in Linguistics from the University of California, Davis in Summer 2020. 
+Nice to e-meet you! I'm a 2021-2023 [Computing Innovation Fellow](https://cccblog.org/2021/07/22/announcing-the-2021-computing-innovation-fellows/) supported by NSF. My host institution is Boston College. 
 
 In January, 2023, I'll be joining [The Department of Linguistics](https://lin.ufl.edu/) at The University of Florida.
 
