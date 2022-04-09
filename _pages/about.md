@@ -23,6 +23,11 @@ My real-life interests are music, food, and simple methods, and in that order to
 Something extra
 ------
 
+Fall 2021 -
+------
+
+Started as a Computing Innovation Fellow.
+
 Fall 2020 -
 ------
 
