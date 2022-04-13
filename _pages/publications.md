@@ -19,6 +19,7 @@ To appear in <i>The 13th Language Resources and Evaluation Conference</i>.
 <b><i>Not always about you</i>: Prioritizing community needs when developing endangered language technology</b> <br>
 <b>Zoey Liu\*</b>, Crystal Richardson\*, Richard Hatcher and Emily Prud'hommeaux <br> 
 To appear in <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics</i>.
+[copy](https://arxiv.org/abs/2204.05541)
 
 <b>[Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00467/110437/Data-driven-Model-Generalizability-in)</b> <br>
 <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
