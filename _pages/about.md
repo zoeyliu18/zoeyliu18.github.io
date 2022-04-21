@@ -46,6 +46,6 @@ During this time, I interned as a software developer at the Cognitive Computing 
 Fall 2014 - Summer 2016
 ------
 
-During this time, I got an MA, advised by Raul Aranovich[https://linguistics.ucdavis.edu/people/raranovi]. My thesis looked at authorship attribution for short text documents.
+During this time, I got an MA, advised by [Raul Aranovich](https://linguistics.ucdavis.edu/people/raranovi). My thesis looked at authorship attribution for short text documents.
 
 
