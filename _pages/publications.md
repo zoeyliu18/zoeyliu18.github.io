@@ -9,7 +9,7 @@ author_profile: true
 ----
 
 <b>Data-driven Crosslinguistic Syntactic Transfer in Second Language Learning</b> <br>
-<b>Zoey Liu</b>, Tiwa Eisape, Joshua Hartshorne and Emily Prud’hommeaux <br> 
+<b>Zoey Liu</b>, Tiwa Eisape, Emily Prud’hommeaux and Joshua Hartshorne <br> 
 To appear in <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society</i>.
 
 <b>Does One Size Fit all in Crosslinguistic Dependency Length Minimization?</b> <br>
