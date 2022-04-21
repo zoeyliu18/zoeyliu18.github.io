@@ -8,6 +8,14 @@ author_profile: true
 2022
 ----
 
+<b>Data-driven Crosslinguistic Syntactic Transfer in Second Language Learning</b> <br>
+<b>Zoey Liu</b>, Tiwa Eisape, Joshua Hartshorne and Emily Prud’hommeaux <br> 
+To appear in <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society</i>.
+
+<b>Does One Size Fit all in Crosslinguistic Dependency Length Minimization?</b> <br>
+<b>Zoey Liu</b>, Ria Upreti, Mathew A. Kramer and Savithry Namboodiripad <br> 
+To appear in <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society</i>.
+
 <b>Enhancing Documentation of Hupa with Automatic Speech Recognition</b> <br>
 <b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br> 
 To appear in <i>The 5th Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>.
