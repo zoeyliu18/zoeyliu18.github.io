@@ -33,7 +33,7 @@ Fall 2020 -
 
 Started working as a postdoc in late November, mentored by [Emily Tucker Prud'hommeaux](http://cs.bc.edu/~prudhome/publications.html). I usually spend time wandering around low-resource NLP evaluation as well as language technologies for enhancing documentation of indigenous languages. Some other times I like to think about language learning and typology.
 
-Fall 2014 - Summer 2020
+Fall 2016 - Summer 2020
 ------
 
 During this time, I got a PhD, advised by [Kenji Sagae](http://www.sagae.org). My [dissertation project](http://zoeyliu18.github.io/files/Zoey_Dissertation.pdf) focuses on crosslinguistic modeling of word order preferences, asking what abstract constraints as well as idiosyncrasies govern language users' structural choices from both synchronic and diachronic perspectives. Additionally, this project also tries to adapt theoretical framework of dependency syntax to develop a treebank for Hupa, an endangered Dene language of northwestern California traditionally spoken in Hoopa Valley on the lower Trinity River in present-day Humboldt County, as a way to formalize and model the syntax of indigenous languages.
@@ -42,5 +42,10 @@ Summer 2019
 ------
 
 During this time, I interned as a software developer at the Cognitive Computing Lab at [Baidu](http://research.baidu.com/Index). I worked on designing graph represetations for open-domain information extraction in English and Mandarin.
+
+Fall 2014 - Summer 2016
+------
+
+During this time, I got an MA, advised by Raul Aranovich[https://linguistics.ucdavis.edu/people/raranovi]. My thesis looked at authorship attribution for short text documents.
 
 
