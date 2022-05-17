@@ -18,7 +18,7 @@ To appear in <i>Proceedings of the 44th Annual Conference of the Cognitive Scien
 
 <b>[Enhancing Documentation of Hupa with Automatic Speech Recognition](https://aclanthology.org/2022.computel-1.23/)</b> <br>
 <b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br> 
-In <i>The 5th Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>.
+In <i>Proceedings of the Fifth Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>.
 
 <b>UniMorph 4.0: Universal Morphology</b> <br>
 Khuyagbaatar Batsuren, Omer Goldman ...... <b>Zoey Liu</b> ...... Reut Tsarfaty and Ekaterina Vylomova <br> 
