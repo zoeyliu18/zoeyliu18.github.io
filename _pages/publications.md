@@ -16,18 +16,17 @@ To appear in <i>Proceedings of the 44th Annual Conference of the Cognitive Scien
 <b>Zoey Liu</b>, Ria Upreti, Mathew A. Kramer and Savithry Namboodiripad <br> 
 To appear in <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society</i>.
 
-<b>Enhancing Documentation of Hupa with Automatic Speech Recognition</b> <br>
+<b>[Enhancing Documentation of Hupa with Automatic Speech Recognition](https://aclanthology.org/2022.computel-1.23/)</b> <br>
 <b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br> 
-To appear in <i>The 5th Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>.
+In <i>The 5th Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>.
 
 <b>UniMorph 4.0: Universal Morphology</b> <br>
 Khuyagbaatar Batsuren, Omer Goldman ...... <b>Zoey Liu</b> ...... Reut Tsarfaty and Ekaterina Vylomova <br> 
 To appear in <i>The 13th Language Resources and Evaluation Conference</i>.
 
-<b><i>Not always about you</i>: Prioritizing community needs when developing endangered language technology</b> <br>
+<b>[<i>Not always about you</i>: Prioritizing community needs when developing endangered language technology](https://aclanthology.org/2022.acl-long.272/)</b> <br>
 <b>Zoey Liu\*</b>, Crystal Richardson\*, Richard Hatcher and Emily Prud'hommeaux <br> 
-To appear in <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics</i>.
-[copy](https://arxiv.org/abs/2204.05541)
+In <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics</i>.
 
 <b>[Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00467/110437/Data-driven-Model-Generalizability-in)</b> <br>
 <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
