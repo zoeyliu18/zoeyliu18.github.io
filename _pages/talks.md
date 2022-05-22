@@ -83,5 +83,5 @@ Justin Spence and <b>Zoey Liu</b> <br>
 Oral presentation at <i>The Society of the Study of the Indigenous Languages of the Americas</i>. 2017.
 
 <b>The role of function words:  An empirical study of text distance measure performance</b> <br> 
-<b>Zoey Liu</b>
+<b>Zoey Liu</b> <br>
 Oral presentation at <i>The Association for Linguistic Evidence</i>. 2016.
