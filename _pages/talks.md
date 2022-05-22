@@ -5,30 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-Invited Talks
-------
-
-<b>Data-driven Approach to Gradience in Languages and Machines</b> <br>
-<b>Zoey Liu</b> <br>
-Language and Cognition, Harvard University (invited). 2021.
-
-<b>A Data-driven Approach to Structural Variation</b> <br> 
-<b>Zoey Liu</b> <br>
-Department of Linguistics, UC Davis (invited). 2021.
-
-<b>Data-driven Crosslinguistic Modeling of Constituent Ordering Preferences</b> <br> 
-<b>Zoey Liu</b> <br>
-TedLab, Department of Brain and Cognitive Sciences, MIT (invited). 2020.
-
-<b>Frequency-dependent Regularization in Constituent Ordering Preferences</b> <br> 
-<b>Zoey Liu</b> <br>
-NERT, Department of Linguistics, Georgetown University (invited). 2020.
-
-<br>
-
-Some Conference Presentations
-------
-
 <b>Automated Morphological Analysis of Hupa</b> <br>
 <b>Zoey Liu</b>, Emily Prud'hommeaux and Justin Spence <br>
 Oral presentation at <i>The Society for the Study of the Indigenous Languages of the Americas.</i> 2022.
@@ -37,9 +13,17 @@ Oral presentation at <i>The Society for the Study of the Indigenous Languages of
 <b>Zoey Liu</b>, Ria Upreti, Mathew A. Kramer, and Savithry Namboodiripad <br>
 Oral presentation at <i>The 96th Annual Meeting of the Linguistic Society of America.</i> 2022.
 
+<b>Data-driven Approach to Gradience in Languages and Machines</b> <br>
+<b>Zoey Liu</b> <br>
+Language and Cognition, Harvard University (invited). 2021.
+
 <b>[A multifactorial approach to constituent orderings](https://www.youtube.com/watch?v=uUFGrilspbk&t=13s)</b> <br> 
 <b>Zoey Liu</b> <br>
 Oral presentation at <i>The 34th Annual CUNY Human Sentence Processing Conference</i>. 2021.
+
+<b>A Data-driven Approach to Structural Variation</b> <br> 
+<b>Zoey Liu</b> <br>
+Department of Linguistics, UC Davis (invited). 2021.
 
 <b>[Frequency-dependent Regularization in Syntactic Constructions](https://scholarworks.umass.edu/scil/vol4/iss1/42) </b> <br>
 <b>Zoey Liu</b> and Emily Morgan <br>
@@ -49,9 +33,17 @@ Poster presentation at <i>The Society for Computation in Linguistics</i>. 2021.
 Alex Kramer and <b>Zoey Liu</b> <br>
 Poster presentation at <i>The Society for Computation in Linguistics</i>. 2021.
 
+<b>Data-driven Crosslinguistic Modeling of Constituent Ordering Preferences</b> <br> 
+<b>Zoey Liu</b> <br>
+TedLab, Department of Brain and Cognitive Sciences, MIT (invited). 2020.
+
 <b>[The relationship between word order flexibility and dependency length minimization](https://osf.io/6vztu/)</b> <br> 
 <b>Zoey Liu</b> <br>
 Oral presentation at <i>The 53rd Annual Meeting of the Societas Linguistica Europaea</i>. 2020.
+
+<b>Frequency-dependent Regularization in Constituent Ordering Preferences</b> <br> 
+<b>Zoey Liu</b> <br>
+NERT, Department of Linguistics, Georgetown University (invited). 2020.
 
 <b>[Frequency-dependent regularization in abstract syntactic structures](https://osf.io/6ry9g/?show=view) </b> <br> 
 <b>Zoey Liu</b> and Emily Morgan <br>
