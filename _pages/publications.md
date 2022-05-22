@@ -57,13 +57,13 @@ In <i>Proceedings of the Student Research Workshop at The Joint Conference of th
 William Dyer, Richard Futrell, <b>Zoey Liu</b> and Gregory Scontras <br>
 In <i>Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing</i>.
 
-<b>[Morphological Segmentation for Seneca](https://www.aclweb.org/anthology/2021.americasnlp-1.10/)</b> <br>
-<b>Zoey Liu</b>, Robbie Jimerson and Emily Prud’hommeaux <br>
-In <i>Proceedings of The First Workshop on NLP for Indigenous Languages of the Americas</i>.
-
 <b>[English Negative Constructions and Communicative Functions in Child Language](https://escholarship.org/uc/item/0kj5j80c)</b> <br>
 <b>Zoey Liu</b> and Masoud Jasbi <br>
 In <i>Proceedings of The 43rd Annual Conference of the Cognitive Science Society</i>.
+
+<b>[Morphological Segmentation for Seneca](https://www.aclweb.org/anthology/2021.americasnlp-1.10/)</b> <br>
+<b>Zoey Liu</b>, Robbie Jimerson and Emily Prud’hommeaux <br>
+In <i>Proceedings of The First Workshop on NLP for Indigenous Languages of the Americas</i>.
 
 <b>[Dependency Parsing Evaluation for Low-resource Spontaneous Speech](https://www.aclweb.org/anthology/2021.adaptnlp-1.16/)</b><br>
 <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
@@ -89,13 +89,13 @@ In <i>Proceedings of The Society for Computation in Linguistics</i>.
 <i>STUF-Language Typology and Universals</i>.
 [copy](https://www.researchgate.net/publication/343333134_Mixed_Evidence_for_Crosslinguistic_Dependency_Length_Minimization)
 
-<b>[A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information Expression](https://www.aclweb.org/anthology/2020.emnlp-main.167/)</b> <br> 
-Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li <br>
-In <i>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing</i>. 
-
 <b>[Frequency-dependent Regularization in Constituent Ordering Preferences](https://cognitivesciencesociety.org/cogsci20/papers/0751/0751.pdf)</b> <br> 
 <b>Zoey Liu</b> and Emily Morgan <br>
 In <i>Proceedings of the 42nd Annual Conference of the Cognitive Science Society.</i>
+
+<b>[A Predicate-Function-Argument Annotation of Natural Language for Open-Domain Information Expression](https://www.aclweb.org/anthology/2020.emnlp-main.167/)</b> <br> 
+Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng and Ping Li <br>
+In <i>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing</i>. 
 
 2019
 ---
