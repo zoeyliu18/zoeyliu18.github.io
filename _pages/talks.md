@@ -10,19 +10,19 @@ Invited Talks
 
 <b>Data-driven Approach to Gradience in Languages and Machines</b> <br>
 <b>Zoey Liu</b> <br>
-Language and Cognition, Harvard University, 2021.
+Language and Cognition, Harvard University (invited). 2021.
 
 <b>A Data-driven Approach to Structural Variation</b> <br> 
 <b>Zoey Liu</b> <br>
-Department of Linguistics, UC Davis, 2021.
+Department of Linguistics, UC Davis (invited). 2021.
 
 <b>Data-driven Crosslinguistic Modeling of Constituent Ordering Preferences</b> <br> 
 <b>Zoey Liu</b> <br>
-TedLab, Department of Brain and Cognitive Sciences, MIT, 2020.
+TedLab, Department of Brain and Cognitive Sciences, MIT (invited). 2020.
 
 <b>Frequency-dependent Regularization in Constituent Ordering Preferences</b> <br> 
 <b>Zoey Liu</b> <br>
-NERT, Department of Linguistics, Georgetown University, 2020.
+NERT, Department of Linguistics, Georgetown University (invited). 2020.
 
 <br>
 
