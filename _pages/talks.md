@@ -5,13 +5,19 @@ permalink: /talks/
 author_profile: true
 ---
 
+2022
+----
+
 <b>Automated Morphological Analysis of Hupa</b> <br>
 <b>Zoey Liu</b>, Emily Prud'hommeaux and Justin Spence <br>
-Oral presentation at <i>The Society for the Study of the Indigenous Languages of the Americas.</i> 2022.
+Oral presentation at <i>The Society for the Study of the Indigenous Languages of the Americas.</i> 
 
 <b>Dependency length minimization does not affect acceptability of PP ordering in Hindi and English</b> <br>
 <b>Zoey Liu</b>, Ria Upreti, Mathew A. Kramer, and Savithry Namboodiripad <br>
-Oral presentation at <i>The 96th Annual Meeting of the Linguistic Society of America.</i> 2022.
+Oral presentation at <i>The 96th Annual Meeting of the Linguistic Society of America.</i>
+
+2021
+----
 
 <b>Data-driven Approach to Gradience in Languages and Machines</b> <br>
 <b>Zoey Liu</b> <br>
@@ -32,6 +38,9 @@ Poster presentation at <i>The Society for Computation in Linguistics</i>. 2021.
 <b>[A Data-driven Approach to Crosslinguistic Structural Biases](https://scholarworks.umass.edu/scil/vol4/iss1/31) </b> <br>
 Alex Kramer and <b>Zoey Liu</b> <br>
 Poster presentation at <i>The Society for Computation in Linguistics</i>. 2021.
+
+2020
+----
 
 <b>Data-driven Crosslinguistic Modeling of Constituent Ordering Preferences</b> <br> 
 <b>Zoey Liu</b> <br>
@@ -57,9 +66,13 @@ Poster presentation at <i>The 33rd Annual CUNY Human Sentence Processing Confere
 <b>Zoey Liu</b> <br>
 Poster presentation at <i>The 33rd Annual CUNY Human Sentence Processing Conference</i>. 2020.
 
+Earlier
+----
+
 <b>The  effect  of  linguistic  experience  on  the  perception  of talker height from speech</b> <br> 
 Satiago Barreda and <b>Zoey Liu</b> <br>
 Poster presentation at <i>The 93rd Annual Meeting of the Linguistic Societyof America</i>. 2019.
+
 
 <b>Quantifying Structural and Lexical Constraints in PP Ordering Typology</b> <br>
 <b>Zoey Liu</b> <br>
