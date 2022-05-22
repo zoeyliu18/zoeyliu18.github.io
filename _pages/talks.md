@@ -41,6 +41,14 @@ Oral presentation at <i>The 96th Annual Meeting of the Linguistic Society of Ame
 <b>Zoey Liu</b> <br>
 Oral presentation at <i>The 34th Annual CUNY Human Sentence Processing Conference</i>. 2021.
 
+<b>[Frequency-dependent Regularization in Syntactic Constructions](https://scholarworks.umass.edu/scil/vol4/iss1/42) </b> <br>
+<b>Zoey Liu</b> and Emily Morgan <br>
+Poster presentation at <i>The Society for Computation in Linguistics</i>. 2021.
+
+<b>[A Data-driven Approach to Crosslinguistic Structural Biases](https://scholarworks.umass.edu/scil/vol4/iss1/31) </b> <br>
+Alex Kramer and <b>Zoey Liu</b> <br>
+Poster presentation at <i>The Society for Computation in Linguistics</i>. 2021.
+
 <b>[The relationship between word order flexibility and dependency length minimization](https://osf.io/6vztu/)</b> <br> 
 <b>Zoey Liu</b> <br>
 Oral presentation at <i>The 53rd Annual Meeting of the Societas Linguistica Europaea</i>. 2020.
