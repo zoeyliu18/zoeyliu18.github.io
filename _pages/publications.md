@@ -8,58 +8,46 @@ author_profile: true
 2022
 ----
 
-<b>Data-driven Crosslinguistic Syntactic Transfer in Second Language Learning</b> <br>
-<b>Zoey Liu</b>, Tiwa Eisape, Emily Prud’hommeaux and Joshua Hartshorne <br> 
-To appear in <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society</i>.
-
-<b>Does One Size Fit all in Crosslinguistic Dependency Length Minimization?</b> <br>
-<b>Zoey Liu</b>, Ria Upreti, Mathew A. Kramer and Savithry Namboodiripad <br> 
-To appear in <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society</i>.
-
-<b>[Enhancing Documentation of Hupa with Automatic Speech Recognition](https://aclanthology.org/2022.computel-1.23/)</b> <br>
-<b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br> 
-In <i>Proceedings of the Fifth Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>.
-
-<b>UniMorph 4.0: Universal Morphology</b> <br>
-Khuyagbaatar Batsuren, Omer Goldman ...... <b>Zoey Liu</b> ...... Reut Tsarfaty and Ekaterina Vylomova <br> 
-To appear in <i>The 13th Language Resources and Evaluation Conference</i>.
+<b>[Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00467/110437/Data-driven-Model-Generalizability-in)</b> <br>
+<b>Zoey Liu</b> and Emily Prud'hommeaux <br>
+In <i>Transactions of the Association for Computational Linguistics</i>.
 
 <b>[<i>Not always about you</i>: Prioritizing community needs when developing endangered language technology](https://aclanthology.org/2022.acl-long.272/)</b> <br>
 <b>Zoey Liu\*</b>, Crystal Richardson\*, Richard Hatcher and Emily Prud'hommeaux <br> 
 In <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics</i>.
-
-<b>[Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00467/110437/Data-driven-Model-Generalizability-in)</b> <br>
-<b>Zoey Liu</b> and Emily Prud'hommeaux <br>
-In <i>Transactions of the Association for Computational Linguistics</i>.
 
 <b>A Multifactorial Approach to Crosslinguistic Constituent Orderings</b><br>
 <b>Zoey Liu</b><br>
 To appear in <i>Linguistics Vanguard</i>.
 [copy](https://www.researchgate.net/publication/354204297_A_Multifactorial_Approach_to_Crosslinguistic_Constituent_Orderings)
 
+<b>Data-driven Crosslinguistic Syntactic Transfer in Second Language Learning</b> <br>
+<b>Zoey Liu</b>, Tiwa Eisape, Emily Prud’hommeaux and Joshua Hartshorne <br> 
+In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society</i>.
+
+<b>Does One Size Fit all in Crosslinguistic Dependency Length Minimization?</b> <br>
+<b>Zoey Liu</b>, Ria Upreti, Mathew A. Kramer and Savithry Namboodiripad <br> 
+In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society</i>.
+
+<b>[Enhancing Documentation of Hupa with Automatic Speech Recognition](https://aclanthology.org/2022.computel-1.23/)</b> <br>
+<b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br> 
+In <i>Proceedings of the Fifth Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>.
+
 <b>Why we need a gradient approach to word order</b> <br>
 Natalia Levshina, Savithry Namboodiripad ...... <b>Zoey Liu</b> ...... Anastasia Panova and Natalia Stoynova <br>
 Accepted with revision to <i>Linguistics: An Interdisciplinary Journal of the Language Sciences</i>.
 [copy](https://psyarxiv.com/yg9bf/)
 
+<b>UniMorph 4.0: Universal Morphology</b> <br>
+Khuyagbaatar Batsuren, Omer Goldman ...... <b>Zoey Liu</b> ...... Reut Tsarfaty and Ekaterina Vylomova <br> 
+In <i>The 13th Language Resources and Evaluation Conference</i>.
+
 2021
 ---
 
-<b>[SIGMORPHON 2021 Shared Task on Morphological Reinflection: Generalization Across Languages](https://aclanthology.org/2021.sigmorphon-1.25/)</b><br>
-Tiago Pimentel, Maria Ryskina ...... <b>Zoey Liu</b> ...... Ben Ambridge, Ekaterina Vylomova <br>
-In <i>Proceedings of the 18th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology</i>.
-
-<b>[Predicting pragmatic discourse features in the language of adults with autism spectrum disorders](https://aclanthology.org/2021.acl-srw.29/)</b><br>
-Christine Yang, Duanchen Liu, Qingyun Yang, <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
-In <i>Proceedings of the Student Research Workshop at The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing</i>.
-
-<b>[Predicting cross-linguistic adjective order with information gain](https://aclanthology.org/2021.findings-acl.83/)</b><br>
-William Dyer, Richard Futrell, <b>Zoey Liu</b> and Gregory Scontras <br>
-In <i>Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing</i>.
-
-<b>[English Negative Constructions and Communicative Functions in Child Language](https://escholarship.org/uc/item/0kj5j80c)</b> <br>
-<b>Zoey Liu</b> and Masoud Jasbi <br>
-In <i>Proceedings of The 43rd Annual Conference of the Cognitive Science Society</i>.
+<b>[The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach](https://scholarworks.umass.edu/scil/vol4/iss1/25)</b> <br> 
+<b>Zoey Liu</b> <br>
+In <i>Proceedings of The Society for Computation in Linguistics</i>. 
 
 <b>[Morphological Segmentation for Seneca](https://www.aclweb.org/anthology/2021.americasnlp-1.10/)</b> <br>
 <b>Zoey Liu</b>, Robbie Jimerson and Emily Prud’hommeaux <br>
@@ -69,17 +57,21 @@ In <i>Proceedings of The First Workshop on NLP for Indigenous Languages of the A
 <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
 In <i>Proceedings of The Second Workshop on Domain Adaptation for NLP</i>.
 
-<b>[The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach](https://scholarworks.umass.edu/scil/vol4/iss1/25)</b> <br> 
-<b>Zoey Liu</b> <br>
-In <i>Proceedings of The Society for Computation in Linguistics</i>. 
+<b>[English Negative Constructions and Communicative Functions in Child Language](https://escholarship.org/uc/item/0kj5j80c)</b> <br>
+<b>Zoey Liu</b> and Masoud Jasbi <br>
+In <i>Proceedings of The 43rd Annual Conference of the Cognitive Science Society</i>.
 
-<b>[Frequency-dependent Regularization in Syntactic Constructions](https://scholarworks.umass.edu/scil/vol4/iss1/42) </b> (abstract) <br>
-<b>Zoey Liu</b> and Emily Morgan <br>
-In <i>Proceedings of The Society for Computation in Linguistics</i>.
+<b>[Predicting cross-linguistic adjective order with information gain](https://aclanthology.org/2021.findings-acl.83/)</b><br>
+William Dyer, Richard Futrell, <b>Zoey Liu</b> and Gregory Scontras <br>
+In <i>Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing</i>.
 
-<b>[A Data-driven Approach to Crosslinguistic Structural Biases](https://scholarworks.umass.edu/scil/vol4/iss1/31) </b> (abstract) <br>
-Alex Kramer and <b>Zoey Liu</b> <br>
-In <i>Proceedings of The Society for Computation in Linguistics</i>.
+<b>[Predicting pragmatic discourse features in the language of adults with autism spectrum disorders](https://aclanthology.org/2021.acl-srw.29/)</b><br>
+Christine Yang, Duanchen Liu, Qingyun Yang, <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
+In <i>Proceedings of the Student Research Workshop at The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing</i>.
+
+<b>[SIGMORPHON 2021 Shared Task on Morphological Reinflection: Generalization Across Languages](https://aclanthology.org/2021.sigmorphon-1.25/)</b><br>
+Tiago Pimentel, Maria Ryskina ...... <b>Zoey Liu</b> ...... Ben Ambridge, Ekaterina Vylomova <br>
+In <i>Proceedings of the 18th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology</i>.
 
 2020
 ---
