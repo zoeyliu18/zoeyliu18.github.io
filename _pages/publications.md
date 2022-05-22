@@ -21,6 +21,10 @@ In <i>Proceedings of the 60th Annual Meeting of the Association for Computationa
 To appear in <i>Linguistics Vanguard</i>.
 [copy](https://www.researchgate.net/publication/354204297_A_Multifactorial_Approach_to_Crosslinguistic_Constituent_Orderings)
 
+<b>[Enhancing Documentation of Hupa with Automatic Speech Recognition](https://aclanthology.org/2022.computel-1.23/)</b> <br>
+<b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br> 
+In <i>Proceedings of the Fifth Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>.
+
 <b>Data-driven Crosslinguistic Syntactic Transfer in Second Language Learning</b> <br>
 <b>Zoey Liu</b>, Tiwa Eisape, Emily Prud’hommeaux and Joshua Hartshorne <br> 
 In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society</i>.
@@ -28,10 +32,6 @@ In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society
 <b>Does One Size Fit all in Crosslinguistic Dependency Length Minimization?</b> <br>
 <b>Zoey Liu</b>, Ria Upreti, Mathew A. Kramer and Savithry Namboodiripad <br> 
 In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society</i>.
-
-<b>[Enhancing Documentation of Hupa with Automatic Speech Recognition](https://aclanthology.org/2022.computel-1.23/)</b> <br>
-<b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br> 
-In <i>Proceedings of the Fifth Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>.
 
 <b>Why we need a gradient approach to word order</b> <br>
 Natalia Levshina, Savithry Namboodiripad ...... <b>Zoey Liu</b> ...... Anastasia Panova and Natalia Stoynova <br>
