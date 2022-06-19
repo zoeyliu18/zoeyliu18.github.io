@@ -25,11 +25,11 @@ To appear in <i>Linguistics Vanguard</i>.
 <b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br> 
 In <i>Proceedings of the Fifth Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>.
 
-<b>Data-driven Crosslinguistic Syntactic Transfer in Second Language Learning</b> <br>
+<b>[Data-driven Crosslinguistic Syntactic Transfer in Second Language Learning](https://escholarship.org/content/qt86j2x3t2/qt86j2x3t2.pdf)</b> <br>
 <b>Zoey Liu</b>, Tiwa Eisape, Emily Prud’hommeaux and Joshua Hartshorne <br> 
 In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society</i>.
 
-<b>Does One Size Fit all in Crosslinguistic Dependency Length Minimization?</b> <br>
+<b>[Does One Size Fit all in Crosslinguistic Dependency Length Minimization?](https://escholarship.org/content/qt14j4s1j7/qt14j4s1j7.pdf)</b> <br>
 <b>Zoey Liu</b>, Ria Upreti, Mathew A. Kramer and Savithry Namboodiripad <br> 
 In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society</i>.
 
