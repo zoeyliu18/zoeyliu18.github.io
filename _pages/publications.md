@@ -31,7 +31,7 @@ In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society
 
 <b>[Does One Size Fit all in Crosslinguistic Dependency Length Minimization?](https://escholarship.org/content/qt14j4s1j7/qt14j4s1j7.pdf)</b> <br>
 <b>Zoey Liu</b>, Ria Upreti, Mathew A. Kramer and Savithry Namboodiripad <br> 
-In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society (CogSci)</i>, 2066-2073..
+In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society (CogSci)</i>, 2066-2073.
 
 <b>Why we need a gradient approach to word order</b> <br>
 Natalia Levshina, Savithry Namboodiripad ...... <b>Zoey Liu</b> ...... Anastasia Panova and Natalia Stoynova <br>
