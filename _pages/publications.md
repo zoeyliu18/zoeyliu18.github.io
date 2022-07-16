@@ -104,7 +104,7 @@ In <i>Proceedings of the Society for Computation in Linguistics (SCiL)</i>, 306-
 ---
 <b>[Apparent-talker height is influenced by Mandarin lexical tone](https://asa.scitation.org/doi/10.1121/1.5022156)</b> <br> 
 Santiago Barreda and <b>Zoey Liu</b> <br>
-<i>The Journal of the Acoustical Society of America, EL</i>, EL 143(2), EL61-EL66.
+<i>The Journal of the Acoustical Society of America, EL</i> 143(2), EL61-EL66.
 
 <b>[Syntactic Annotation of a Hupa Text Corpus](https://nas.ucdavis.edu/sites/g/files/dgvnsk7031/files/files/person/Spence%20et%20al.%20DLC%202017%20paper-final.pdf)</b> <br> 
 Justin Spence, <b>Zoey Liu</b>, Kayla Palakurthy, and Tyler Lee-Wynant <br>
