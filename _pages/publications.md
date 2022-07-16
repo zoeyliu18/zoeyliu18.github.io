@@ -38,7 +38,7 @@ Natalia Levshina, Savithry Namboodiripad ...... <b>Zoey Liu</b> ...... Anastasia
 Accepted with revision to <i>Linguistics: An Interdisciplinary Journal of the Language Sciences</i>.
 [copy](https://psyarxiv.com/yg9bf/)
 
-<b>UniMorph 4.0: Universal Morphology</b> <br>
+<b>[UniMorph 4.0: Universal Morphology](https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS3761916&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&fromSitemap=1)</b> <br>
 Khuyagbaatar Batsuren, Omer Goldman ...... <b>Zoey Liu</b> ...... Reut Tsarfaty and Ekaterina Vylomova <br> 
 In <i>The 13th Language Resources and Evaluation Conference</i>.
 
