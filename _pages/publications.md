@@ -19,7 +19,7 @@ In <i>Transactions of the Association for Computational Linguistics (TACL)</i> 1
 
 <b>[<i>Not always about you</i>: Prioritizing community needs when developing endangered language technology](https://aclanthology.org/2022.acl-long.272/)</b> <br>
 <b>Zoey Liu\*</b>, Crystal Richardson\*, Richard Hatcher and Emily Prud'hommeaux <br> 
-In <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics</i>.
+In <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL)</i>, 3933-3944.
 
 <b>[Enhancing Documentation of Hupa with Automatic Speech Recognition](https://aclanthology.org/2022.computel-1.23/)</b> <br>
 <b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br> 
