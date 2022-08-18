@@ -17,6 +17,10 @@ To appear in <i>Linguistics Vanguard</i>.
 <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
 In <i>Transactions of the Association for Computational Linguistics (TACL)</i> 10:393-413.
 
+<b>Evaluating the Performance of Transformer-based Language Models for Neuroatypical Language</b> <br>
+Duanchen Liu, <b>Zoey Liu</b>, Qingyun Yang, Yujing Huang and and Emily Prud'hommeaux <br>
+To appear in <i>Proceedings of the 29th International Conference on Computational Linguistics (COLING)</i>.
+
 <b>[<i>Not always about you</i>: Prioritizing community needs when developing endangered language technology](https://aclanthology.org/2022.acl-long.272/)</b> <br>
 <b>Zoey Liu\*</b>, Crystal Richardson\*, Richard Hatcher and Emily Prud'hommeaux <br> 
 In <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL)</i>, 3933-3944.
