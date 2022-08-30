@@ -8,10 +8,9 @@ author_profile: true
 Cooking
 ----
 
-<b>A Multifactorial Approach to Crosslinguistic Constituent Orderings</b><br>
+<b>[A Multifactorial Approach to Crosslinguistic Constituent Orderings](https://www.researchgate.net/publication/354204297_A_Multifactorial_Approach_to_Crosslinguistic_Constituent_Orderings)</b><br>
 <b>Zoey Liu</b><br>
 To appear in <i>Linguistics Vanguard</i>.
-[copy](https://www.researchgate.net/publication/354204297_A_Multifactorial_Approach_to_Crosslinguistic_Constituent_Orderings)
 
 <b>[Investigating data partitioning strategies for crosslinguistic low-resource ASR evaluation](https://arxiv.org/pdf/2208.12888.pdf)</b><br>
 <b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br>
