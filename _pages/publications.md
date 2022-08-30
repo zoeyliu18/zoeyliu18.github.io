@@ -13,8 +13,12 @@ Cooking
 To appear in <i>Linguistics Vanguard</i>.
 [copy](https://www.researchgate.net/publication/354204297_A_Multifactorial_Approach_to_Crosslinguistic_Constituent_Orderings)
 
+<b>Investigating data partitioning strategies for crosslinguistic low-resource ASR evaluation</b><br>
+<b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br>
+[copy](https://arxiv.org/pdf/2208.12888.pdf)
+
 <b>Evaluating the Performance of Transformer-based Language Models for Neuroatypical Language</b> <br>
-Duanchen Liu, <b>Zoey Liu</b>, Qingyun Yang, Yujing Huang and and Emily Prud'hommeaux <br>
+Duanchen Liu, <b>Zoey Liu</b>, Qingyun Yang, Yujing Huang and Emily Prud'hommeaux <br>
 To appear in <i>Proceedings of the 29th International Conference on Computational Linguistics (COLING)</i>.
 
 <b>Why we need a gradient approach to word order</b> <br>
