@@ -12,7 +12,7 @@ Cooking
 <b>Zoey Liu</b><br>
 To appear in <i>Linguistics Vanguard</i>.
 
-<b>[Investigating data partitioning strategies for crosslinguistic low-resource ASR evaluation](https://arxiv.org/pdf/2208.12888.pdf)</b><br>
+<b>[Investigating data partitioning strategies for crosslinguistic low-resource ASR evaluation](https://arxiv.org/abs/2208.12888)</b><br>
 <b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br>
 
 <b>Evaluating the Performance of Transformer-based Language Models for Neuroatypical Language</b> <br>
