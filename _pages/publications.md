@@ -12,6 +12,9 @@ Cooking
 <b>Zoey Liu</b><br>
 To appear in <i>Linguistics Vanguard</i>.
 
+<b>[Data-driven Parsing Evaluation for Child-Parent Interactions](https://arxiv.org/abs/2209.13778)</b><br>
+<b>Zoey Liu</b> and Emily Prud'hommeaux <br>
+  
 <b>[Investigating data partitioning strategies for crosslinguistic low-resource ASR evaluation](https://arxiv.org/abs/2208.12888)</b><br>
 <b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br>
 
