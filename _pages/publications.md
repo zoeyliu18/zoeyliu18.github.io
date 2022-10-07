@@ -49,7 +49,7 @@ In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society
 <b>Zoey Liu</b>, Ria Upreti, Mathew A. Kramer and Savithry Namboodiripad <br> 
 In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society (CogSci)</i>, 2066-2073.
 
-<b>[UniMorph 4.0: Universal Morphology](https://limo.libis.be/primo-explore/fulldisplay?docid=LIRIAS3761916&context=L&vid=Lirias&search_scope=Lirias&tab=default_tab&fromSitemap=1)</b> <br>
+<b>[UniMorph 4.0: Universal Morphology](https://aclanthology.org/2022.lrec-1.89/)</b> <br>
 Khuyagbaatar Batsuren, Omer Goldman ...... <b>Zoey Liu</b> ...... Reut Tsarfaty and Ekaterina Vylomova <br> 
 In <i>The 13th Language Resources and Evaluation Conference (LREC)</i>, 840-855.
 
