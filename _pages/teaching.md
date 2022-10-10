@@ -5,6 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
+University of Florida
+------
+
+Look [here](https://ufcompling.github.io/teaching/)
+
 University of California, Davis
 ------
 
