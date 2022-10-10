@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Cooking
+See [here](https://ufcompling.github.io/publications/) for a more updated cooking list
 ----
 
 <b>[A Multifactorial Approach to Crosslinguistic Constituent Orderings](https://www.researchgate.net/publication/354204297_A_Multifactorial_Approach_to_Crosslinguistic_Constituent_Orderings)</b><br>
