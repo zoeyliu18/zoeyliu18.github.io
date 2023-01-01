@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Nice to e-meet you! I'm an Assistant Professor in the [Department of Linguistics](https://lin.ufl.edu/) at [University of Florida](https://ufl.edu/), where I lead the [Computational Linguistics Lab](https://ufcompling.github.io). Before that I was a 2021-2023 [Computing Innovation Fellow](https://cccblog.org/2021/07/22/announcing-the-2021-computing-innovation-fellows/) supported by NSF/CRA, and a Postdoctoral Research Fellow in the Department of Computer Science at Boston College. I received my Ph.D. in Linguistics from The University of California, Davis in Summer 2020.
+Nice to e-meet you! I'm an Assistant Professor in the [Department of Linguistics](https://lin.ufl.edu/) at [University of Florida](https://ufl.edu/), where I lead the [Computational Linguistics Lab](https://ufcompling.github.io). Before that I was a 2021-2023 [Computing Innovation Fellow](https://cccblog.org/2021/07/22/announcing-the-2021-computing-innovation-fellows/) supported by NSF/CRA, and a Postdoctoral Research Fellow in the Department of Computer Science at Boston College. I received my Ph.D. in Linguistics from University of California, Davis in Summer 2020.
 
 My research program studies ***variation*** in languages, machines and their intersections. I address related questions from aspects of language typology, language learning and low-resource NLP, along with a non-western mind. The general methodology that I use is a data-driven approach coupled with [The #BenderRule](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/) and methods of number counting at varying degrees of carbon dioxide consumption. 
 
