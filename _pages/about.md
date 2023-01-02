@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Nice to e-meet you! I'm an Assistant Professor of Computational Language Science in the [Department of Linguistics](https://lin.ufl.edu/) at [University of Florida](https://ufl.edu/), where I lead the [Computational Linguistics Lab](https://ufcompling.github.io). 
+Hello! I'm an Assistant Professor of Computational Language Science in the [Department of Linguistics](https://lin.ufl.edu/) at [University of Florida](https://ufl.edu/), where I lead the [Computational Linguistics Lab](https://ufcompling.github.io). 
 
 My research program studies ***variation*** in languages, machines and their intersections. I address related questions from aspects of language typology, language learning and multilingual NLP, along with a non-western mind. The general methodology that I use is a data-driven approach coupled with [The #BenderRule](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/) and methods of number counting at varying degrees of carbon dioxide consumption. 
 
