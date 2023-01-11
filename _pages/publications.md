@@ -18,7 +18,7 @@ See [here](https://ufcompling.github.io/publications/) for a more updated cookin
 ----
 
 <b>The development of dependency length minimization in early child language: A case study of the dative alternation</b><br>
-<b>Zoey Liu</b><br> and Stefanie Wulff
+<b>Zoey Liu</b> and Stefanie Wulff <br>
 To appear in <i>The 2023 International Conference on Dependency Linguistics (Depling)</i>.
 
 <b>[Why we need a gradient approach to word order](https://psyarxiv.com/yg9bf/)</b> <br>
