@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* indicates students, advisees, or mentees
+\* indicates students, advisees, or mentees
 ----
 
 Preprints
