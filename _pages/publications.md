@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-See [here](https://ufcompling.github.io/publications/) for a more updated cooking list
+* indicates students, advisees, or mentees
 ----
 
 Preprints
@@ -20,7 +20,7 @@ Preprints
 2023
 ----
 
-<b>Studying the impact of language model size for low-resource ASR</b></br>
+<b>Studying the impact of language model size for low-resource ASR</b><br>
 <b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br>
 To appear in <i>Proceedings of the 6th Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-6)</i>.
 
@@ -44,11 +44,11 @@ In <i>Linguistics Vanguard</i>.
 In <i>Transactions of the Association for Computational Linguistics (TACL)</i> 10:393-413.
 
 <b>[<i>Not always about you</i>: Prioritizing community needs when developing endangered language technology](https://aclanthology.org/2022.acl-long.272/)</b> <br>
-{<b>Zoey Liu</b>, Crystal Richardson}, Richard Hatcher and Emily Prud'hommeaux <br> 
+{<b>Zoey Liu</b>, Crystal Richardson*}, Richard Hatcher* and Emily Prud'hommeaux <br> 
 In <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL)</i>, 3933-3944.
 
 <b>Evaluating the Performance of Transformer-based Language Models for Neuroatypical Language</b> <br>
-Duanchen Liu, <b>Zoey Liu</b>, Qingyun Yang, Yujing Huang and Emily Prud'hommeaux <br>
+Duanchen Liu*, <b>Zoey Liu</b>, Qingyun Yang*, Yujing Huang and Emily Prud'hommeaux <br>
 In <i>Proceedings of the 29th International Conference on Computational Linguistics (COLING)</i>, 3412-3419.
 
 <b>[Enhancing Documentation of Hupa with Automatic Speech Recognition](https://aclanthology.org/2022.computel-1.23/)</b> <br>
@@ -56,11 +56,11 @@ In <i>Proceedings of the 29th International Conference on Computational Linguist
 In <i>Proceedings of the Fifth Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-5)</i>, 187-192.
 
 <b>[Data-driven Crosslinguistic Syntactic Transfer in Second Language Learning](https://escholarship.org/content/qt86j2x3t2/qt86j2x3t2.pdf)</b> <br>
-<b>Zoey Liu</b>, Tiwa Eisape, Emily Prud’hommeaux and Joshua Hartshorne <br> 
+<b>Zoey Liu</b>, Tiwa Eisape*, Emily Prud’hommeaux and Joshua Hartshorne <br> 
 In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society (CogSci)</i>, 1903-1911.
 
 <b>[Does One Size Fit all in Crosslinguistic Dependency Length Minimization?](https://escholarship.org/content/qt14j4s1j7/qt14j4s1j7.pdf)</b> <br>
-<b>Zoey Liu</b>, Ria Upreti, Mathew A. Kramer and Savithry Namboodiripad <br> 
+<b>Zoey Liu</b>, Ria Upreti*, Mathew A. Kramer* and Savithry Namboodiripad <br> 
 In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society (CogSci)</i>, 2066-2073.
 
 <b>[UniMorph 4.0: Universal Morphology](https://aclanthology.org/2022.lrec-1.89/)</b> <br>
@@ -75,7 +75,7 @@ In <i>The 13th Language Resources and Evaluation Conference (LREC)</i>, 840-855.
 In <i>Proceedings of The Society for Computation in Linguistics (SCiL)</i>, 264-274. 
 
 <b>[Morphological Segmentation for Seneca](https://www.aclweb.org/anthology/2021.americasnlp-1.10/)</b> <br>
-<b>Zoey Liu</b>, Robbie Jimerson and Emily Prud’hommeaux <br>
+<b>Zoey Liu</b>, Robbie Jimerson* and Emily Prud’hommeaux <br>
 In <i>Proceedings of The First Workshop on NLP for Indigenous Languages of the Americas (AmericasNLP)</i>, 90-101.
 
 <b>[Dependency Parsing Evaluation for Low-resource Spontaneous Speech](https://www.aclweb.org/anthology/2021.adaptnlp-1.16/)</b><br>
@@ -91,7 +91,7 @@ William Dyer, Richard Futrell, <b>Zoey Liu</b> and Gregory Scontras <br>
 In <i>Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Findings of ACL)</i>, 957-967.
 
 <b>[Predicting pragmatic discourse features in the language of adults with autism spectrum disorders](https://aclanthology.org/2021.acl-srw.29/)</b><br>
-Christine Yang, Duanchen Liu, Qingyun Yang, <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
+Christine Yang*, Duanchen Liu*, Qingyun Yang*, <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
 In <i>Proceedings of the Student Research Workshop at The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP SRW)</i>, 284-291.
 
 <b>[SIGMORPHON 2021 Shared Task on Morphological Reinflection: Generalization Across Languages](https://aclanthology.org/2021.sigmorphon-1.25/)</b><br>
