@@ -44,7 +44,7 @@ In <i>Linguistics Vanguard</i>.
 In <i>Transactions of the Association for Computational Linguistics (TACL)</i> 10:393-413.
 
 <b>[<i>Not always about you</i>: Prioritizing community needs when developing endangered language technology](https://aclanthology.org/2022.acl-long.272/)</b> <br>
-<b>Zoey Liu\*</b>, Crystal Richardson\*, Richard Hatcher and Emily Prud'hommeaux <br> 
+{<b>Zoey Liu</b>, Crystal Richardson}, Richard Hatcher and Emily Prud'hommeaux <br> 
 In <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL)</i>, 3933-3944.
 
 <b>Evaluating the Performance of Transformer-based Language Models for Neuroatypical Language</b> <br>
