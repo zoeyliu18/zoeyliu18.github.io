@@ -91,7 +91,7 @@ William Dyer, Richard Futrell, <b>Zoey Liu</b> and Gregory Scontras <br>
 In <i>Findings of the Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Findings of ACL)</i>, 957-967.
 
 <b>[Predicting pragmatic discourse features in the language of adults with autism spectrum disorders](https://aclanthology.org/2021.acl-srw.29/)</b><br>
-Christine Yang*, Duanchen Liu*, Qingyun Yang*, <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
+Christine Yang\*, Duanchen Liu\*, Qingyun Yang\*, <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
 In <i>Proceedings of the Student Research Workshop at The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP SRW)</i>, 284-291.
 
 <b>[SIGMORPHON 2021 Shared Task on Morphological Reinflection: Generalization Across Languages](https://aclanthology.org/2021.sigmorphon-1.25/)</b><br>
