@@ -20,9 +20,13 @@ Preprints
 2023
 ----
 
+<b>Studying the impact of language model size for low-resource ASR</br>
+<b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br>
+To appear in <i>Proceedings of the 6th Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-6)</i>.
+
 <b>The development of dependency length minimization in early child language: A case study of the dative alternation</b><br>
 <b>Zoey Liu</b> and Stefanie Wulff <br>
-To appear in <i>The 2023 International Conference on Dependency Linguistics (Depling)</i>.
+To appear in <i>Proceedings of the 2023 International Conference on Dependency Linguistics (Depling)</i>.
 
 <b>[Why we need a gradient approach to word order](https://psyarxiv.com/yg9bf/)</b> <br>
 Natalia Levshina, Savithry Namboodiripad ...... <b>Zoey Liu</b> ...... Anastasia Panova and Natalia Stoynova <br>
