@@ -18,7 +18,7 @@ Preprints
 ----
 
 <b>[Investigating data partitioning strategies for crosslinguistic low-resource ASR evaluation](https://arxiv.org/abs/2208.12888)</b><br>
-<b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br>  
+<b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br>
 To appear in <i>Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL)</i>.
 
 <b>Studying the impact of language model size for low-resource ASR</b><br>
