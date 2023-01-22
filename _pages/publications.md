@@ -13,16 +13,13 @@ Preprints
 
 <b>[Data-driven Parsing Evaluation for Child-Parent Interactions](https://arxiv.org/abs/2209.13778)</b><br>
 <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
-  
-<b>[Investigating data partitioning strategies for crosslinguistic low-resource ASR evaluation](https://arxiv.org/abs/2208.12888)</b><br>
-<b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br>
 
 2023
 ----
 
-<b>Investigating data partitioning strategies for crosslinguistic low-resource ASR evaluation</b><br>
+<b>[Investigating data partitioning strategies for crosslinguistic low-resource ASR evaluation](https://arxiv.org/abs/2208.12888)</b><br>
 <b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br>  
-To appear in \textit{Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL)</i>.
+To appear in <i>Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL)</i>.
 
 <b>Studying the impact of language model size for low-resource ASR</b><br>
 <b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br>
