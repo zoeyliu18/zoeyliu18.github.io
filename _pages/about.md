@@ -11,7 +11,7 @@ redirect_from:
 
 Hello! I'm an Assistant Professor of Computational Language Science in the [Department of Linguistics](https://lin.ufl.edu/) at [University of Florida](https://ufl.edu/), where I lead the [Computational Linguistics Lab](https://ufcompling.github.io). 
 
-Before joining UF, I was a 2021-2023 [Computing Innovation Fellow](https://cccblog.org/2021/07/22/announcing-the-2021-computing-innovation-fellows/) supported by the National Science Foundation and the Computing Research Association, and a Postdoctoral Research Fellow in the Department of Computer Science at Boston College.
+Before joining UF, I was a 2021-2023 [Computing Innovation Fellow](https://cccblog.org/2021/07/22/announcing-the-2021-computing-innovation-fellows/) supported by the National Science Foundation / Computing Research Association, and a Postdoctoral Research Fellow in the Department of Computer Science at Boston College.
 
 My research program studies ***variation*** in languages, machines and their intersections. I address related questions from aspects of language typology, language learning and multilingual NLP, along with a non-western mind. The general methodology that I use is a data-driven approach coupled with [The #BenderRule](https://thegradient.pub/the-benderrule-on-naming-the-languages-we-study-and-why-it-matters/) and methods of number counting at varying degrees of carbon dioxide consumption. 
 
