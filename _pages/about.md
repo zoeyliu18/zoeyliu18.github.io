@@ -26,7 +26,7 @@ Something extra
 2020 - 2022
 ------
 
-During my postdoc, I worked on developing model evaluation methods and language technology for low-resource multilingual NLP, mentored by [Emily Tucker Prud'hommeaux](http://cs.bc.edu/~prudhome/publications.html)..
+During my postdoc, I worked on developing model evaluation methods and language technology for low-resource multilingual NLP, mentored by [Emily Tucker Prud'hommeaux](http://cs.bc.edu/~prudhome/publications.html).
 
 2016 - 2020
 ------
