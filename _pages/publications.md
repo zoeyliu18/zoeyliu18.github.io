@@ -27,7 +27,7 @@ To appear in <i>Proceedings of the 6th Workshop on the Use of Computational Meth
 
 <b>[The development of dependency length minimization in early child language: A case study of the dative alternation](https://aclanthology.org/2023.depling-1.1/)</b><br>
 <b>Zoey Liu</b> and Stefanie Wulff <br>
-To appear in <i>Proceedings of the 2023 International Conference on Dependency Linguistics (Depling)</i>.
+In <i>Proceedings of the Seventh International Conference on Dependency Linguistics (Depling, GURT/SyntaxFest 2023)</i>, 1-8.
 
 <b>[Why we need a gradient approach to word order](https://psyarxiv.com/yg9bf/)</b> <br>
 Natalia Levshina, Savithry Namboodiripad ...... <b>Zoey Liu</b> ...... Anastasia Panova and Natalia Stoynova <br>
