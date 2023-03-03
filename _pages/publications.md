@@ -25,7 +25,7 @@ To appear in <i>Proceedings of the 17th Conference of the European Chapter of th
 <b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br>
 To appear in <i>Proceedings of the 6th Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-6)</i>.
 
-<b>The development of dependency length minimization in early child language: A case study of the dative alternation</b><br>
+<b>[The development of dependency length minimization in early child language: A case study of the dative alternation](https://aclanthology.org/2023.depling-1.1/)</b><br>
 <b>Zoey Liu</b> and Stefanie Wulff <br>
 To appear in <i>Proceedings of the 2023 International Conference on Dependency Linguistics (Depling)</i>.
 
