@@ -86,7 +86,7 @@ author:
 #  location         : "Location"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=lChNEQYAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F5guBTJNfKHJ6cVk1TSdIEDc3X3M2oTtgIp6l0t4DJq6Hp64Y0fiCSTCCw7q4aFZvHfKWX3ec8SJhDKv4zfJDejCPhmjlYbTgE8yUa5-at_nbAyyVpDuwXKR49prUZPQ1zjrgII&user=rea0hJkAAAAJ"
   email            : "liu.ying@ufl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
