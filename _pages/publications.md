@@ -21,7 +21,7 @@ Preprints
 <b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br>
 To appear in <i>Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL)</i>.
 
-<b>Studying the impact of language model size for low-resource ASR</b><br>
+<b>[Studying the impact of language model size for low-resource ASR](https://aclanthology.org/2023.computel-1.11/)</b><br>
 <b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br>
 To appear in <i>Proceedings of the 6th Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-6)</i>.
 
