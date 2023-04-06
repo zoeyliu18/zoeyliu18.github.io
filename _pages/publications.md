@@ -17,6 +17,14 @@ Preprints
 2023
 ----
 
+<b>[Double PP Constituent Ordering Preferences in English Early Child Language]</b><br>
+<b>Zoey Liu</b>, Lauren Lamdar, Stefanie Wulff and Kenji Sagae <br>
+To appear in <i>Proceedings of the 45th Annual Conference of the Cognitive Science Society (CogSci)</i>.
+
+<b>[Re-Evaluating the Evaluation of Neural Morphological Inflection Models]</b><br>
+Jordan Kodner, Salam Khalifa, Sarah Payne and <b>Zoey Liu</b> <br>
+To appear in <i>Proceedings of the 45th Annual Conference of the Cognitive Science Society (CogSci)</i>.
+
 <b>[Investigating data partitioning strategies for crosslinguistic low-resource ASR evaluation](https://arxiv.org/abs/2208.12888)</b><br>
 <b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br>
 To appear in <i>Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL)</i>.
