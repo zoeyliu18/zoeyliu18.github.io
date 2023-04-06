@@ -22,7 +22,7 @@ Preprints
 To appear in <i>Proceedings of the 45th Annual Conference of the Cognitive Science Society (CogSci)</i>.
 
 <b>Re-Evaluating the Evaluation of Neural Morphological Inflection Models</b><br>
-Jordan Kodner, Salam Khalifa, Sarah Payne and <b>Zoey Liu</b> <br>
+Jordan Kodner, Salam Khalifa\*, Sarah Payne\* and <b>Zoey Liu</b> <br>
 To appear in <i>Proceedings of the 45th Annual Conference of the Cognitive Science Society (CogSci)</i>.
 
 <b>[Investigating data partitioning strategies for crosslinguistic low-resource ASR evaluation](https://arxiv.org/abs/2208.12888)</b><br>
