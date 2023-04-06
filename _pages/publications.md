@@ -17,11 +17,11 @@ Preprints
 2023
 ----
 
-<b>[Double PP Constituent Ordering Preferences in English Early Child Language]</b><br>
+<b>Double PP Constituent Ordering Preferences in English Early Child Language</b><br>
 <b>Zoey Liu</b>, Lauren Lamdar, Stefanie Wulff and Kenji Sagae <br>
 To appear in <i>Proceedings of the 45th Annual Conference of the Cognitive Science Society (CogSci)</i>.
 
-<b>[Re-Evaluating the Evaluation of Neural Morphological Inflection Models]</b><br>
+<b>Re-Evaluating the Evaluation of Neural Morphological Inflection Models</b><br>
 Jordan Kodner, Salam Khalifa, Sarah Payne and <b>Zoey Liu</b> <br>
 To appear in <i>Proceedings of the 45th Annual Conference of the Cognitive Science Society (CogSci)</i>.
 
