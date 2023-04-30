@@ -39,7 +39,7 @@ In <i>Proceedings of the Seventh International Conference on Dependency Linguist
 
 <b>[Why we need a gradient approach to word order](https://psyarxiv.com/yg9bf/)</b> <br>
 Natalia Levshina, Savithry Namboodiripad ...... <b>Zoey Liu</b> ...... Anastasia Panova and Natalia Stoynova <br>
-Accepted with revision to <i>Linguistics: An Interdisciplinary Journal of the Language Sciences</i>.
+In <i>Linguistics: An Interdisciplinary Journal of the Language Sciences</i>.
 
 2022
 ----
