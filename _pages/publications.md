@@ -27,7 +27,7 @@ To appear in <i>Proceedings of the 45th Annual Conference of the Cognitive Scien
 
 <b>[Investigating data partitioning strategies for crosslinguistic low-resource ASR evaluation](https://aclanthology.org/2023.eacl-main.10/)</b><br>
 <b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br>
-To appear in <i>Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL)</i>.
+In <i>Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL)</i>, 123-131.
 
 <b>[Studying the impact of language model size for low-resource ASR](https://aclanthology.org/2023.computel-1.11/)</b><br>
 <b>Zoey Liu</b>, Justin Spence and Emily Prud'hommeaux <br>
