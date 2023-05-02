@@ -22,7 +22,7 @@ Jordan Kodner, Sarah Payne\*, Salam Khalifa\* and <b>Zoey Liu</b> <br>
 To appear in <i>Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL)</i>.
 
 <b>An (unhelpful) guide to selecting the best ASR architecture for your under-resourced language</b><br>
-<Robbie Jimerson\*, b>Zoey Liu</b> and Emily Prud’hommeaux <br>
+Robbie Jimerson\*, <b>Zoey Liu</b> and Emily Prud’hommeaux <br>
 To appear in <i>Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL)</i>.
 
 <b>Double PP Constituent Ordering Preferences in English Early Child Language</b><br>
