@@ -2,9 +2,6 @@
 main:
   - title: "Research"
     url: /publications/
-  
-  - title: "Computational Linguistics Lab"
-    url: /https://ufcompling.github.io/
 
   - title: "Teaching"
     url: /teaching/    
