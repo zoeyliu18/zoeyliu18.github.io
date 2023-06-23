@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello! I'm an Assistant Professor of Linguistics in the [Department of Linguistics](https://lin.ufl.edu/) at [University of Florida](https://ufl.edu/), where I lead the [Computational Linguistics Lab](https://ufcompling.github.io). 
+Hello! I'm an Assistant Professor in the [Department of Linguistics](https://lin.ufl.edu/) at [University of Florida](https://ufl.edu/), where I lead the [Computational Linguistics Lab](https://ufcompling.github.io). 
 
 Before joining UF, I was a [2021-2023 Computing Innovation Fellow](https://cccblog.org/2021/07/22/announcing-the-2021-computing-innovation-fellows/) supported by the National Science Foundation / Computing Research Association, and a Postdoctoral Research Fellow in Computer Science at Boston College. I received my Ph.D. in Linguistics from University of California, Davis in 2020; in Summer 2019, I interned as a software developer at the Cognitive Computing Lab at [Baidu](http://research.baidu.com/Index). Before that, I received a B.A. in Translation with honors from [Nankai University](https://en.wikipedia.org/wiki/Nankai_University).
 
