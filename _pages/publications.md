@@ -61,6 +61,9 @@ In <i>Proceedings of the 2023 International Conference on Dependency Linguistics
 Natalia Levshina, Savithry Namboodiripad, ......, <b>Zoey Liu</b>, ......, Anastasia Panova, and Natalia Stoynova <br>
 <i>Linguistics</i> (61)4, 825-883. <br>
 
+2022
+----
+
 [A Multifactorial Approach to Crosslinguistic Constituent Orderings](https://www.degruyter.com/document/doi/10.1515/lingvan-2020-0139/html) <br>
 <b>Zoey Liu</b> <br>
 <i>Linguistics Vanguard</i> 9(s1), 107-120. <br>
@@ -93,6 +96,9 @@ In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society
 Khuyagbaatar Batsuren, Omer Goldman, ......, <b>Zoey Liu</b>, ......, Reut Tsarfaty, Ekaterina Vylomova <br>
 In <i>Proceedings of the Thirteenth Language Resources and Evaluation Conference (LREC)</i>, 840–855. <br>
 
+2021
+----
+
 [The Crosslinguistic Relationship between Ordering Flexibility and Dependency Length Minimization: A Data-Driven Approach](https://scholarworks.umass.edu/scil/vol4/iss1/25/) <br>
 <b>Zoey Liu</b> <br>
 In <i>Proceedings of The Society for Computation in Linguistics (SCiL)</i>, 264-274. <br>
@@ -109,7 +115,6 @@ In <i>Proceedings of the Second Workshop on Domain Adaptation for NLP</i>, 156�
 <b>Zoey Liu</b> and Masoud Jasbi <br>
 In <i>Proceedings of The 43rd Annual Conference of the Cognitive Science Society (CogSci)</i>, 2957-2963. <br>
 
-
 [Predicting cross-linguistic adjective order with information gain](https://aclanthology.org/2021.findings-acl.83/) <br>
 William Dyer, Richard Futrell, <b>Zoey Liu</b>, and Greg Scontras <br>
 In <i>Findings of the Association for Computational Linguistics (ACL-IJCNLP)</i>, 957–967. <br>
@@ -121,6 +126,9 @@ In <i>Proceedings of the 59th Annual Meeting of the Association for Computationa
 [SIGMORPHON 2021 Shared Task on Morphological Reinflection: Generalization Across Languages](https://aclanthology.org/2021.sigmorphon-1.25/) <br>
 Tiago Pimentel, Maria Ryskina, ......, <b>Zoey Liu</b>, ......, Ben Ambridge, Ekaterina Vylomova <br>
 In <i>Proceedings of the 18th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology</i>, 229–259. <br>
+
+2020
+----
 
 [Mixed evidence for crosslinguistic dependency length minimization](https://www.degruyter.com/document/doi/10.1515/stuf-2020-1020/html) <br>
 <b>Zoey Liu</b> <br>
@@ -134,6 +142,8 @@ In <i>Proceedings of the 42nd Annual Conference of the Cognitive Science Society
 Mingming Sun, Wenyue Hua, <b>Zoey Liu</b>, Xin Wang, Kangjie Zheng, and Ping Li <br>
 In <i>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)</i>, 2140–2150. <br>
 
+2019
+----
 
 [A Comparative Corpus Analysis of PP Ordering in English and Chinese](https://aclanthology.org/W19-7905/) <br>
 <b>Zoey Liu</b> <br>
@@ -142,6 +152,9 @@ In <i>Proceedings of the First Workshop on Quantitative Syntax (Quasy)</i>, 33-4
 [Quantifying Structural and Lexical Constraints in PP Ordering Typology](https://scholarworks.umass.edu/scil/vol2/iss1/33/) <br>
 <b>Zoey Liu</b> <br>
 In <i>Proceedings of the Society for Computation in Linguistics</i>: Vol. 2, Article 33. <br>
+
+2018
+----
 
 [Apparent-talker height is influenced by Mandarin lexical tone](https://pubs.aip.org/asa/jasa/article/143/2/EL61/606427/Apparent-talker-height-is-influenced-by-Mandarin) <br>
 Santiago Barreda and <b>Zoey Liu</b> <br>
