@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Compling@UF"
     url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/    
     
   - title: "CV"
     url: /files/zoeyliu-cv.pdf
