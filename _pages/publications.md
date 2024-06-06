@@ -30,7 +30,7 @@ In <i>Proceedings of the 46th Annual Conference of the Cognitive Science Society
 Rob van der Goot, <b>Zoey Liu</b> and Max Müller-Eberstein* <br>
 In <i>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).</i> <br>
 
-[Looking within the self: Investigating the Impact of Data Augmentation with Self-training on Automatic Speech Recognition for Hupa.](https://aclanthology.org/2023.computel-1.11/) <br>
+[Looking within the self: Investigating the Impact of Data Augmentation with Self-training on Automatic Speech Recognition for Hupa.](https://aclanthology.org/2024.computel-1.9/) <br>
 Nitin Venkateswaran* and <b>Zoey Liu</b> <br>
 In <i>Proceedings of the 7th Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-7)</i>, 58-66. <br>
 
