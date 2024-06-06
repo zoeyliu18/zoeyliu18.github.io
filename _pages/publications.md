@@ -10,17 +10,20 @@ author_profile: true
 2024
 ----
 
-Sorry, Fellas: Size does Matter...for LMs in Low-Resource ASR. <br>
-<b>Zoey Liu</b>, Nitin Venkateswaran*, Eric Le Ferrand and Emily Prud'hommeaux. <br>
-In <i>Findings of the Association for Computational Linguistics (Findings of ACL).</i> <br>
-
-
 [The Effect of Data Partitioning Strategy on Model Generalizability: A Case Study of Morphological Segmentation.](https://arxiv.org/abs/2404.09371) <br>
 <b>Zoey Liu</b> and Bonnie J. Dorr <br>
 In <i>Proceedings of the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL).</i> <br>
 
+Sorry, Fellas: Size does Matter...for LMs in Low-Resource ASR. <br>
+<b>Zoey Liu</b>, Nitin Venkateswaran*, Eric Le Ferrand and Emily Prud'hommeaux <br>
+In <i>Findings of the Association for Computational Linguistics (Findings of ACL).</i> <br>
+
+Leveraging Speech Data Diversity to Document Indigenous Heritage and Culture. <br>
+Allahsera Tapo, A., Éric Le Ferrand, <b>Zoey Liu</b>, Christopher Homan, and Emily Prud'hommeaux <br>
+In <i>Proceedings of the Annual Conference of the International Speech Communication Association (Interspeech).</i> <br>
+
 Frequency-Dependent Regularization in Mandarin Elastic Word Length. <br>
-Skyler Jove Reese*, <b>Zoey Liu</b>, Masoud Jasbi and Emily Morgan. <br>
+Skyler Jove Reese*, <b>Zoey Liu</b>, Masoud Jasbi and Emily Morgan <br>
 In <i>Proceedings of the 46th Annual Conference of the Cognitive Science Society (CogSci).</i> <br>
 
 Enough is Enough! A Case Study on the Effect of Data Size for Evaluation Using Universal Dependencies. <br>
