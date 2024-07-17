@@ -35,7 +35,7 @@ Nitin Venkateswaran* and <b>Zoey Liu</b> <br>
 In <i>Proceedings of the 7th Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-7)</i>, 58-66. <br>
 
 [Modeling the Dative Alternation in English Early Child Language](https://openpublishing.library.umass.edu/scil/article/id/2224/) <br>
-Zoey Liu, Haiyin Yang*, Jarrod Cruz* and Stefanie Wulff. <br>
+<b>Zoey Liu</b>, Haiyin Yang*, Jarrod Cruz* and Stefanie Wulff. <br>
 <i>Society for Computation in Linguistics (SCiL) 7(1)</i>, 338–342. <br>
 
 2023
