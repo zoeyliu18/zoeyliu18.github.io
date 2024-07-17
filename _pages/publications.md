@@ -10,7 +10,7 @@ author_profile: true
 2024
 ----
 
-[The Effect of Data Partitioning Strategy on Model Generalizability: A Case Study of Morphological Segmentation.](https://aclanthology.org/2024.naacl-long.157/) <br>
+[The Effect of Data Partitioning Strategy on Model Generalizability: A Case Study of Morphological Segmentation](https://aclanthology.org/2024.naacl-long.157/) <br>
 <b>Zoey Liu</b> and Bonnie J. Dorr <br>
 In <i>Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL)</i>, 2851–2864. <br>
 
@@ -22,15 +22,15 @@ Leveraging Speech Data Diversity to Document Indigenous Heritage and Culture. <b
 Allahsera Tapo, A., Éric Le Ferrand, <b>Zoey Liu</b>, Christopher Homan, and Emily Prud'hommeaux <br>
 In <i>Proceedings of the Annual Conference of the International Speech Communication Association (Interspeech).</i> <br>
 
-[Frequency-Dependent Regularization in Mandarin Elastic Word Length.](https://escholarship.org/uc/item/7x6670f0) <br>
+[Frequency-Dependent Regularization in Mandarin Elastic Word Length](https://escholarship.org/uc/item/7x6670f0) <br>
 Skyler Jove Reese*, <b>Zoey Liu</b>, Masoud Jasbi and Emily Morgan <br>
 In <i>Proceedings of the 46th Annual Conference of the Cognitive Science Society (CogSci)</i>, 3917-3923. <br>
 
-[Enough is Enough! A Case Study on the Effect of Data Size for Evaluation Using Universal Dependencies.](https://aclanthology.org/2024.lrec-main.544/) <br>
+[Enough is Enough! A Case Study on the Effect of Data Size for Evaluation Using Universal Dependencies](https://aclanthology.org/2024.lrec-main.544/) <br>
 Rob van der Goot, <b>Zoey Liu</b> and Max Müller-Eberstein* <br>
 In <i>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</i>,6167–6176. <br>
 
-[Looking within the self: Investigating the Impact of Data Augmentation with Self-training on Automatic Speech Recognition for Hupa.](https://aclanthology.org/2024.computel-1.9/) <br>
+[Looking within the self: Investigating the Impact of Data Augmentation with Self-training on Automatic Speech Recognition for Hupa](https://aclanthology.org/2024.computel-1.9/) <br>
 Nitin Venkateswaran* and <b>Zoey Liu</b> <br>
 In <i>Proceedings of the 7th Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-7)</i>, 58-66. <br>
 
