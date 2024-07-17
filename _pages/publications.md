@@ -10,11 +10,11 @@ author_profile: true
 2024
 ----
 
-[The Effect of Data Partitioning Strategy on Model Generalizability: A Case Study of Morphological Segmentation.](https://arxiv.org/abs/2404.09371) <br>
+[The Effect of Data Partitioning Strategy on Model Generalizability: A Case Study of Morphological Segmentation.](https://aclanthology.org/2024.naacl-long.157/) <br>
 <b>Zoey Liu</b> and Bonnie J. Dorr <br>
-In <i>Proceedings of the 2024 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL).</i> <br>
+In <i>Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL)</i>, 2851–2864. <br>
 
-Sorry, Fellas: Size does Matter...for LMs in Low-Resource ASR. <br>
+How Important is a Language Model for Low-resource ASR? <br>
 <b>Zoey Liu</b>, Nitin Venkateswaran*, Éric Le Ferrand and Emily Prud'hommeaux <br>
 In <i>Findings of the Association for Computational Linguistics (Findings of ACL).</i> <br>
 
@@ -22,17 +22,21 @@ Leveraging Speech Data Diversity to Document Indigenous Heritage and Culture. <b
 Allahsera Tapo, A., Éric Le Ferrand, <b>Zoey Liu</b>, Christopher Homan, and Emily Prud'hommeaux <br>
 In <i>Proceedings of the Annual Conference of the International Speech Communication Association (Interspeech).</i> <br>
 
-Frequency-Dependent Regularization in Mandarin Elastic Word Length. <br>
+[Frequency-Dependent Regularization in Mandarin Elastic Word Length.](https://escholarship.org/uc/item/7x6670f0) <br>
 Skyler Jove Reese*, <b>Zoey Liu</b>, Masoud Jasbi and Emily Morgan <br>
-In <i>Proceedings of the 46th Annual Conference of the Cognitive Science Society (CogSci).</i> <br>
+In <i>Proceedings of the 46th Annual Conference of the Cognitive Science Society (CogSci)</i>, 3917-3923. <br>
 
 [Enough is Enough! A Case Study on the Effect of Data Size for Evaluation Using Universal Dependencies.](https://aclanthology.org/2024.lrec-main.544/) <br>
 Rob van der Goot, <b>Zoey Liu</b> and Max Müller-Eberstein* <br>
-In <i>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024).</i> <br>
+In <i>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</i>,6167–6176. <br>
 
 [Looking within the self: Investigating the Impact of Data Augmentation with Self-training on Automatic Speech Recognition for Hupa.](https://aclanthology.org/2024.computel-1.9/) <br>
 Nitin Venkateswaran* and <b>Zoey Liu</b> <br>
 In <i>Proceedings of the 7th Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-7)</i>, 58-66. <br>
+
+[Modeling the Dative Alternation in English Early Child Language](https://openpublishing.library.umass.edu/scil/article/id/2224/) <br>
+Zoey Liu, Haiyin Yang*, Jarrod Cruz* and Stefanie Wulff. <br>
+<i>Society for Computation in Linguistics (SCiL) 7(1)</i>, 338–342. <br>
 
 2023
 ----
@@ -41,13 +45,17 @@ In <i>Proceedings of the 7th Workshop on the Use of Computational Methods in the
 <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
 <i>Transactions of the Association for Computational Linguistics (TACL)</i>; 11 1734–1753. <br>
 
+[Investigating data partitioning strategies for crosslinguistic low-resource ASR evaluation](https://aclanthology.org/2023.eacl-main.10/) <br>
+<b>Zoey Liu</b>, Justin Spence, and Emily Prud'hommeaux <br>
+In <i>Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL)</i>, 123-131. <br>
+
 [Morphological Inflection: A Reality Check](https://aclanthology.org/2023.acl-long.335/) <br>
 Jordan Kodner, {Sarah Payne\*, Salam Khalifa\*} and <b>Zoey Liu</b> <br>
-In <i>Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)</i>, 6082–6101. <br>
+In <i>Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL)</i>, 6082–6101. <br>
 
 [An (unhelpful) guide to selecting the best ASR architecture for your under-resourced language](https://aclanthology.org/2023.acl-short.87/) <br>
 Robbie Jimerson\*, <b>Zoey Liu</b> and Emily Prud'hommeaux <br>
-In <i>Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)</i>, 1008–1016. <br>
+In <i>Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL)</i>, 1008–1016. <br>
 
 [Double PP Constituent Ordering Preferences in English Early Child Language](https://escholarship.org/content/qt1w65m3fk/qt1w65m3fk.pdf) <br>
 <b>Zoey Liu</b>, Lauren Lamdar\*, Stefanie Wulff and Kenji Sagae <br>
@@ -56,10 +64,6 @@ In <i>Proceedings of the 45th Annual Conference of the Cognitive Science Society
 [Re-Evaluating the Evaluation of Neural Morphological Inflection Models](https://escholarship.org/content/qt4cf1s2dr/qt4cf1s2dr.pdf) <br>
 Jordan Kodner, {Salam Khalifa*, Sarah Payne*} and <b>Zoey Liu</b> <br>
 In <i>Proceedings of the 45th Annual Conference of the Cognitive Science Society (CogSci)</i>, 3259-3267. <br>
-
-[Investigating data partitioning strategies for crosslinguistic low-resource ASR evaluation](https://aclanthology.org/2023.eacl-main.10/) <br>
-<b>Zoey Liu</b>, Justin Spence, and Emily Prud'hommeaux <br>
-In <i>Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics (EACL)</i>, 123-131. <br>
 
 [Studying the impact of language model size for low-resource ASR](https://aclanthology.org/2023.computel-1.11/) <br>
 <b>Zoey Liu</b>, Justin Spence, and Emily Prud'hommeaux <br>
@@ -86,7 +90,7 @@ Natalia Levshina, Savithry Namboodiripad, ......, <b>Zoey Liu</b>, ......, Anast
 
 [Not always about you: Prioritizing community needs when developing endangered language technology](https://aclanthology.org/2022.acl-long.272/) <br>
 {<b>Zoey Liu</b>, Crystal Richardson\*}, Richard Hatcher\*, Emily Prud’hommeaux <br>
-In <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)</i>, 3933-3944. <br>
+In <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL)</i>, 3933-3944. <br>
 
 [Evaluating the Performance of Transformer-based Language Models for Neuroatypical Language](https://aclanthology.org/2022.coling-1.301/) <br>
 Duanchen Liu\*, <b>Zoey Liu</b>, Qingyun Yang\*, Yujing Huang, and Emily Prud’hommeaux <br>
