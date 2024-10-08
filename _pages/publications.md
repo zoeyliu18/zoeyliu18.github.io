@@ -23,7 +23,7 @@ Are modern neural ASR architectures robust for polysynthetic languages? <br>
 To appear in <i>Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP Findings).</i> <br>
 
 Balancing Transparency and Accuracy: A Comparative Analysis of Rule-Based and Deep Learning Models in Political Bias Classification <br> 
-Manuel Nunez Martinez*, Sonja Schmer-Galunder, Zoey Liu, Sangpil Youm*, Chathuri Jayaweera* and Bonnie J. Dorr. <br>
+Manuel Nunez Martinez*, Sonja Schmer-Galunder, <b>Zoey Liu</b>, Sangpil Youm*, Chathuri Jayaweera* and Bonnie J. Dorr. <br>
 To appear in <i>Proceedings of the Social Influence in Conversations (SICon) Workshop.</i> <br>
 
 [Leveraging Speech Data Diversity to Document Indigenous Heritage and Culture](https://www.isca-archive.org/interspeech_2024/tapo24_interspeech.pdf) <br>
