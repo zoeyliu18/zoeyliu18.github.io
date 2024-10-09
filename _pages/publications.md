@@ -19,7 +19,7 @@ In <i>Proceedings of the 2024 Conference of the North American Chapter of the As
 In <i>Findings of the Association for Computational Linguistics (Findings of ACL).</i> <br>
 
 Are modern neural ASR architectures robust for polysynthetic languages? <br>
-Éric Le Ferrand*, <b>Zoey Liu</b>,, Antti Arppe, and Emily Prud'hommeaux <br>
+Éric Le Ferrand, <b>Zoey Liu</b>,, Antti Arppe, and Emily Prud'hommeaux <br>
 To appear in <i>Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP Findings).</i> <br>
 
 Balancing Transparency and Accuracy: A Comparative Analysis of Rule-Based and Deep Learning Models in Political Bias Classification <br> 
