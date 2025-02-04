@@ -10,16 +10,16 @@ author_profile: true
 2025
 ----
 
-[The Development of English Negative Constructions and Communicative Functions] <br> 
+The Development of English Negative Constructions and Communicative Functions <br> 
 <b>Zoey Liu</b> and Masoud Jasbi <br>
 (In press.) <i>Language Learning and Development </i>. <br>
 
-[Evaluating Learning Trajectories of Neural Morphology Acquisition Models] <br> 
-Jordan Kodner, {Sarah Payne\*, Salam Khalifa\*} and Zoey Liu.  
+Evaluating Learning Trajectories of Neural Morphology Acquisition Models <br> 
+Jordan Kodner, {Sarah Payne\*, Salam Khalifa\*} and <b>Zoey Liu</b>.  
 (Accepted.) <i>Linguistics Vanguard </i>. <br>
 
-[Evaluation of Morphological Segmentation Methods for Hupa] <br>
-Nathaniel Parkes\* and Zoey Liu.
+Evaluation of Morphological Segmentation Methods for Hupa <br>
+Nathaniel Parkes\* and <b>Zoey Liu</b>.
 To appear in <i>Proceedings of the Eighth Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-8)</i>. <br>
 
 2024
