@@ -19,7 +19,7 @@ Jordan Kodner, {Sarah Payne\*, Salam Khalifa\*} and <b>Zoey Liu</b>.
 (Accepted.) <i>Linguistics Vanguard </i>. <br>
 
 Evaluation of Morphological Segmentation Methods for Hupa <br>
-Nathaniel Parkes\* and <b>Zoey Liu</b>.
+Nathaniel Parkes\* and <b>Zoey Liu</b> <br>
 To appear in <i>Proceedings of the Eighth Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-8)</i>. <br>
 
 2024
