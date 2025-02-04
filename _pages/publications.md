@@ -7,6 +7,21 @@ author_profile: true
 
 <i>* indicates students, advisees, or mentees</i>
 
+2025
+----
+
+[The Development of English Negative Constructions and Communicative Functions] <br> 
+<b>Zoey Liu</b> and Masoud Jasbi <br>
+(In press.) <i>Language Learning and Development </i>. <br>
+
+[Evaluating Learning Trajectories of Neural Morphology Acquisition Models] <br> 
+Jordan Kodner, {Sarah Payne\*, Salam Khalifa\*} and Zoey Liu.  
+(Accepted.) <i>Linguistics Vanguard </i>. <br>
+
+[Evaluation of Morphological Segmentation Methods for Hupa] <br>
+Nathaniel Parkes\* and Zoey Liu.
+To appear in <i>Proceedings of the Eighth Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-8)</i>. <br>
+
 2024
 ----
 
@@ -16,15 +31,15 @@ In <i>Proceedings of the 2024 Conference of the North American Chapter of the As
 
 [How Important is a Language Model for Low-resource ASR?](https://aclanthology.org/2024.findings-acl.13/) <br>
 <b>Zoey Liu</b>, Nitin Venkateswaran*, Éric Le Ferrand and Emily Prud'hommeaux <br>
-In <i>Findings of the Association for Computational Linguistics (Findings of ACL).</i> <br>
+In <i>Findings of the Association for Computational Linguistics: ACL 2024</i>, 206–213. <br>
 
-Are modern neural ASR architectures robust for polysynthetic languages? <br>
+[Are modern neural ASR architectures robust for polysynthetic languages?](https://aclanthology.org/2024.findings-emnlp.166/) <br>
 Éric Le Ferrand, <b>Zoey Liu</b>,, Antti Arppe, and Emily Prud'hommeaux <br>
-To appear in <i>Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP Findings).</i> <br>
+In <i>Findings of the Association for Computational Linguistics: EMNLP 2024</i>, 2953–2963. <br>
 
-Balancing Transparency and Accuracy: A Comparative Analysis of Rule-Based and Deep Learning Models in Political Bias Classification <br> 
+[Balancing Transparency and Accuracy: A Comparative Analysis of Rule-Based and Deep Learning Models in Political Bias Classification](https://aclanthology.org/2024.sicon-1.7/) <br> 
 Manuel Nunez Martinez\*, Sonja Schmer-Galunder, <b>Zoey Liu</b>, Sangpil Youm*, Chathuri Jayaweera* and Bonnie J. Dorr. <br>
-To appear in <i>Proceedings of the Social Influence in Conversations (SICon) Workshop.</i> <br>
+In <i>Proceedings of the Second Workshop on Social Influence in Conversations (SICon 2024)</i>, 102–115. <br>
 
 [Leveraging Speech Data Diversity to Document Indigenous Heritage and Culture](https://www.isca-archive.org/interspeech_2024/tapo24_interspeech.pdf) <br>
 Allahsera Tapo, A.\*, Éric Le Ferrand, <b>Zoey Liu</b>, Christopher Homan, and Emily Prud'hommeaux <br>
@@ -42,9 +57,9 @@ In <i>Proceedings of the 2024 Joint International Conference on Computational Li
 Nitin Venkateswaran* and <b>Zoey Liu</b> <br>
 In <i>Proceedings of the 7th Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-7)</i>, 58-66. <br>
 
-Towards Cross-Linguistic Semantic Grounding using Dictionary Graph Analysis <br>
+[Towards Cross-Linguistic Semantic Grounding using Dictionary Graph Analysis](https://aclanthology.org/2024.mrl-1.14/) <br>
 Ethan Eschrich* and <b>Zoey Liu</b> <br> 
-To appear in Proceedings of the 4th Multilingual Representation Learning Workshop.
+In <i>Proceedings of the Fourth Workshop on Multilingual Representation Learning (MRL 2024)</i>, 186–188. <br>
 
 [Modeling the Dative Alternation in English Early Child Language](https://openpublishing.library.umass.edu/scil/article/id/2224/) <br>
 <b>Zoey Liu</b>, Haiyin Yang\*, Jarrod Cruz\* and Stefanie Wulff. <br>
