@@ -80,7 +80,7 @@ Natalia Levshina, Savithry Namboodiripad, ......, <b>Zoey Liu</b>, ......, Anast
 
 <b>Zoey Liu</b> and Emily Prud'hommeaux. [Data-driven Model Generalizability in Crosslinguistic Low-resource Morphological Segmentation](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00467/110437/Data-driven-Model-Generalizability-in). <i>Transactions of the Association for Computational Linguistics (TACL)</i> 10:393-413. 
 
-{<b>Zoey Liu</b>, Crystal Richardson\*}, Richard Hatcher\*, Emily Prud’hommeaux [Not always about you: Prioritizing community needs when developing endangered language technology](https://aclanthology.org/2022.acl-long.272/). In <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics</i>, 3933-3944.
+{<b>Zoey Liu</b>, Crystal Richardson}, Richard Hatcher, Emily Prud’hommeaux [Not always about you: Prioritizing community needs when developing endangered language technology](https://aclanthology.org/2022.acl-long.272/). In <i>Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics</i>, 3933-3944.
 
 Duanchen Liu\*, <b>Zoey Liu</b>, Qingyun Yang\*, Yujing Huang, and Emily Prud’hommeaux. [Evaluating the Performance of Transformer-based Language Models for Neuroatypical Language](https://aclanthology.org/2022.coling-1.301/). In <i>Proceedings of the 29th International Conference on Computational Linguistics</i>, 3412--3419. 
 
