@@ -11,31 +11,28 @@ author_profile: true
 ----
 
 <b>Zoey Liu</b>, Haiyin Yang* and Stefanie Wulff. Modeling the Dative Alternation in English Early Child
-Language. (Accepted.) Open Mind.
+Language. (Accepted.) <i>Open Mind</i>.
 
-Jordan Kodner, \{Salam Khalifa, Sarah Payne\} and \textbf{Zoey Liu}. Evaluating Learning Trajectories of Neural Morphology Acquisition Models. (Accepted.)
- \textit{Linguistics Vanguard}
+Jordan Kodner, \{Salam Khalifa, Sarah Payne\} and <b>Zoey Liu</b>. Evaluating Learning Trajectories of Neural Morphology Acquisition Models. (Accepted.) <i>Linguistics Vanguard</i>.
 
 <b>Zoey Liu</b> and Masoud Jasbi. [The Development of English Negative Constructions and Communicative Functions](https://www.tandfonline.com/doi/abs/10.1080/15475441.2025.2468335). <i>Language Learning and Development</i>, 1–35.
 
-The Development of English Negative Constructions and Communicative Functions <br> 
-<b>Zoey Liu</b> and Masoud Jasbi <br>
-(In press.) <i>Language Learning and Development </i>. <br>
+Joshua Higdon*, Valeria Pagliai* and <b>Zoey Liu</b>. [Predictability Effects of Spanish-English Code-Switching: A Directionality and Part of Speech Analysis](https://aclanthology.org/2025.quasy-1.11/). In <i>Proceedings of the Third Workshop on Quantitative Syntax (QUASY, SyntaxFest)</i>,  83–89.
 
-Evaluating Learning Trajectories of Neural Morphology Acquisition Models <br> 
-Jordan Kodner, {Sarah Payne\*, Salam Khalifa\*} and <b>Zoey Liu</b>.  
-(Accepted.) <i>Linguistics Vanguard </i>. <br>
+Xiulin Yang, Zhuoxuan Ju, Lanni Bu, <b>Zoey Liu</b> and Nathan Schneider. [UD-English-CHILDES: A Collected Resource of Gold and Silver Universal Dependencies Trees for Child Language Interactions](https://aclanthology.org/2025.udw-1.6/). In <i>Proceedings of the Eighth Workshop on Universal Dependencies (UDW, SyntaxFest)</i>, 52–58.
 
-Evaluation of Morphological Segmentation Methods for Hupa <br>
-Nathaniel Parkes\* and <b>Zoey Liu</b> <br>
-To appear in <i>Proceedings of the Eighth Workshop on the Use of Computational Methods in the Study of Endangered Languages (ComputEL-8)</i>. <br>
+Haiyin Yang*, <b>Zoey Liu</b> and Stefanie Wulff. [Using NLI to Identify Potential Collocation Transfer in L2 English](https://aclanthology.org/2025.bea-1.49/). In <i>Proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA)</i>, 687–696.
+
+Emiliana Pulido*, Robert Pugh and <b>Zoey Liu</b>. [I Speak for the Árboles: Developing a Dependency Treebank for Spanish L2 and Heritage Speakers](https://aclanthology.org/2025.acl-srw.56/). In <i>Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop)</i>, 814–822
+
+<b>Zoey Liu</b>, Haiyin Yang*, Wenshuo Qin and Joshua Hartshorne. [Studying Cross-linguistic Structural Transfer in Second Language Learning](https://escholarship.org/uc/item/2g87d428). In <i>Proceedings of the 47th Annual Conference of the Cognitive Science Society</i>, 4061-4070.
+
+Nathaniel E. Parkes* and <b>Zoey Liu</b>. [Morphological Segmentation for Hupa](https://aclanthology.org/2025.computel-main.22/). In <i>Proceedings of the Eight Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>, 188–193.
 
 2024
 ----
 
-[The Effect of Data Partitioning Strategy on Model Generalizability: A Case Study of Morphological Segmentation](https://aclanthology.org/2024.naacl-long.157/) <br>
-<b>Zoey Liu</b> and Bonnie J. Dorr <br>
-In <i>Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL)</i>, 2851–2864. <br>
+<b>Zoey Liu</b> and Bonnie J. Dorr. [The Effect of Data Partitioning Strategy on Model Generalizability: A Case Study of Morphological Segmentation](https://aclanthology.org/2024.naacl-long.157/). In <i>Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL)</i>, 2851–2864. <br>
 
 [How Important is a Language Model for Low-resource ASR?](https://aclanthology.org/2024.findings-acl.13/) <br>
 <b>Zoey Liu</b>, Nitin Venkateswaran*, Éric Le Ferrand and Emily Prud'hommeaux <br>
