@@ -17,7 +17,7 @@ Jordan Kodner, \{Salam Khalifa, Sarah Payne} and <b>Zoey Liu</b>. Evaluating Lea
 
 <b>Zoey Liu</b> and Masoud Jasbi. [The Development of English Negative Constructions and Communicative Functions](https://www.tandfonline.com/doi/abs/10.1080/15475441.2025.2468335). <i>Language Learning and Development</i>, 1–35.
 
-Joshua Higdon*, Valeria Pagliai* and <b>Zoey Liu</b>. [Predictability Effects of Spanish-English Code-Switching: A Directionality and Part of Speech Analysis](https://aclanthology.org/2025.quasy-1.11/). In <i>Proceedings of the Third Workshop on Quantitative Syntax (QUASY, SyntaxFest)</i>,  83–89.
+Joshua Higdon\*, Valeria Pagliai\* and <b>Zoey Liu</b>. [Predictability Effects of Spanish-English Code-Switching: A Directionality and Part of Speech Analysis](https://aclanthology.org/2025.quasy-1.11/). In <i>Proceedings of the Third Workshop on Quantitative Syntax (QUASY, SyntaxFest)</i>,  83–89.
 
 Xiulin Yang, Zhuoxuan Ju, Lanni Bu, <b>Zoey Liu</b> and Nathan Schneider. [UD-English-CHILDES: A Collected Resource of Gold and Silver Universal Dependencies Trees for Child Language Interactions](https://aclanthology.org/2025.udw-1.6/). In <i>Proceedings of the Eighth Workshop on Universal Dependencies (UDW, SyntaxFest)</i>, 52–58.
 
