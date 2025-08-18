@@ -10,7 +10,7 @@ author_profile: true
 2025
 ----
 
-<b>Zoey Liu</b>, Haiyin Yang* and Stefanie Wulff. Modeling the Dative Alternation in English Early Child
+<b>Zoey Liu</b>, Haiyin Yang\* and Stefanie Wulff. Modeling the Dative Alternation in English Early Child
 Language. (Accepted). <i>Open Mind</i>.
 
 Jordan Kodner, \{Salam Khalifa, Sarah Payne} and <b>Zoey Liu</b>. Evaluating Learning Trajectories of Neural Morphology Acquisition Models. (Accepted). <i>Linguistics Vanguard</i>.
@@ -21,20 +21,20 @@ Joshua Higdon\*, Valeria Pagliai\* and <b>Zoey Liu</b>. [Predictability Effects 
 
 Xiulin Yang, Zhuoxuan Ju, Lanni Bu, <b>Zoey Liu</b> and Nathan Schneider. [UD-English-CHILDES: A Collected Resource of Gold and Silver Universal Dependencies Trees for Child Language Interactions](https://aclanthology.org/2025.udw-1.6/). In <i>Proceedings of the Eighth Workshop on Universal Dependencies (UDW, SyntaxFest)</i>, 52–58.
 
-Haiyin Yang*, <b>Zoey Liu</b> and Stefanie Wulff. [Using NLI to Identify Potential Collocation Transfer in L2 English](https://aclanthology.org/2025.bea-1.49/). In <i>Proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA)</i>, 687–696.
+Haiyin Yang\*, <b>Zoey Liu</b> and Stefanie Wulff. [Using NLI to Identify Potential Collocation Transfer in L2 English](https://aclanthology.org/2025.bea-1.49/). In <i>Proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA)</i>, 687–696.
 
-Emiliana Pulido*, Robert Pugh and <b>Zoey Liu</b>. [I Speak for the Árboles: Developing a Dependency Treebank for Spanish L2 and Heritage Speakers](https://aclanthology.org/2025.acl-srw.56/). In <i>Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop)</i>, 814–822
+Emiliana Pulido\*, Robert Pugh and <b>Zoey Liu</b>. [I Speak for the Árboles: Developing a Dependency Treebank for Spanish L2 and Heritage Speakers](https://aclanthology.org/2025.acl-srw.56/). In <i>Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop)</i>, 814–822
 
-<b>Zoey Liu</b>, Haiyin Yang*, Wenshuo Qin and Joshua Hartshorne. [Studying Cross-linguistic Structural Transfer in Second Language Learning](https://escholarship.org/uc/item/2g87d428). In <i>Proceedings of the 47th Annual Conference of the Cognitive Science Society</i>, 4061-4070.
+<b>Zoey Liu</b>, Haiyin Yang\*, Wenshuo Qin and Joshua Hartshorne. [Studying Cross-linguistic Structural Transfer in Second Language Learning](https://escholarship.org/uc/item/2g87d428). In <i>Proceedings of the 47th Annual Conference of the Cognitive Science Society</i>, 4061-4070.
 
-Nathaniel E. Parkes* and <b>Zoey Liu</b>. [Morphological Segmentation for Hupa](https://aclanthology.org/2025.computel-main.22/). In <i>Proceedings of the Eight Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>, 188–193.
+Nathaniel E. Parkes\* and <b>Zoey Liu</b>. [Morphological Segmentation for Hupa](https://aclanthology.org/2025.computel-main.22/). In <i>Proceedings of the Eight Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>, 188–193.
 
 2024
 ----
 
 <b>Zoey Liu</b> and Bonnie J. Dorr. [The Effect of Data Partitioning Strategy on Model Generalizability: A Case Study of Morphological Segmentation](https://aclanthology.org/2024.naacl-long.157/). In <i>Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)</i>, 2851–2864.
 
-<b>Zoey Liu</b>, Nitin Venkateswaran*, Éric Le Ferrand and Emily Prud'hommeaux. [How Important is a Language Model for Low-resource ASR?](https://aclanthology.org/2024.findings-acl.13/). In <i>Findings of the Association for Computational Linguistics</i>, 206–213.
+<b>Zoey Liu</b>, Nitin Venkateswaran\*, Éric Le Ferrand and Emily Prud'hommeaux. [How Important is a Language Model for Low-resource ASR?](https://aclanthology.org/2024.findings-acl.13/). In <i>Findings of the Association for Computational Linguistics</i>, 206–213.
 
 Éric Le Ferrand, <b>Zoey Liu</b>,, Antti Arppe, and Emily Prud'hommeaux. [Are modern neural ASR architectures robust for polysynthetic languages?](https://aclanthology.org/2024.findings-emnlp.166/). In <i>Findings of the 2024 Conference on Empirical Methods in Natural Language Processing</i>, 2953–2963. 
 
@@ -46,9 +46,9 @@ Skyler Jove Reese, <b>Zoey Liu</b>, Masoud Jasbi and Emily Morgan. [Frequency-De
 
 Rob van der Goot, <b>Zoey Liu</b> and Max Müller-Eberstein. [Enough is Enough! A Case Study on the Effect of Data Size for Evaluation Using Universal Dependencies](https://aclanthology.org/2024.lrec-main.544/). In <i>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</i>, 6167–6176.
 
-Nitin Venkateswaran* and <b>Zoey Liu</b>. [Looking within the self: Investigating the Impact of Data Augmentation with Self-training on Automatic Speech Recognition for Hupa](https://aclanthology.org/2024.computel-1.9/). In <i>Proceedings of the 7th Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>, 58-66.
+Nitin Venkateswaran\* and <b>Zoey Liu</b>. [Looking within the self: Investigating the Impact of Data Augmentation with Self-training on Automatic Speech Recognition for Hupa](https://aclanthology.org/2024.computel-1.9/). In <i>Proceedings of the 7th Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>, 58-66.
 
-Ethan Eschrich* and <b>Zoey Liu</b>. [Towards Cross-Linguistic Semantic Grounding using Dictionary Graph Analysis](https://aclanthology.org/2024.mrl-1.14/). In <i>Proceedings of the Fourth Workshop on Multilingual Representation Learning</i>, 186–188.
+Ethan Eschrich\* and <b>Zoey Liu</b>. [Towards Cross-Linguistic Semantic Grounding using Dictionary Graph Analysis](https://aclanthology.org/2024.mrl-1.14/). In <i>Proceedings of the Fourth Workshop on Multilingual Representation Learning</i>, 186–188.
 
 <b>Zoey Liu</b>, Haiyin Yang\*, Jarrod Cruz\* and Stefanie Wulff. [Modeling the Dative Alternation in English Early Child Language](https://openpublishing.library.umass.edu/scil/article/id/2224/). In <i>Proceedings of the Society for Computation in Linguistics</i> 7(1), 338–342.
 
@@ -86,9 +86,9 @@ Duanchen Liu\*, <b>Zoey Liu</b>, Qingyun Yang\*, Yujing Huang, and Emily Prud’
 
 <b>Zoey Liu</b>, Justin Spence, Emily Prud’hommeaux. [Enhancing Documentation of Hupa with Automatic Speech Recognition](https://aclanthology.org/2022.computel-1.23/). In <i>Proceedings of the Fifth Workshop on the Use of Computational Methods in the Study of Endangered Languages</i>, 187–192.
 
-<b>Zoey Liu</b>, Tiwa Eisape\*, Emily Prud’hommeaux and Joshua Hartshorne. [Data-driven Crosslinguistic Syntactic Transfer in Second Language Learning](https://escholarship.org/content/qt86j2x3t2/qt86j2x3t2.pdf). In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society</i>, 1903-1911.
+<b>Zoey Liu</b>, Tiwa Eisape, Emily Prud’hommeaux and Joshua Hartshorne. [Data-driven Crosslinguistic Syntactic Transfer in Second Language Learning](https://escholarship.org/content/qt86j2x3t2/qt86j2x3t2.pdf). In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society</i>, 1903-1911.
 
-<b>Zoey Liu</b>, Ria Upreti\*, Mathew A. Kramer* and Savithry Namboodiripad. [Does One Size Fit all in Crosslinguistic Dependency Length Minimization?](https://escholarship.org/content/qt14j4s1j7/qt14j4s1j7.pdf). In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society</i>, 2066-2073. 
+<b>Zoey Liu</b>, Ria Upreti, Mathew A. Kramer and Savithry Namboodiripad. [Does One Size Fit all in Crosslinguistic Dependency Length Minimization?](https://escholarship.org/content/qt14j4s1j7/qt14j4s1j7.pdf). In <i>Proceedings of the 44th Annual Conference of the Cognitive Science Society</i>, 2066-2073. 
 
 Khuyagbaatar Batsuren, Omer Goldman, ......, <b>Zoey Liu</b>, ......, Reut Tsarfaty, Ekaterina Vylomova. [UniMorph 4.0: Universal Morphology](https://aclanthology.org/2022.lrec-1.89/). In <i>Proceedings of the Thirteenth Language Resources and Evaluation Conference</i>, 840–855.
 
