@@ -5,13 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-<i>* indicates students, advisees, or mentees</i>
+<i>* indicates my advisees, mentees, or students.</i>
 
 2025
 ----
 
 <b>Zoey Liu</b>, Haiyin Yang* and Stefanie Wulff. Modeling the Dative Alternation in English Early Child
 Language. (Accepted.) Open Mind.
+
+Jordan Kodner, \{Salam Khalifa, Sarah Payne\} and \textbf{Zoey Liu}. Evaluating Learning Trajectories of Neural Morphology Acquisition Models. (Accepted.)
+ \textit{Linguistics Vanguard}
 
 <b>Zoey Liu</b> and Masoud Jasbi. [The Development of English Negative Constructions and Communicative Functions](https://www.tandfonline.com/doi/abs/10.1080/15475441.2025.2468335). <i>Language Learning and Development</i>, 1–35.
 
