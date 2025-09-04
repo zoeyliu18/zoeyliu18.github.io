@@ -10,12 +10,14 @@ author_profile: true
 2025
 ----
 
-<b>Zoey Liu</b>, Haiyin Yang\* and Stefanie Wulff. Modeling the Dative Alternation in English Early Child
-Language. (Accepted). <i>Open Mind</i>.
+<b>Zoey Liu</b>, Haiyin Yang\* and Stefanie Wulff. [Modeling the Dative Alternation in English Early Child
+Language](https://direct.mit.edu/opmi/article/doi/10.1162/opmi.a.10/132755/Modeling-the-Dative-Alternation-in-English-Early). (Accepted). <i>Open Mind</i> 9 1066–1097.
+
+<b>Zoey Liu</b> and Masoud Jasbi. [The Development of English Negative Constructions and Communicative Functions](https://www.tandfonline.com/doi/abs/10.1080/15475441.2025.2468335). <i>Language Learning and Development</i>, 1–35.
 
 Jordan Kodner, \{Salam Khalifa, Sarah Payne} and <b>Zoey Liu</b>. Evaluating Learning Trajectories of Neural Morphology Acquisition Models. (Accepted). <i>Linguistics Vanguard</i>.
 
-<b>Zoey Liu</b> and Masoud Jasbi. [The Development of English Negative Constructions and Communicative Functions](https://www.tandfonline.com/doi/abs/10.1080/15475441.2025.2468335). <i>Language Learning and Development</i>, 1–35.
+<b>Zoey Liu</b>, Masoud Jasbi, Christan Grant, Kenji Sagae and Emily Prud'hommeaux. What data should I include in my POS tagging training set? To appear in <i>Findings of the Association for Computational Linguistics: EMNLP 2025</i>.
 
 Joshua Higdon\*, Valeria Pagliai\* and <b>Zoey Liu</b>. [Predictability Effects of Spanish-English Code-Switching: A Directionality and Part of Speech Analysis](https://aclanthology.org/2025.quasy-1.11/). In <i>Proceedings of the Third Workshop on Quantitative Syntax (QUASY, SyntaxFest)</i>,  83–89.
 
